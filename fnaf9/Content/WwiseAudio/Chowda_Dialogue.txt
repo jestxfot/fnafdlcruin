@@ -1,0 +1,949 @@
+Event	ID	Name			Wwise Object Path	Notes
+	21445985	CASSIE_00126b			\Chowda\Dialogue\Cassie\CASSIE_00126b	
+	55001163	CASSIE_00124b			\Chowda\Dialogue\Cassie\CASSIE_00124b	
+	88556333	CASSIE_00122b			\Chowda\Dialogue\Cassie\CASSIE_00122b	
+	88556334	CASSIE_00122a			\Chowda\Dialogue\Cassie\CASSIE_00122a	
+	88703367	CASSIE_00118a			\Chowda\Dialogue\Cassie\CASSIE_00118a	
+	92354318	GRIMIC_00096b			\Chowda\Dialogue\Grimic\GRIMIC_00096b	
+	125909744	GRIMIC_00094b			\Chowda\Dialogue\Grimic\GRIMIC_00094b	
+	142687303	GRIMIC_00095b			\Chowda\Dialogue\Grimic\GRIMIC_00095b	
+	194152858	GRIMIC_00022e			\Chowda\Dialogue\Grimic\GRIMIC_00022e	
+	194152859	GRIMIC_00022d			\Chowda\Dialogue\Grimic\GRIMIC_00022d	
+	194152860	GRIMIC_00022c			\Chowda\Dialogue\Grimic\GRIMIC_00022c	
+	194152861	GRIMIC_00022b			\Chowda\Dialogue\Grimic\GRIMIC_00022b	
+	194152862	GRIMIC_00022a			\Chowda\Dialogue\Grimic\GRIMIC_00022a	
+	210930672	GRIMIC_00021b			\Chowda\Dialogue\Grimic\GRIMIC_00021b	
+	280310769	CASSIE_00004a			\Chowda\Dialogue\Cassie\CASSIE_00004a	
+	408770965	Play_MONTY_00003_DLC			\Chowda\Dialogue\Monty\Play_MONTY_00003_DLC	
+	531283376	CASSIE_00043a			\Chowda\Dialogue\Cassie\CASSIE_00043a	
+	565677195	CASSIE_00019a			\Chowda\Dialogue\Cassie\CASSIE_00019a	
+	565824480	CASSIE_00021a			\Chowda\Dialogue\Cassie\CASSIE_00021a	
+	565824482	CASSIE_00021c			\Chowda\Dialogue\Cassie\CASSIE_00021c	
+	565824483	CASSIE_00021b			\Chowda\Dialogue\Cassie\CASSIE_00021b	
+	598393980	CASSIE_00047a			\Chowda\Dialogue\Cassie\CASSIE_00047a	
+	599379654	CASSIE_00027a			\Chowda\Dialogue\Cassie\CASSIE_00027a	
+	609958516	ENTITY_00001			\Chowda\Dialogue\DLCRabbit\ENTITY_00001	
+	740501820	Play_MONTY_00002_DLC			\Chowda\Dialogue\Monty\Play_MONTY_00002_DLC	
+	852297133	RN_ROXY_00027alt			\Chowda\Dialogue\Roxy\RN_ROXY_00027alt	
+	860402585	GRIMIC_00097_alt			\Chowda\Dialogue\Grimic\GRIMIC_00097_alt	
+	862489353	RN_ENTITY_00001			\Default Work Unit\RN_ENTITY_00001	
+	978392861	RN_WALKIE_00001			\Default Work Unit\RN_WALKIE_00001	
+	1006753322	RN_CHICA_00025_01			\Chowda\Dialogue\Chica\RN_CHICA_00025_01	
+	1008216015	RN_MONTY_00001			\Default Work Unit\RN_MONTY_00001	
+	1094678016	GRIMIC_68_to_81_General_Random			\Chowda\Dialogue\Grimic\GRIMIC_68_to_81_General_Random	
+	1120699540	RN_GREGORY_00008			\Chowda\Dialogue\Gregory\RN_GREGORY_00008	
+	1120699541	RN_GREGORY_00009			\Chowda\Dialogue\Gregory\RN_GREGORY_00009	
+	1120699544	RN_GREGORY_00004			\Chowda\Dialogue\Gregory\RN_GREGORY_00004	
+	1120699545	RN_GREGORY_00005			\Chowda\Dialogue\Gregory\RN_GREGORY_00005	
+	1120699546	RN_GREGORY_00006			\Chowda\Dialogue\Gregory\RN_GREGORY_00006	
+	1120699547	RN_GREGORY_00007			\Chowda\Dialogue\Gregory\RN_GREGORY_00007	
+	1120699549	RN_GREGORY_00001			\Chowda\Dialogue\Gregory\RN_GREGORY_00001	
+	1120699550	RN_GREGORY_00002			\Chowda\Dialogue\Gregory\RN_GREGORY_00002	
+	1120699551	RN_GREGORY_00003			\Chowda\Dialogue\Gregory\RN_GREGORY_00003	
+	1137477131	RN_GREGORY_00014			\Chowda\Dialogue\Gregory\RN_GREGORY_00014	
+	1137477132	RN_GREGORY_00013			\Chowda\Dialogue\Gregory\RN_GREGORY_00013	
+	1137477133	RN_GREGORY_00012			\Chowda\Dialogue\Gregory\RN_GREGORY_00012	
+	1137477134	RN_GREGORY_00011			\Chowda\Dialogue\Gregory\RN_GREGORY_00011	
+	1137477135	RN_GREGORY_00010			\Chowda\Dialogue\Gregory\RN_GREGORY_00010	
+	1303780752	Play_MONTY_00028_DLC			\Chowda\Dialogue\Monty\Play_MONTY_00028_DLC	
+	1584897575	CANDY_00003a			\Chowda\Dialogue\CandyCadet\CANDY_00003a	
+	1641772986	RN_CHICA_00001			\Default Work Unit\RN_CHICA_00001	
+	1868552521	RN_ROXY_00023a			\Chowda\Dialogue\Roxy\RN_ROXY_00023a	
+	1932028756	CASSIE_00088			\Chowda\Dialogue\Cassie\CASSIE_00088	
+	1932028757	CASSIE_00089			\Chowda\Dialogue\Cassie\CASSIE_00089	
+	1932028760	CASSIE_00084			\Chowda\Dialogue\Cassie\CASSIE_00084	
+	1932028761	CASSIE_00085			\Chowda\Dialogue\Cassie\CASSIE_00085	
+	1932028762	CASSIE_00086			\Chowda\Dialogue\Cassie\CASSIE_00086	
+	1932028763	CASSIE_00087			\Chowda\Dialogue\Cassie\CASSIE_00087	
+	1932028764	CASSIE_00080			\Chowda\Dialogue\Cassie\CASSIE_00080	
+	1932028765	CASSIE_00081			\Chowda\Dialogue\Cassie\CASSIE_00081	
+	1932028766	CASSIE_00082			\Chowda\Dialogue\Cassie\CASSIE_00082	
+	1932028767	CASSIE_00083			\Chowda\Dialogue\Cassie\CASSIE_00083	
+	1948806342	CASSIE_00099			\Chowda\Dialogue\Cassie\CASSIE_00099	
+	1948806343	CASSIE_00098			\Chowda\Dialogue\Cassie\CASSIE_00098	
+	1948806344	CASSIE_00097			\Chowda\Dialogue\Cassie\CASSIE_00097	
+	1948806345	CASSIE_00096			\Chowda\Dialogue\Cassie\CASSIE_00096	
+	1948806346	CASSIE_00095			\Chowda\Dialogue\Cassie\CASSIE_00095	
+	1948806347	CASSIE_00094			\Chowda\Dialogue\Cassie\CASSIE_00094	
+	1948806348	CASSIE_00093			\Chowda\Dialogue\Cassie\CASSIE_00093	
+	1948806349	CASSIE_00092			\Chowda\Dialogue\Cassie\CASSIE_00092	
+	1948806350	CASSIE_00091			\Chowda\Dialogue\Cassie\CASSIE_00091	
+	1948806351	CASSIE_00090			\Chowda\Dialogue\Cassie\CASSIE_00090	
+	1972175219	GRIMIC_00099_alt			\Chowda\Dialogue\Grimic\GRIMIC_00099_alt	
+	1999139200	CASSIE_00048			\Chowda\Dialogue\Cassie\CASSIE_00048	
+	1999139201	CASSIE_00049			\Chowda\Dialogue\Cassie\CASSIE_00049	
+	1999139208	CASSIE_00040			\Chowda\Dialogue\Cassie\CASSIE_00040	
+	1999139209	CASSIE_00041			\Chowda\Dialogue\Cassie\CASSIE_00041	
+	1999139210	CASSIE_00042			\Chowda\Dialogue\Cassie\CASSIE_00042	
+	1999139211	CASSIE_00043			\Chowda\Dialogue\Cassie\CASSIE_00043	
+	1999139212	CASSIE_00044			\Chowda\Dialogue\Cassie\CASSIE_00044	
+	1999139213	CASSIE_00045			\Chowda\Dialogue\Cassie\CASSIE_00045	
+	1999139214	CASSIE_00046			\Chowda\Dialogue\Cassie\CASSIE_00046	
+	1999139215	CASSIE_00047			\Chowda\Dialogue\Cassie\CASSIE_00047	
+	2015916914	CASSIE_00059			\Chowda\Dialogue\Cassie\CASSIE_00059	
+	2015916915	CASSIE_00058			\Chowda\Dialogue\Cassie\CASSIE_00058	
+	2015916920	CASSIE_00053			\Chowda\Dialogue\Cassie\CASSIE_00053	
+	2015916921	CASSIE_00052			\Chowda\Dialogue\Cassie\CASSIE_00052	
+	2015916922	CASSIE_00051			\Chowda\Dialogue\Cassie\CASSIE_00051	
+	2015916923	CASSIE_00050			\Chowda\Dialogue\Cassie\CASSIE_00050	
+	2015916924	CASSIE_00057			\Chowda\Dialogue\Cassie\CASSIE_00057	
+	2015916925	CASSIE_00056			\Chowda\Dialogue\Cassie\CASSIE_00056	
+	2015916926	CASSIE_00055			\Chowda\Dialogue\Cassie\CASSIE_00055	
+	2015916927	CASSIE_00054			\Chowda\Dialogue\Cassie\CASSIE_00054	
+	2030117080	ECLIPSE_00001			\Chowda\Dialogue\Eclipse\ECLIPSE_00001	
+	2030117082	ECLIPSE_00003			\Chowda\Dialogue\Eclipse\ECLIPSE_00003	
+	2030117083	ECLIPSE_00002			\Chowda\Dialogue\Eclipse\ECLIPSE_00002	
+	2032694502	CASSIE_00068			\Chowda\Dialogue\Cassie\CASSIE_00068	
+	2032694503	CASSIE_00069			\Chowda\Dialogue\Cassie\CASSIE_00069	
+	2032694504	CASSIE_00066			\Chowda\Dialogue\Cassie\CASSIE_00066	
+	2032694505	CASSIE_00067			\Chowda\Dialogue\Cassie\CASSIE_00067	
+	2032694506	CASSIE_00064			\Chowda\Dialogue\Cassie\CASSIE_00064	
+	2032694507	CASSIE_00065			\Chowda\Dialogue\Cassie\CASSIE_00065	
+	2032694508	CASSIE_00062			\Chowda\Dialogue\Cassie\CASSIE_00062	
+	2032694509	CASSIE_00063			\Chowda\Dialogue\Cassie\CASSIE_00063	
+	2032694510	CASSIE_00060			\Chowda\Dialogue\Cassie\CASSIE_00060	
+	2032694511	CASSIE_00061			\Chowda\Dialogue\Cassie\CASSIE_00061	
+	2049472064	CASSIE_00071			\Chowda\Dialogue\Cassie\CASSIE_00071	
+	2049472065	CASSIE_00070			\Chowda\Dialogue\Cassie\CASSIE_00070	
+	2049472066	CASSIE_00073			\Chowda\Dialogue\Cassie\CASSIE_00073	
+	2049472067	CASSIE_00072			\Chowda\Dialogue\Cassie\CASSIE_00072	
+	2049472068	CASSIE_00075			\Chowda\Dialogue\Cassie\CASSIE_00075	
+	2049472069	CASSIE_00074			\Chowda\Dialogue\Cassie\CASSIE_00074	
+	2049472071	CASSIE_00076			\Chowda\Dialogue\Cassie\CASSIE_00076	
+	2066249776	CASSIE_00004			\Chowda\Dialogue\Cassie\CASSIE_00004	
+	2066249777	CASSIE_00005			\Chowda\Dialogue\Cassie\CASSIE_00005	
+	2066249778	CASSIE_00006			\Chowda\Dialogue\Cassie\CASSIE_00006	
+	2066249779	CASSIE_00007			\Chowda\Dialogue\Cassie\CASSIE_00007	
+	2066249781	CASSIE_00001			\Chowda\Dialogue\Cassie\CASSIE_00001	
+	2066249782	CASSIE_00002			\Chowda\Dialogue\Cassie\CASSIE_00002	
+	2066249783	CASSIE_00003			\Chowda\Dialogue\Cassie\CASSIE_00003	
+	2066249788	CASSIE_00008			\Chowda\Dialogue\Cassie\CASSIE_00008	
+	2066249789	CASSIE_00009			\Chowda\Dialogue\Cassie\CASSIE_00009	
+	2066396842	CASSIE_00161			\Chowda\Dialogue\Cassie\CASSIE_00161	
+	2066396843	CASSIE_00160			\Chowda\Dialogue\Cassie\CASSIE_00160	
+	2083027360	CASSIE_00017			\Chowda\Dialogue\Cassie\CASSIE_00017	
+	2083027361	CASSIE_00016			\Chowda\Dialogue\Cassie\CASSIE_00016	
+	2083027362	CASSIE_00015			\Chowda\Dialogue\Cassie\CASSIE_00015	
+	2083027363	CASSIE_00014			\Chowda\Dialogue\Cassie\CASSIE_00014	
+	2083027364	CASSIE_00013			\Chowda\Dialogue\Cassie\CASSIE_00013	
+	2083027365	CASSIE_00012			\Chowda\Dialogue\Cassie\CASSIE_00012	
+	2083027366	CASSIE_00011			\Chowda\Dialogue\Cassie\CASSIE_00011	
+	2083027367	CASSIE_00010			\Chowda\Dialogue\Cassie\CASSIE_00010	
+	2083027374	CASSIE_00019			\Chowda\Dialogue\Cassie\CASSIE_00019	
+	2083027375	CASSIE_00018			\Chowda\Dialogue\Cassie\CASSIE_00018	
+	2083174422	CASSIE_00158			\Chowda\Dialogue\Cassie\CASSIE_00158	
+	2083174423	CASSIE_00159			\Chowda\Dialogue\Cassie\CASSIE_00159	
+	2083174424	CASSIE_00156			\Chowda\Dialogue\Cassie\CASSIE_00156	
+	2083174425	CASSIE_00157			\Chowda\Dialogue\Cassie\CASSIE_00157	
+	2083174426	CASSIE_00154			\Chowda\Dialogue\Cassie\CASSIE_00154	
+	2083174427	CASSIE_00155			\Chowda\Dialogue\Cassie\CASSIE_00155	
+	2083174428	CASSIE_00152			\Chowda\Dialogue\Cassie\CASSIE_00152	
+	2083174429	CASSIE_00153			\Chowda\Dialogue\Cassie\CASSIE_00153	
+	2083174430	CASSIE_00150			\Chowda\Dialogue\Cassie\CASSIE_00150	
+	2083174431	CASSIE_00151			\Chowda\Dialogue\Cassie\CASSIE_00151	
+	2099804946	CASSIE_00028			\Chowda\Dialogue\Cassie\CASSIE_00028	
+	2099804947	CASSIE_00029			\Chowda\Dialogue\Cassie\CASSIE_00029	
+	2099804952	CASSIE_00022			\Chowda\Dialogue\Cassie\CASSIE_00022	
+	2099804953	CASSIE_00023			\Chowda\Dialogue\Cassie\CASSIE_00023	
+	2099804954	CASSIE_00020			\Chowda\Dialogue\Cassie\CASSIE_00020	
+	2099804955	CASSIE_00021			\Chowda\Dialogue\Cassie\CASSIE_00021	
+	2099804956	CASSIE_00026			\Chowda\Dialogue\Cassie\CASSIE_00026	
+	2099804957	CASSIE_00027			\Chowda\Dialogue\Cassie\CASSIE_00027	
+	2099804958	CASSIE_00024			\Chowda\Dialogue\Cassie\CASSIE_00024	
+	2099804959	CASSIE_00025			\Chowda\Dialogue\Cassie\CASSIE_00025	
+	2099952112	CASSIE_00141			\Chowda\Dialogue\Cassie\CASSIE_00141	
+	2099952113	CASSIE_00140			\Chowda\Dialogue\Cassie\CASSIE_00140	
+	2099952114	CASSIE_00143			\Chowda\Dialogue\Cassie\CASSIE_00143	
+	2099952115	CASSIE_00142			\Chowda\Dialogue\Cassie\CASSIE_00142	
+	2099952116	CASSIE_00145			\Chowda\Dialogue\Cassie\CASSIE_00145	
+	2099952117	CASSIE_00144			\Chowda\Dialogue\Cassie\CASSIE_00144	
+	2099952118	CASSIE_00147			\Chowda\Dialogue\Cassie\CASSIE_00147	
+	2099952119	CASSIE_00146			\Chowda\Dialogue\Cassie\CASSIE_00146	
+	2099952120	CASSIE_00149			\Chowda\Dialogue\Cassie\CASSIE_00149	
+	2099952121	CASSIE_00148			\Chowda\Dialogue\Cassie\CASSIE_00148	
+	2116582532	CASSIE_00039			\Chowda\Dialogue\Cassie\CASSIE_00039	
+	2116582533	CASSIE_00038			\Chowda\Dialogue\Cassie\CASSIE_00038	
+	2116582536	CASSIE_00035			\Chowda\Dialogue\Cassie\CASSIE_00035	
+	2116582537	CASSIE_00034			\Chowda\Dialogue\Cassie\CASSIE_00034	
+	2116582538	CASSIE_00037			\Chowda\Dialogue\Cassie\CASSIE_00037	
+	2116582539	CASSIE_00036			\Chowda\Dialogue\Cassie\CASSIE_00036	
+	2116582540	CASSIE_00031			\Chowda\Dialogue\Cassie\CASSIE_00031	
+	2116582542	CASSIE_00033			\Chowda\Dialogue\Cassie\CASSIE_00033	
+	2116582543	CASSIE_00032			\Chowda\Dialogue\Cassie\CASSIE_00032	
+	2116729696	CASSIE_00134			\Chowda\Dialogue\Cassie\CASSIE_00134	
+	2116729697	CASSIE_00135			\Chowda\Dialogue\Cassie\CASSIE_00135	
+	2116729698	CASSIE_00136			\Chowda\Dialogue\Cassie\CASSIE_00136	
+	2116729699	CASSIE_00137			\Chowda\Dialogue\Cassie\CASSIE_00137	
+	2116729700	CASSIE_00130			\Chowda\Dialogue\Cassie\CASSIE_00130	
+	2116729701	CASSIE_00131			\Chowda\Dialogue\Cassie\CASSIE_00131	
+	2116729702	CASSIE_00132			\Chowda\Dialogue\Cassie\CASSIE_00132	
+	2116729703	CASSIE_00133			\Chowda\Dialogue\Cassie\CASSIE_00133	
+	2116729708	CASSIE_00138			\Chowda\Dialogue\Cassie\CASSIE_00138	
+	2116729709	CASSIE_00139			\Chowda\Dialogue\Cassie\CASSIE_00139	
+	2133507280	CASSIE_00127			\Chowda\Dialogue\Cassie\CASSIE_00127	
+	2133507281	CASSIE_00126			\Chowda\Dialogue\Cassie\CASSIE_00126	
+	2133507282	CASSIE_00125			\Chowda\Dialogue\Cassie\CASSIE_00125	
+	2133507283	CASSIE_00124			\Chowda\Dialogue\Cassie\CASSIE_00124	
+	2133507284	CASSIE_00123			\Chowda\Dialogue\Cassie\CASSIE_00123	
+	2133507285	CASSIE_00122			\Chowda\Dialogue\Cassie\CASSIE_00122	
+	2133507286	CASSIE_00121			\Chowda\Dialogue\Cassie\CASSIE_00121	
+	2133507287	CASSIE_00120			\Chowda\Dialogue\Cassie\CASSIE_00120	
+	2133507294	CASSIE_00129			\Chowda\Dialogue\Cassie\CASSIE_00129	
+	2133507295	CASSIE_00128			\Chowda\Dialogue\Cassie\CASSIE_00128	
+	2148997448	RN_ROXY_00030			\Chowda\Dialogue\Roxy\RN_ROXY_00030	
+	2148997449	RN_ROXY_00031			\Chowda\Dialogue\Roxy\RN_ROXY_00031	
+	2150284866	CASSIE_00118			\Chowda\Dialogue\Cassie\CASSIE_00118	
+	2150284867	CASSIE_00119			\Chowda\Dialogue\Cassie\CASSIE_00119	
+	2150284872	CASSIE_00112			\Chowda\Dialogue\Cassie\CASSIE_00112	
+	2150284873	CASSIE_00113			\Chowda\Dialogue\Cassie\CASSIE_00113	
+	2150284874	CASSIE_00110			\Chowda\Dialogue\Cassie\CASSIE_00110	
+	2150284875	CASSIE_00111			\Chowda\Dialogue\Cassie\CASSIE_00111	
+	2150284876	CASSIE_00116			\Chowda\Dialogue\Cassie\CASSIE_00116	
+	2150284877	CASSIE_00117			\Chowda\Dialogue\Cassie\CASSIE_00117	
+	2150284878	CASSIE_00114			\Chowda\Dialogue\Cassie\CASSIE_00114	
+	2150284879	CASSIE_00115			\Chowda\Dialogue\Cassie\CASSIE_00115	
+	2165775154	RN_ROXY_00029			\Chowda\Dialogue\Roxy\RN_ROXY_00029	
+	2165775155	RN_ROXY_00028			\Chowda\Dialogue\Roxy\RN_ROXY_00028	
+	2165775160	RN_ROXY_00023			\Chowda\Dialogue\Roxy\RN_ROXY_00023	
+	2165775161	RN_ROXY_00022			\Chowda\Dialogue\Roxy\RN_ROXY_00022	
+	2165775162	RN_ROXY_00021			\Chowda\Dialogue\Roxy\RN_ROXY_00021	
+	2165775163	RN_ROXY_00020			\Chowda\Dialogue\Roxy\RN_ROXY_00020	
+	2165775164	RN_ROXY_00027			\Chowda\Dialogue\Roxy\RN_ROXY_00027	
+	2165775165	RN_ROXY_00026			\Chowda\Dialogue\Roxy\RN_ROXY_00026	
+	2165775166	RN_ROXY_00025			\Chowda\Dialogue\Roxy\RN_ROXY_00025	
+	2165775167	RN_ROXY_00024			\Chowda\Dialogue\Roxy\RN_ROXY_00024	
+	2167062580	CASSIE_00109			\Chowda\Dialogue\Cassie\CASSIE_00109	
+	2167062581	CASSIE_00108			\Chowda\Dialogue\Cassie\CASSIE_00108	
+	2167062584	CASSIE_00105			\Chowda\Dialogue\Cassie\CASSIE_00105	
+	2167062585	CASSIE_00104			\Chowda\Dialogue\Cassie\CASSIE_00104	
+	2167062586	CASSIE_00107			\Chowda\Dialogue\Cassie\CASSIE_00107	
+	2167062587	CASSIE_00106			\Chowda\Dialogue\Cassie\CASSIE_00106	
+	2167062588	CASSIE_00101			\Chowda\Dialogue\Cassie\CASSIE_00101	
+	2167062589	CASSIE_00100			\Chowda\Dialogue\Cassie\CASSIE_00100	
+	2167062590	CASSIE_00103			\Chowda\Dialogue\Cassie\CASSIE_00103	
+	2167062591	CASSIE_00102			\Chowda\Dialogue\Cassie\CASSIE_00102	
+	2182552742	RN_ROXY_00018			\Chowda\Dialogue\Roxy\RN_ROXY_00018	
+	2182552743	RN_ROXY_00019			\Chowda\Dialogue\Roxy\RN_ROXY_00019	
+	2182552744	RN_ROXY_00016			\Chowda\Dialogue\Roxy\RN_ROXY_00016	
+	2182552745	RN_ROXY_00017			\Chowda\Dialogue\Roxy\RN_ROXY_00017	
+	2182552746	RN_ROXY_00014			\Chowda\Dialogue\Roxy\RN_ROXY_00014	
+	2182552747	RN_ROXY_00015			\Chowda\Dialogue\Roxy\RN_ROXY_00015	
+	2182552748	RN_ROXY_00012			\Chowda\Dialogue\Roxy\RN_ROXY_00012	
+	2182552749	RN_ROXY_00013			\Chowda\Dialogue\Roxy\RN_ROXY_00013	
+	2182552750	RN_ROXY_00010			\Chowda\Dialogue\Roxy\RN_ROXY_00010	
+	2182552751	RN_ROXY_00011			\Chowda\Dialogue\Roxy\RN_ROXY_00011	
+	2199330304	RN_ROXY_00001			\Chowda\Dialogue\Roxy\RN_ROXY_00001	
+	2199330306	RN_ROXY_00003			\Chowda\Dialogue\Roxy\RN_ROXY_00003	
+	2199330307	RN_ROXY_00002			\Chowda\Dialogue\Roxy\RN_ROXY_00002	
+	2199330308	RN_ROXY_00005			\Chowda\Dialogue\Roxy\RN_ROXY_00005	
+	2199330309	RN_ROXY_00004			\Chowda\Dialogue\Roxy\RN_ROXY_00004	
+	2199330310	RN_ROXY_00007			\Chowda\Dialogue\Roxy\RN_ROXY_00007	
+	2199330311	RN_ROXY_00006			\Chowda\Dialogue\Roxy\RN_ROXY_00006	
+	2199330312	RN_ROXY_00009			\Chowda\Dialogue\Roxy\RN_ROXY_00009	
+	2199330313	RN_ROXY_00008			\Chowda\Dialogue\Roxy\RN_ROXY_00008	
+	2265456057	RN_GREGORY_00001_intercom			\Chowda\Dialogue\Gregory\RN_GREGORY_00001_intercom	
+	2386398719	CASSIE_00161a			\Chowda\Dialogue\Cassie\CASSIE_00161a	
+	2407758660	STAFFBOT_00001			\Chowda\Dialogue\StaffBot\STAFFBOT_00001	
+	2407758663	STAFFBOT_00002			\Chowda\Dialogue\StaffBot\STAFFBOT_00002	
+	2494706084	CASSIE_00076a			\Chowda\Dialogue\Cassie\CASSIE_00076a	
+	2650782631	GRIMIC_00103b			\Chowda\Dialogue\Grimic\GRIMIC_00103b	
+	2729298624	CASSIE_00050a			\Chowda\Dialogue\Cassie\CASSIE_00050a	
+	2746076245	CASSIE_00057a			\Chowda\Dialogue\Cassie\CASSIE_00057a	
+	2751448401	GRIMIC_00109f			\Chowda\Dialogue\Grimic\GRIMIC_00109f	
+	2751448402	GRIMIC_00109e			\Chowda\Dialogue\Grimic\GRIMIC_00109e	
+	2751448403	GRIMIC_00109d			\Chowda\Dialogue\Grimic\GRIMIC_00109d	
+	2751448404	GRIMIC_00109c			\Chowda\Dialogue\Grimic\GRIMIC_00109c	
+	2751448405	GRIMIC_00109b			\Chowda\Dialogue\Grimic\GRIMIC_00109b	
+	2751448406	GRIMIC_00109a			\Chowda\Dialogue\Grimic\GRIMIC_00109a	
+	2760698504	staffdad_00005			\Default Work Unit\Dialogue\StaffBot\staffdad_00005	
+	2760698505	staffdad_00004			\Default Work Unit\Dialogue\StaffBot\staffdad_00004	
+	2760698508	STAFFDAD_00001			\Default Work Unit\Dialogue\StaffBot\STAFFDAD_00001	
+	2760698510	STAFFDAD_00003			\Default Work Unit\Dialogue\StaffBot\STAFFDAD_00003	
+	2760698511	STAFFDAD_00002			\Default Work Unit\Dialogue\StaffBot\STAFFDAD_00002	
+	2762015157	CASSIE_00080a			\Chowda\Dialogue\Cassie\CASSIE_00080a	
+	2779778448	CASSIE_00065a			\Chowda\Dialogue\Cassie\CASSIE_00065a	
+	2796408972	CASSIE_00054a			\Chowda\Dialogue\Cassie\CASSIE_00054a	
+	2796556261	CASSIE_00062a			\Chowda\Dialogue\Cassie\CASSIE_00062a	
+	2813333878	CASSIE_00063a			\Chowda\Dialogue\Cassie\CASSIE_00063a	
+	2949182618	GRIMIC_00098_alt			\Chowda\Dialogue\Grimic\GRIMIC_00098_alt	
+	3141939424	STAFFMOM_00003			\Default Work Unit\Dialogue\StaffBot\STAFFMOM_00003	
+	3141939425	STAFFMOM_00002			\Default Work Unit\Dialogue\StaffBot\STAFFMOM_00002	
+	3141939426	STAFFMOM_00001			\Default Work Unit\Dialogue\StaffBot\STAFFMOM_00001	
+	3141939431	STAFFMOM_00004			\Default Work Unit\Dialogue\StaffBot\STAFFMOM_00004	
+	3142026512	RN_SUN_00007			\Chowda\Dialogue\SunMan\RN_SUN_00007	
+	3142026513	RN_SUN_00006			\Chowda\Dialogue\SunMan\RN_SUN_00006	
+	3142026514	RN_SUN_00005			\Chowda\Dialogue\SunMan\RN_SUN_00005	
+	3142026515	RN_SUN_00004			\Chowda\Dialogue\SunMan\RN_SUN_00004	
+	3142026516	RN_SUN_00003			\Chowda\Dialogue\SunMan\RN_SUN_00003	
+	3142026517	RN_SUN_00002			\Chowda\Dialogue\SunMan\RN_SUN_00002	
+	3142026518	RN_SUN_00001			\Chowda\Dialogue\SunMan\RN_SUN_00001	
+	3142026526	RN_SUN_00009			\Chowda\Dialogue\SunMan\RN_SUN_00009	
+	3142026527	RN_SUN_00008			\Chowda\Dialogue\SunMan\RN_SUN_00008	
+	3153376413	RN_GREGORY_00008a			\Chowda\Dialogue\Gregory\RN_GREGORY_00008a	
+	3240020356	Play_MONTY_00024_DLC			\Chowda\Dialogue\Monty\Play_MONTY_00024_DLC	
+	3270819936	RN_GREGORY_00007a			\Chowda\Dialogue\Gregory\RN_GREGORY_00007a	
+	3304315030	FREDDY_00009_RN			\Chowda\Dialogue\Freddy\FREDDY_00009_RN	
+	3321299762	RN_GREGORY_00014c			\Chowda\Dialogue\Gregory\RN_GREGORY_00014c	
+	3321299763	RN_GREGORY_00014b			\Chowda\Dialogue\Gregory\RN_GREGORY_00014b	
+	3385146976	GRIMIC_00092			\Chowda\Dialogue\Grimic\GRIMIC_00092	
+	3385146977	GRIMIC_00093			\Chowda\Dialogue\Grimic\GRIMIC_00093	
+	3385146978	GRIMIC_00090			\Chowda\Dialogue\Grimic\GRIMIC_00090	
+	3385146979	GRIMIC_00091			\Chowda\Dialogue\Grimic\GRIMIC_00091	
+	3385146980	GRIMIC_00096			\Chowda\Dialogue\Grimic\GRIMIC_00096	
+	3385146981	GRIMIC_00097			\Chowda\Dialogue\Grimic\GRIMIC_00097	
+	3385146982	GRIMIC_00094			\Chowda\Dialogue\Grimic\GRIMIC_00094	
+	3385146983	GRIMIC_00095			\Chowda\Dialogue\Grimic\GRIMIC_00095	
+	3385146986	GRIMIC_00098			\Chowda\Dialogue\Grimic\GRIMIC_00098	
+	3385146987	GRIMIC_00099			\Chowda\Dialogue\Grimic\GRIMIC_00099	
+	3435332672	GRIMIC_00104			\Chowda\Dialogue\Grimic\GRIMIC_00104	
+	3435332673	GRIMIC_00105			\Chowda\Dialogue\Grimic\GRIMIC_00105	
+	3435332674	GRIMIC_00106			\Chowda\Dialogue\Grimic\GRIMIC_00106	
+	3435332675	GRIMIC_00107			\Chowda\Dialogue\Grimic\GRIMIC_00107	
+	3435332676	GRIMIC_00100			\Chowda\Dialogue\Grimic\GRIMIC_00100	
+	3435332677	GRIMIC_00101			\Chowda\Dialogue\Grimic\GRIMIC_00101	
+	3435332678	GRIMIC_00102			\Chowda\Dialogue\Grimic\GRIMIC_00102	
+	3435332679	GRIMIC_00103			\Chowda\Dialogue\Grimic\GRIMIC_00103	
+	3435332684	GRIMIC_00108			\Chowda\Dialogue\Grimic\GRIMIC_00108	
+	3435332685	GRIMIC_00109			\Chowda\Dialogue\Grimic\GRIMIC_00109	
+	3435479868	GRIMIC_00067			\Chowda\Dialogue\Grimic\GRIMIC_00067	
+	3435479869	GRIMIC_00066			\Chowda\Dialogue\Grimic\GRIMIC_00066	
+	3435479870	GRIMIC_00065			\Chowda\Dialogue\Grimic\GRIMIC_00065	
+	3452257446	GRIMIC_00058			\Chowda\Dialogue\Grimic\GRIMIC_00058	
+	3452257447	GRIMIC_00059			\Chowda\Dialogue\Grimic\GRIMIC_00059	
+	3452257448	GRIMIC_00056			\Chowda\Dialogue\Grimic\GRIMIC_00056	
+	3452257449	GRIMIC_00057			\Chowda\Dialogue\Grimic\GRIMIC_00057	
+	3452257450	GRIMIC_00054			\Chowda\Dialogue\Grimic\GRIMIC_00054	
+	3452257451	GRIMIC_00055			\Chowda\Dialogue\Grimic\GRIMIC_00055	
+	3485812720	GRIMIC_00034			\Chowda\Dialogue\Grimic\GRIMIC_00034	
+	3485812721	GRIMIC_00035			\Chowda\Dialogue\Grimic\GRIMIC_00035	
+	3485812722	GRIMIC_00036			\Chowda\Dialogue\Grimic\GRIMIC_00036	
+	3485812724	GRIMIC_00030			\Chowda\Dialogue\Grimic\GRIMIC_00030	
+	3485812725	GRIMIC_00031			\Chowda\Dialogue\Grimic\GRIMIC_00031	
+	3485812726	GRIMIC_00032			\Chowda\Dialogue\Grimic\GRIMIC_00032	
+	3502590304	GRIMIC_00027			\Chowda\Dialogue\Grimic\GRIMIC_00027	
+	3502590305	GRIMIC_00026			\Chowda\Dialogue\Grimic\GRIMIC_00026	
+	3502590306	GRIMIC_00025			\Chowda\Dialogue\Grimic\GRIMIC_00025	
+	3502590307	GRIMIC_00024			\Chowda\Dialogue\Grimic\GRIMIC_00024	
+	3502590308	GRIMIC_00023			\Chowda\Dialogue\Grimic\GRIMIC_00023	
+	3502590310	GRIMIC_00021			\Chowda\Dialogue\Grimic\GRIMIC_00021	
+	3502590311	GRIMIC_00020			\Chowda\Dialogue\Grimic\GRIMIC_00020	
+	3502590318	GRIMIC_00029			\Chowda\Dialogue\Grimic\GRIMIC_00029	
+	3502590319	GRIMIC_00028			\Chowda\Dialogue\Grimic\GRIMIC_00028	
+	3516312487	GRIMIC_0000XX			\Chowda\Dialogue\Grimic\GRIMIC_0000XX	
+	3519367890	GRIMIC_00018			\Chowda\Dialogue\Grimic\GRIMIC_00018	
+	3519367891	GRIMIC_00019			\Chowda\Dialogue\Grimic\GRIMIC_00019	
+	3519367896	GRIMIC_00012			\Chowda\Dialogue\Grimic\GRIMIC_00012	
+	3519367897	GRIMIC_00013			\Chowda\Dialogue\Grimic\GRIMIC_00013	
+	3519367898	GRIMIC_00010			\Chowda\Dialogue\Grimic\GRIMIC_00010	
+	3519367899	GRIMIC_00011			\Chowda\Dialogue\Grimic\GRIMIC_00011	
+	3519367900	GRIMIC_00016			\Chowda\Dialogue\Grimic\GRIMIC_00016	
+	3519367901	GRIMIC_00017			\Chowda\Dialogue\Grimic\GRIMIC_00017	
+	3519367902	GRIMIC_00014			\Chowda\Dialogue\Grimic\GRIMIC_00014	
+	3519367903	GRIMIC_00015			\Chowda\Dialogue\Grimic\GRIMIC_00015	
+	3536145476	GRIMIC_00009			\Chowda\Dialogue\Grimic\GRIMIC_00009	
+	3536145477	GRIMIC_00008			\Chowda\Dialogue\Grimic\GRIMIC_00008	
+	3536145480	GRIMIC_00005			\Chowda\Dialogue\Grimic\GRIMIC_00005	
+	3536145481	GRIMIC_00004			\Chowda\Dialogue\Grimic\GRIMIC_00004	
+	3536145483	GRIMIC_00006			\Chowda\Dialogue\Grimic\GRIMIC_00006	
+	3536145484	GRIMIC_00001			\Chowda\Dialogue\Grimic\GRIMIC_00001	
+	3536145486	GRIMIC_00003			\Chowda\Dialogue\Grimic\GRIMIC_00003	
+	3536145487	GRIMIC_00002			\Chowda\Dialogue\Grimic\GRIMIC_00002	
+	3560138640	RN_MOON_00006			\Chowda\Dialogue\MoonMan\RN_MOON_00006	
+	3560138641	RN_MOON_00007			\Chowda\Dialogue\MoonMan\RN_MOON_00007	
+	3560138642	RN_MOON_00004			\Chowda\Dialogue\MoonMan\RN_MOON_00004	
+	3560138643	RN_MOON_00005			\Chowda\Dialogue\MoonMan\RN_MOON_00005	
+	3560138644	RN_MOON_00002			\Chowda\Dialogue\MoonMan\RN_MOON_00002	
+	3560138645	RN_MOON_00003			\Chowda\Dialogue\MoonMan\RN_MOON_00003	
+	3560138647	RN_MOON_00001			\Chowda\Dialogue\MoonMan\RN_MOON_00001	
+	3560138654	RN_MOON_00008			\Chowda\Dialogue\MoonMan\RN_MOON_00008	
+	3560138655	RN_MOON_00009			\Chowda\Dialogue\MoonMan\RN_MOON_00009	
+	3576988611	Play_MONTY_00001_DLC			\Chowda\Dialogue\Monty\Play_MONTY_00001_DLC	
+	3783242761	Play_MONTY_00029_DLC			\Chowda\Dialogue\Monty\Play_MONTY_00029_DLC	
+	3827754985	Play_MASKBOT_00001			\Chowda\Dialogue\MaskBot\Play_MASKBOT_00001	
+	3827754986	Play_MASKBOT_00002			\Chowda\Dialogue\MaskBot\Play_MASKBOT_00002	
+	3827754987	Play_MASKBOT_00003			\Chowda\Dialogue\MaskBot\Play_MASKBOT_00003	
+	3911150688	CANDY_00001			\Chowda\Dialogue\CandyCadet\CANDY_00001	
+	3911150690	CANDY_00003			\Chowda\Dialogue\CandyCadet\CANDY_00003	
+	3911150691	CANDY_00002			\Chowda\Dialogue\CandyCadet\CANDY_00002	
+	3911150692	CANDY_00005			\Chowda\Dialogue\CandyCadet\CANDY_00005	
+	3911150693	CANDY_00004			\Chowda\Dialogue\CandyCadet\CANDY_00004	
+	3911150694	CANDY_00007			\Chowda\Dialogue\CandyCadet\CANDY_00007	
+	3911150695	CANDY_00006			\Chowda\Dialogue\CandyCadet\CANDY_00006	
+	3965504569	RN_ROXY_00030a			\Chowda\Dialogue\Roxy\RN_ROXY_00030a	
+	3965504570	RN_ROXY_00030b			\Chowda\Dialogue\Roxy\RN_ROXY_00030b	
+	4155620394	Play_MONTY_00026_DLC			\Chowda\Dialogue\Monty\Play_MONTY_00026_DLC	
+	4161495265	RN_FREDDY_00002			\Chowda\Dialogue\Freddy\RN_FREDDY_00002	
+	4161495266	RN_FREDDY_00001			\Chowda\Dialogue\Freddy\RN_FREDDY_00001	
+	4233842616	FREDDY_00010_RN			\Chowda\Dialogue\Freddy\FREDDY_00010_RN	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	1686739444	Story			\Chowda\Story	
+	4118684129	AR_World			\Chowda\AR_World	
+
+State	ID	Name	State Group			Notes
+	311444866	Sequence	Story			
+	369638443	VOSequence	Story			
+	748895195	None	Story			
+	1838596016	Cinematic	Story			
+	58138747	Active	AR_World			
+	748895195	None	AR_World			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	145902071	VOSequence	Story	\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_GENERAL_AR_RANDOM		
+	251545309	Sequence	Story	\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_GENERAL_AR_RANDOM		
+	577017109	Active	AR_World	\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_00022_v2		
+	684113750	Active	AR_World	\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_GENERAL_AR_RANDOM		
+	738934811	Cinematic	Story	\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_GENERAL_AR_RANDOM		
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	183903552	occlusion			\bind_to_parameters\occlusion	
+	313769113	occlusion_counter			\utility\occlusion_counter	
+	1240670792	distance			\bind_to_parameters\distance	
+	3298513196	freddy_voicebox_installed			\Default Work Unit\freddy_voicebox_installed	
+	3436536763	GREGORY_OUTSIDE_FREDDY			\Default Work Unit\GREGORY_OUTSIDE_FREDDY	
+
+Effect plug-ins	ID	Name	Type				Notes
+	466823516	Echoes_Linear (Custom)	Wwise Delay			
+	2653529179	Three_Voices	Wwise Harmonizer			
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	37900728	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\_SubtitleEvents\dlcRabbit_scream\Wwise Silence	
+	601541604	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\_SubtitleEvents\Monty_pipe_attack_roars\Wwise Silence	
+	662389819	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_GENERAL_AR_RANDOM\Silence\Wwise Silence	
+	776573036	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\_SubtitleEvents\Gregory_walkietalkie_garbled_distance\Wwise Silence	
+	1043946292	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\_SubtitleEvents\RN_CHICA_00001\Wwise Silence	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	600068	CASSIE_00110_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00110_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00110_pref		130968
+	1973658	GRIMIC_00095b_04	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00095b_04_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00095b\GRIMIC_00095b_04		41392
+	2581352	grimic_WalkieTalkie_00014	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\grimic_WalkieTalkie_00014_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\grimic_WalkieTalkie_00014		32500
+	4688718	GREGORY_00007_NoNoNoIDont_RN	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GREGORY_00007_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00019\GREGORY_00007_NoNoNoIDont_RN		51868
+	6228190	GRIMIC_00022b	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00022b_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_00022b		37288
+	7131903	FREDDY_00007_scanningComplete_Pref_RN	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00007_scanningComplete_Pref_1C0902BF.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\FreddyVO\FREDDY_00007_scanningComplete_Pref_RN		146872
+	7871275	MONTY_00001_DLC_01	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00001_DLC_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00001_DLC\MONTY_00001_DLC_01		42804
+	8743188	MONTY_00003_DLC_03	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00003_DLC_03_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00003_DLC\MONTY_00003_DLC_03		13464
+	9384413	RN_MOON_00009_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_MOON_00009_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MoonManVO\RN_MOON_00009_pref		282312
+	12999601	MONTY_00026_DLC_10	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00026_DLC_10_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00026_DLC\MONTY_00026_DLC_10		13140
+	13960658	GRIMIC_00099_04	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00099_04_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00099\GRIMIC_00099_04		21628
+	18707410	ECLIPSE_00003	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\ECLIPSE_00003_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\EclipseVO\ECLIPSE_00003		62632
+	20743886	CASSIE_00134_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00134_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00134_pref		163260
+	21348801	GRIMIC_00092_02	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00092_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00092\GRIMIC_00092_02		16264
+	21748541	GRIMIC_0000XX	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_0000XX_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_0000XX		24904
+	22435439	CASSIE_00157_07	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00157_07_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00157_jump\CASSIE_00157_07		4896
+	23240349	CASSIE_00132	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00132_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00132		159228
+	26966046	CASSIE_00085	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00085_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00085		55440
+	30239204	CASSIE_00068_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00068_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00068_pref		38772
+	31536516	GRIMIC_00071_alt	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00071_alt_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_GENERAL_AR_RANDOM\GRIMIC_68_to_81\GRIMIC_00071_alt		146664
+	31804134	MONTY_00026_DLC_09	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00026_DLC_09_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00026_DLC\MONTY_00026_DLC_09		13464
+	32874495	STAFFBOT_00001	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\STAFFBOT_00001_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\StaffBot\STAFFBOT_00001		66016
+	40577900	GRIMIC_WalkieTalkie_00010	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_WalkieTalkie_00010_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_WalkieTalkie_00010		70156
+	45757142	CASSIE_00028	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00028_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00028		82980
+	48016273	CASSIE_00052	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00052_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00052		145296
+	49227594	MONTY_00024_DLC_10	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00024_DLC_10_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00024_DLC\MONTY_00024_DLC_10		27288
+	50860216	GRIMIC_00106	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00106_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00106		81208
+	51589233	GRIMIC_00074_alt	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00074_alt_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_GENERAL_AR_RANDOM\GRIMIC_68_to_81\GRIMIC_00074_alt		220392
+	52006667	RN_ROXY_00012	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_ROXY_00012_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\RoxyVO\RN_ROXY_00012		73944
+	53358361	MONTY_00024_DLC_09	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00024_DLC_09_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00024_DLC\MONTY_00024_DLC_09		30384
+	53500516	GRIMIC_00109c_03	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00109c_03_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00109c\GRIMIC_00109c_03		45288
+	53919351	CASSIE_00069	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00069_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00069		9396
+	56421072	CASSIE_00045	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00045_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00045		11808
+	58215963	GRIMIC_00026	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00026_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00026		146664
+	59929343	RN_SUN_00002_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_SUN_00002_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\SunManVO\RN_SUN_00002_pref		133812
+	61165032	MONTY_00003_DLC_08	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00003_DLC_08_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00003_DLC\MONTY_00003_DLC_08		16812
+	62698340	CASSIE_00130_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00130_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00130_pref		35532
+	66739008	CASSIE_00009	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00009_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00009		10008
+	67470950	CASSIE_00065	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00065_EB7A3340.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00065		76608
+	71774189	MONTY_00001_DLC_03	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00001_DLC_03_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00001_DLC\MONTY_00001_DLC_03		75744
+	73327950	CASSIE_00157_06	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00157_06_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00157_jump\CASSIE_00157_06		7524
+	73761408	RN_ROXY_00016	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_ROXY_00016_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\RoxyVO\RN_ROXY_00016		114660
+	74254919	RN_GREGORY_WalkieTalkie_00008	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_GREGORY_WalkieTalkie_00008_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Gregory\RN_GREGORY_WalkieTalkie_00008		13492
+	80366137	CASSIE_00088	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00088_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00088		113256
+	97342596	GRIMIC_00109c_02	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00109c_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00109c\GRIMIC_00109c_02		45288
+	98115685	CASSIE_00124b	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00124b_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00124b		51264
+	100622888	FREDDY_00009_whoWho_Pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00009_whoWho_Pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00009_whoWho_Pref		40379
+	101668599	GRIMIC_00030	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00030_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00030		146664
+	104007368	RN_GREGORY_WalkieTalkie_00012	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_GREGORY_WalkieTalkie_00012_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Gregory\RN_GREGORY_WalkieTalkie_00012		10900
+	105361562	CASSIE_00084_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00084_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00084_pref		47340
+	107906544	CASSIE_00038	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00038_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00038		55836
+	109373115	GRIMIC_00022_07	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00022_07_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_00022_v2\GRIMIC_00022_07		220392
+	109805749	GRIMIC_00066	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00066_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00066		18640
+	113813215	MONTY_00029_DLC_07	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00029_DLC_07_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00029_DLC\MONTY_00029_DLC_07		21492
+	116331416	GRIMIC_00077_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00077_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_GENERAL_AR_RANDOM\GRIMIC_68_to_81\GRIMIC_00077_pref		146664
+	119424833	CASSIE_00075	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00075_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00075		99000
+	120405684	staffdad_00004_m	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\Staff Dad\staffdad_00004_m_A512447A.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\StaffbotVO\Staff Dad\staffdad_00004_m		9383
+	125773304	MONTY_00029_DLC_05	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00029_DLC_05_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00029_DLC\MONTY_00029_DLC_05		20304
+	126271090	CASSIE_00017	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00017_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00017		88812
+	130502756	CASSIE_00083	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00083_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00083		41832
+	130683012	CASSIE_00154_01	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00154_01_4EB76051.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_154_small_startled\CASSIE_00154_01		7300
+	133451912	CASSIE_00157_01	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00157_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00157_jump\CASSIE_00157_01		8640
+	133568515	CASSIE_00122_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00122_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00122_pref		45324
+	136831905	CASSIE_00061_03	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00061_03_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00061\CASSIE_00061_03		6876
+	137498504	MONTY_00029_DLC_20	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00029_DLC_20_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00029_DLC\MONTY_00029_DLC_20		11412
+	137685597	GRIMIC_00077_alt	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00077_alt_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_GENERAL_AR_RANDOM\GRIMIC_68_to_81\GRIMIC_00077_alt		146664
+	139073354	GRIMIC_00073_alt	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00073_alt_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_GENERAL_AR_RANDOM\GRIMIC_68_to_81\GRIMIC_00073_alt		146664
+	140712092	GRIMIC_00022_01	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00022_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_00022_v2\GRIMIC_00022_01		220392
+	141944060	CASSIE_00149_01	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00149_01_1A3DF2D1.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00149_running\CASSIE_00149_01		161020
+	143507683	MONTY_00024_DLC_13	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00024_DLC_13_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00024_DLC\MONTY_00024_DLC_13		40860
+	144814585	RN_ROXY_00003_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_ROXY_00003_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\RoxyVO\RN_ROXY_00003_pref		32904
+	145877783	CASSIE_00156_03	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00156_03_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00156_breathing_calming_down\CASSIE_00156_03		186300
+	146285791	GRIMIC_00098_02	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00098_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00098\GRIMIC_00098_02		23176
+	146917608	CANDY_00005	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CANDY_00005_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\CandyCadet\CANDY_00005		315748
+	147422773	CASSIE_00092_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00092_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00092_pref		145872
+	151237903	GRIMIC_00028	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00028_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00028		220392
+	152914205	CASSIE_00161	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00161_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00161		13536
+	153682718	RN_MOON_00001_06	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_MOON_00001_06_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MoonManVO\RN_MOON_00001\RN_MOON_00001_06		433800
+	156398650	GRIMIC_00070_alt	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00070_alt_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_GENERAL_AR_RANDOM\GRIMIC_68_to_81\GRIMIC_00070_alt		220392
+	159488021	GRIMIC_00109b	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00109b_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00109b		45288
+	161684532	GRIMIC_00095b_07	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00095b_07_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00095b\GRIMIC_00095b_07		39952
+	162123312	CASSIE_00037	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00037_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00037		69660
+	162478232	CASSIE_00098_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00098_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00098_pref		130644
+	163307263	RN_ROXY_00027alt	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_ROXY_00027alt_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\RoxyVO\RN_ROXY_00027alt		324396
+	163402963	MONTY_00024_DLC_03	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00024_DLC_03_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00024_DLC\MONTY_00024_DLC_03		22248
+	164755817	GRIMIC_00099_02	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00099_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00099\GRIMIC_00099_02		21700
+	171258479	CASSIE_00157_09	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00157_09_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00157_jump\CASSIE_00157_09		9144
+	171265688	CASSIE_00022	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00022_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00022		37288
+	174818306	MONTY_00026_DLC_12	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00026_DLC_12_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00026_DLC\MONTY_00026_DLC_12		12960
+	178725107	GRIMIC_00022_09	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00022_09_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_00022_v2\GRIMIC_00022_09		220392
+	180246190	GRIMIC_00016	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GREGORY_00004_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00016\GRIMIC_00016		83332
+	184841361	GRIMIC_00022e	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00022e_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_00022e		37288
+	187597360	CASSIE_00023	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00023_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00023		45468
+	191164503	RN_ROXY_00018_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_ROXY_00018_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\RoxyVO\RN_ROXY_00018_pref		66348
+	191590817	RN_FREDDY_00001_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_FREDDY_00001_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\FreddyVO\RN_FREDDY_00001_pref		286660
+	193621544	RN_SUN_00001_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_SUN_00001_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\SunManVO\RN_SUN_00001_pref		140472
+	195683581	MONTY_00026_DLC_02	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00026_DLC_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00026_DLC\MONTY_00026_DLC_02		11772
+	203953889	CASSIE_00048	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00048_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00048		30132
+	204026416	STAFFDAD_00001	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\Staff Dad\STAFFDAD_00001_A512447A.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\StaffbotVO\Staff Dad\STAFFDAD_00001		6816
+	205688178	STAFFBOT_00002	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\STAFFBOT_00002_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\StaffBot\STAFFBOT_00002		88156
+	207488468	RN_GREGORY_00014b	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_GREGORY_00014b_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Gregory\RN_GREGORY_00014b		362944
+	210361707	RN_SUN_00006_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_SUN_00006_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\SunManVO\RN_SUN_00006_pref		127044
+	210813053	RN_ROXY_00031	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_ROXY_00031_CA59A8DC.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\RoxyVO\RN_ROXY_00031		181504
+	219326301	GRIMIC_00099_03	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00099_03_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00099\GRIMIC_00099_03		21232
+	220477031	CASSIE_00138_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00138_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00138_pref		91872
+	220964543	RN_MOON_00003	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_MOON_00003_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MoonManVO\RN_MOON_00003		189936
+	222715858	RN_ROXY_00025	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_ROXY_00025_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\RoxyVO\RN_ROXY_00025		67464
+	226455960	RN_ROXY_00008_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_ROXY_00008_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\RoxyVO\RN_ROXY_00008_pref		29340
+	226577394	CASSIE_00100	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00100_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00100		7056
+	226903337	MONTY_00029_DLC_11	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00029_DLC_11_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00029_DLC\MONTY_00029_DLC_11		20304
+	226937420	CASSIE_00107	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00107_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00107		175824
+	228306634	sfx_walkie-talkie_static_lp	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_soft_static_walkietalkie_lp_F585A561.wem		\Actor-Mixer Hierarchy\Environment\_Chowda\Tools\WalkieTalkie\sfx_walkie-talkie_static_lp		297924
+	232426476	MONTY_00029_DLC_15	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00029_DLC_15_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00029_DLC\MONTY_00029_DLC_15		11772
+	232886570	RN_MOON_00001_03	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_MOON_00001_03_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MoonManVO\RN_MOON_00001\RN_MOON_00001_03		347760
+	237683397	CASSIE_00072	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00072_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00072		106596
+	237729326	CASSIE_00131	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00131_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00131		13392
+	241619249	MONTY_00024_DLC_02	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00024_DLC_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00024_DLC\MONTY_00024_DLC_02		17604
+	246743871	RN_ROXY_00019_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_ROXY_00019_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\RoxyVO\RN_ROXY_00019_pref		133020
+	251600719	CASSIE_00056	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00056_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00056		19152
+	252663669	CASSIE_00151_03	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00151_03_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00151_grunts_pushing\CASSIE_00151_03		15660
+	254397558	CASSIE_00080	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00080_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00080		59940
+	256540592	GRIMIC_00091_02	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00091_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00091\GRIMIC_00091_02		55468
+	256561057	RN_GREGORY_WalkieTalkie_00008a	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_GREGORY_WalkieTalkie_00008a_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Gregory\RN_GREGORY_WalkieTalkie_00008a		29620
+	257250360	CASSIE_00118	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00118_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00118		49464
+	262167113	CASSIE_00158_03	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00158_03_CB1BC1E6.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00158\CASSIE_00158_03		10396
+	262358264	GRIMIC_00109c_01	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00109c_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00109c\GRIMIC_00109c_01		55440
+	263443311	GRIMIC_00092_01	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00092_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00092\GRIMIC_00092_01		15976
+	264810656	GRIMIC_00093_01	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00093_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00093\GRIMIC_00093_01		38080
+	268002605	CASSIE_00151_09	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00151_09_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00151_grunts_pushing\CASSIE_00151_09		284112
+	268007220	MASKBOT_00003	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MASKBOT_00003_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\MaskBot\MASKBOT_00003		23428
+	269631889	CASSIE_00041_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00041_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00041_pref		70956
+	270039929	CASSIE_00122_alt02	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00122_03_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00122_alt02		98064
+	273969228	GRIMIC_00074_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00074_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_GENERAL_AR_RANDOM\GRIMIC_68_to_81\GRIMIC_00074_pref		220392
+	274768503	GRIMIC_00095b_01	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00095b_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00095b\GRIMIC_00095b_01		40456
+	276824344	CASSIE_00155_02	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00155_02_565652CF.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00155_startled_small_scream\CASSIE_00155_02		5896
+	279476202	CASSIE_00136	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00136_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00136		43704
+	280226658	sfx_walkie-talkie_button_press_03	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_walkie-talkie_button_press_03_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\_Chowda\Tools\WalkieTalkie\sfx_walkie-talkie_button_press\sfx_walkie-talkie_button_press_03		9172
+	281231881	RN_ROXY_00004_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_ROXY_00004_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\RoxyVO\RN_ROXY_00004_pref		67572
+	283889919	MONTY_00024_DLC_01	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00024_DLC_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00024_DLC\MONTY_00024_DLC_01		16452
+	284355374	CASSIE_00062a	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00062a_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00062a		40392
+	290222971	CASSIE_00019a	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00019a_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00019a		78840
+	291937002	MONTY_00029_DLC_19	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00029_DLC_19_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00029_DLC\MONTY_00029_DLC_19		12564
+	293458647	GRIMIC_00109a_01	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00109a_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00109a\GRIMIC_00109a_01		92304
+	300900906	CASSIE_00152_02	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00152_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00152_scared_gasps\CASSIE_00152_02		10656
+	301096999	GRIMIC_WalkieTalkie_00011	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_WalkieTalkie_00011_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_WalkieTalkie_00011		109468
+	307657282	CASSIE_00039	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00039_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00039		50256
+	307773783	RN_GREGORY_WalkieTalkie_00004_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_GREGORY_WalkieTalkie_00004_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Gregory\RN_GREGORY_WalkieTalkie_00004_pref		107488
+	308078434	CASSIE_00096_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00096_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00096_pref		20808
+	309765758	GRIMIC_00031	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00031_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00031		220392
+	312076546	MONTY_00029_DLC_23	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00029_DLC_23_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00029_DLC\MONTY_00029_DLC_23		11772
+	314142713	RN_ROXY_00030b	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_ROXY_00030b_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\RoxyVO\RN_ROXY_00030b		33796
+	315467391	CASSIE_00109	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00109_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00109		19764
+	325018216	RN_SUN_00004_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_SUN_00004_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\SunManVO\RN_SUN_00004_pref		1246176
+	325845808	GRIMIC_00059	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00059_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00059		79192
+	326664524	MONTY_00003_DLC_01	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00003_DLC_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00003_DLC\MONTY_00003_DLC_01		15048
+	329577730	MONTY_00003_DLC_07	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00003_DLC_07_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00003_DLC\MONTY_00003_DLC_07		15372
+	329917373	GRIMIC_00054	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00054_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00054		33868
+	335434635	GRIMIC_00097_03	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00097_03_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00097\GRIMIC_00097_03		55000
+	335965307	MONTY_00026_DLC_07	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00026_DLC_07_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00026_DLC\MONTY_00026_DLC_07		13536
+	341448382	CASSIE_00147	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00147_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00147		137736
+	345413792	CASSIE_00117	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00117_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00117		50040
+	348770091	GRIMIC_00103	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00103_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00103		99820
+	349122713	GRIMIC_00102	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00102_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00102		100936
+	351294323	GRIMIC_00065	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00065_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00065		85816
+	357884439	GRIMIC_00021	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00021_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00021		36028
+	358527060	RN_GREGORY_StaffBot_00002_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_GREGORY_StaffBot_00002_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Gregory\RN_GREGORY_StaffBot_00002_pref		183304
+	359211388	CASSIE_00040	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00040_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00040		282348
+	362724264	CASSIE_00066	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00066_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00066		85788
+	365202584	GRIMIC_00022a	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00022a_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_00022a		37288
+	365934863	GRIMIC_00071_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00071_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_GENERAL_AR_RANDOM\GRIMIC_68_to_81\GRIMIC_00071_pref		146664
+	369500223	CASSIE_00032_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00032_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00032_pref		89604
+	369601915	CASSIE_00070	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00070_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00070		107676
+	377729191	MONTY_00029_DLC_01	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00029_DLC_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00029_DLC\MONTY_00029_DLC_01		21096
+	378063150	CASSIE_00151_01	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00151_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00151_grunts_pushing\CASSIE_00151_01		7992
+	379941845	MONTY_00026_DLC_03	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00026_DLC_03_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00026_DLC\MONTY_00026_DLC_03		12816
+	380476577	GRIMIC_WalkieTalkie_00009	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_WalkieTalkie_00009_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_WalkieTalkie_00009		77608
+	381221409	CASSIE_00076a	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00076a_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00076a		86868
+	383635791	RN_GREGORY_WalkieTalkie_00007	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_GREGORY_WalkieTalkie_00007_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Gregory\RN_GREGORY_WalkieTalkie_00007		12232
+	383977642	GRIMIC_00022_11	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00022_11_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_00022_v2\GRIMIC_00022_11		220392
+	385043479	CASSIE_00031	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00031_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00031		170352
+	386774044	GRIMIC_00094b_01	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00094b_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00094b\GRIMIC_00094b_01		30952
+	387394824	ECLIPSE_00001_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\ECLIPSE_00001_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\EclipseVO\ECLIPSE_00001_pref		364672
+	389629654	RN_GREGORY_WalkieTalkie_00011	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_GREGORY_WalkieTalkie_00011_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Gregory\RN_GREGORY_WalkieTalkie_00011		20980
+	396276752	FREDDY_00009_whoWho_Pref_RN	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00009_whoWho_Pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\FreddyVO\FREDDY_00009_whoWho_Pref_RN		100288
+	396463523	sfx_walkie-talkie_button_release_01	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_walkie-talkie_button_release_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\_Chowda\Tools\WalkieTalkie\sfx_walkie-talkie_button_release\sfx_walkie-talkie_button_release_01		4168
+	399763227	CASSIE_00148	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00148_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00148		73332
+	403022538	GRIMIC_00075_alt	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00075_alt_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_GENERAL_AR_RANDOM\GRIMIC_68_to_81\GRIMIC_00075_alt		146664
+	403945839	CASSIE_00154_03	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00154_03_FDC667B5.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_154_small_startled\CASSIE_00154_03		7192
+	407951884	grimic_WalkieTalkie_00003	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\grimic_WalkieTalkie_00003_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\grimic_WalkieTalkie_00003		37576
+	408085168	GRIMIC_00022_05	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00022_05_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_00022_v2\GRIMIC_00022_05		220392
+	409612042	MONTY_00003_DLC_02	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00003_DLC_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00003_DLC\MONTY_00003_DLC_02		15516
+	411092257	RN_MOON_00001_02	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_MOON_00001_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MoonManVO\RN_MOON_00001\RN_MOON_00001_02		240984
+	415767418	CASSIE_00151_05	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00151_05_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00151_grunts_pushing\CASSIE_00151_05		20556
+	417457541	CASSIE_00111	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00111_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00111		145728
+	417782357	MONTY_00024_DLC_08	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00024_DLC_08_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00024_DLC\MONTY_00024_DLC_08		24588
+	419356592	sfx_walkie-talkie_button_press_04	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_walkie-talkie_button_press_04_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\_Chowda\Tools\WalkieTalkie\sfx_walkie-talkie_button_press\sfx_walkie-talkie_button_press_04		6868
+	420580469	GRIMIC_00035	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00035_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00035		58384
+	423736122	MONTY_00001_DLC_06	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00001_DLC_06_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00001_DLC\MONTY_00001_DLC_06		114120
+	426002421	grimic_WalkieTalkie_00002	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\grimic_WalkieTalkie_00002_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\grimic_WalkieTalkie_00002		146476
+	426633953	CASSIE_00159_02	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00159_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00159\CASSIE_00159_02		22500
+	430033722	RN_GREGORY_00014c	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_GREGORY_00014c_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Gregory\RN_GREGORY_00014c		364744
+	433423701	CASSIE_00050	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00050_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00050		46000
+	436138413	CASSIE_00004	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00004_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00004		65196
+	436329249	grimic_WalkieTalkie_00005	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\grimic_WalkieTalkie_00005_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\grimic_WalkieTalkie_00005		83224
+	437175767	CASSIE_00118a	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00118a_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00118a		47016
+	438370533	MONTY_00026_DLC_04	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00026_DLC_04_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00026_DLC\MONTY_00026_DLC_04		11412
+	444780041	ECLIPSE_00002	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\ECLIPSE_00002_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\EclipseVO\ECLIPSE_00002		85420
+	449005691	CASSIE_00065a	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00065a_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00065a		102348
+	455904816	RN_ROXY_00015	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_ROXY_00015_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\RoxyVO\RN_ROXY_00015		132948
+	456027493	MONTY_00029_DLC_17	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00029_DLC_17_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00029_DLC\MONTY_00029_DLC_17		12564
+	457059671	CASSIE_00021	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00021_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00021		19584
+	460497135	sfx_walkie-talkie_button_press_02	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_walkie-talkie_button_press_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\_Chowda\Tools\WalkieTalkie\sfx_walkie-talkie_button_press\sfx_walkie-talkie_button_press_02		6364
+	463742786	sfx_walkie-talkie_button_press_01	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_walkie-talkie_button_press_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\_Chowda\Tools\WalkieTalkie\sfx_walkie-talkie_button_press\sfx_walkie-talkie_button_press_01		6328
+	463951881	CASSIE_00127	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00127_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00127		124740
+	464946988	RN_GREGORY_00001_intercom	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_GREGORY_00001_intercom_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Gregory\RN_GREGORY_00001_intercom		122032
+	465877912	RN_ROXY_00023a	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_ROXY_00023a_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\RoxyVO\RN_ROXY_00023a		92304
+	466919997	RN_MOON_00005	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_MOON_00005_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MoonManVO\RN_MOON_00005		416520
+	467429440	MONTY_00024_DLC_06	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00024_DLC_06_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00024_DLC\MONTY_00024_DLC_06		20700
+	470139040	RN_MOON_00002_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_MOON_00002_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MoonManVO\RN_MOON_00002_pref		227304
+	470718648	MONTY_00029_DLC_10	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00029_DLC_10_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00029_DLC\MONTY_00029_DLC_10		21492
+	473415722	GRIMIC_00100	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00100_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00100		131860
+	476070443	MONTY_00029_DLC_14	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00029_DLC_14_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00029_DLC\MONTY_00029_DLC_14		11772
+	476681764	CASSIE_00133	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00133_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00133		142812
+	484140865	grimic_WalkieTalkie_00004	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\grimic_WalkieTalkie_00004_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\grimic_WalkieTalkie_00004		123148
+	484253442	CASSIE_00063a	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00063a_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00063a		8172
+	484579807	CASSIE_00157_10	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00157_10_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00157_jump\CASSIE_00157_10		7164
+	486162109	MONTY_00029_DLC_22	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00029_DLC_22_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00029_DLC\MONTY_00029_DLC_22		11160
+	487234556	RN_ROXY_00009	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_ROXY_00009_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\RoxyVO\RN_ROXY_00009		129240
+	488154822	CASSIE_00158_01	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00158_01_68D47542.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00158\CASSIE_00158_01		9676
+	488460368	CASSIE_00128	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00128_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00128		106020
+	489694848	CASSIE_00114	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00114_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00114		33732
+	490597379	GREGORY_00008_alt_RN	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GREGORY_00008_alt_C464B876.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Gregory\GREGORY_00008_alt_RN		96652
+	498588464	RN_ROXY_00027	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_ROXY_00027_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\RoxyVO\RN_ROXY_00027		103932
+	499010978	ENTITY_00001	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\BLACK RABBIT_00001_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\BlackRabbit\ENTITY_00001		12484
+	499922045	STAFFDAD_00003	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\Staff Dad\STAFFDAD_00003_A512447A.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\StaffbotVO\Staff Dad\STAFFDAD_00003		32553
+	504913266	CASSIE_00011	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00011_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00011		105732
+	505661299	GRIMIC_WalkieTalkie_00012	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_WalkieTalkie_00012_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_WalkieTalkie_00012		60616
+	508210665	CASSIE_00153	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00153_947E2ADA.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00153		146520
+	509466519	CASSIE_00151_04	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00151_04_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00151_grunts_pushing\CASSIE_00151_04		27648
+	513202026	MONTY_00026_DLC_11	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00026_DLC_11_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00026_DLC\MONTY_00026_DLC_11		14904
+	513339944	CASSIE_00047	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00047_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00047		44928
+	513423141	MONTY_00029_DLC_12	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00029_DLC_12_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00029_DLC\MONTY_00029_DLC_12		34524
+	513957439	CASSIE_00018	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00018_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00018		11340
+	514736668	RN_SUN_00008_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_SUN_00008_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\SunManVO\RN_SUN_00008_pref		54288
+	516772358	GRIMIC_00024	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00024_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_00024\GRIMIC_00024		220392
+	519831731	GRIMIC_00069_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00069_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_GENERAL_AR_RANDOM\GRIMIC_68_to_81\GRIMIC_00069_pref		220392
+	519901892	MONTY_00002_DLC_02	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00002_DLC_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00002_DLC\MONTY_00002_DLC_02		117612
+	525143928	GRIMIC_00034	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00034_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00034		152920
+	526655615	GRIMIC_00090_01	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00090_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00090\GRIMIC_00090_01		22816
+	531785942	sfx_walkie-talkie_button_release_04	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_walkie-talkie_button_release_04_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\_Chowda\Tools\WalkieTalkie\sfx_walkie-talkie_button_release\sfx_walkie-talkie_button_release_04		5716
+	534601629	GRIMIC_00075_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00075_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_GENERAL_AR_RANDOM\GRIMIC_68_to_81\GRIMIC_00075_pref		220392
+	534624241	GRIMIC_00109e	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00109e_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00109e		92304
+	536132741	GRIMIC_00094b_02	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00094b_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00094b\GRIMIC_00094b_02		32068
+	536204246	GRIMIC_00076_alt	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00076_alt_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_GENERAL_AR_RANDOM\GRIMIC_68_to_81\GRIMIC_00076_alt		220392
+	539011829	MASKBOT_00001	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MASKBOT_00001_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\MaskBot\MASKBOT_00001		41176
+	539536282	GRIMIC_00096_01	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00096_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00096\GRIMIC_00096_01		53956
+	540765310	CASSIE_00061_02	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00061_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00061\CASSIE_00061_02		7308
+	543233537	MONTY_00026_DLC_01	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00026_DLC_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00026_DLC\MONTY_00026_DLC_01		9468
+	543936207	CASSIE_00155_03	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00155_03_43710A47.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00155_startled_small_scream\CASSIE_00155_03		6040
+	547543108	MONTY_00024_DLC_12	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00024_DLC_12_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00024_DLC\MONTY_00024_DLC_12		28080
+	547946604	CASSIE_00113	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00113_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00113		20556
+	548499369	GRIMIC_00097_01	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00097_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00097\GRIMIC_00097_01		70588
+	548574075	CASSIE_00157_03	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00157_03_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00157_jump\CASSIE_00157_03		8460
+	549694106	CASSIE_00149_03	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00149_03_5CE5DC2F.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00149_running\CASSIE_00149_03		234640
+	551738374	GRIMIC_00022_08	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00022_08_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_00022_v2\GRIMIC_00022_08		180000
+	552373766	GRIMIC_00095b_06	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00095b_06_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00095b\GRIMIC_00095b_06		42112
+	553873923	MONTY_00029_DLC_09	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00029_DLC_09_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00029_DLC\MONTY_00029_DLC_09		21096
+	556043107	RN_ROXY_00030a	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_ROXY_00030a_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\RoxyVO\RN_ROXY_00030a		57088
+	556539219	MONTY_00003_DLC_06	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00003_DLC_06_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00003_DLC\MONTY_00003_DLC_06		16452
+	557790985	GRIMIC_00073_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00073_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_GENERAL_AR_RANDOM\GRIMIC_68_to_81\GRIMIC_00073_pref		146664
+	560525870	CHICA_00025_01	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CHICA_00025_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\ChicaVO\CHICA_00025_01		40060
+	562368021	GRIMIC_00029	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00029_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00029		220392
+	564326024	CASSIE_00126	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00126_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00126		140256
+	571748592	RN_GREGORY_WalkieTalkie_00005_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_GREGORY_WalkieTalkie_00005_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Gregory\RN_GREGORY_WalkieTalkie_00005_pref		65368
+	575287032	CASSIE_00025	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00025_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00025		52192
+	575745429	CASSIE_00034	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00034_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00034		18712
+	576208795	CANDY_00007	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CANDY_00007_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\CandyCadet\CANDY_00007		260812
+	579743577	CANDY_00003	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CANDY_00003_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\CandyCadet\CANDY_00003		133804
+	580202851	GRIMIC_00025	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00025_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_00025		294120
+	581651072	CASSIE_00071	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00071_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00071		32760
+	583519310	MONTY_00026_DLC_05	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00026_DLC_05_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00026_DLC\MONTY_00026_DLC_05		12564
+	593174788	CASSIE_00095	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00095_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00095		147240
+	596299633	GRIMIC_00103b	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00103b_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00103b		86104
+	600339185	MONTY_00028_DLC_04	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00028_DLC_04_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00028_DLC\MONTY_00028_DLC_04		71100
+	601376053	CASSIE_00057	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00057_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00057		148212
+	602404023	MONTY_00029_DLC_13	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00029_DLC_13_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00029_DLC\MONTY_00029_DLC_13		11772
+	608428352	CASSIE_00161a	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00161a_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00161a		29512
+	609132766	GRIMIC_00094b_03	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00094b_03_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00094b\GRIMIC_00094b_03		21592
+	610476437	GRIMIC_00036	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00036_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00036		114796
+	613027941	CASSIE_00129	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00129_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00129		34308
+	616269388	CASSIE_00053	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00053_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00053		133416
+	616548726	CASSIE_00033_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00033_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00033_pref		79416
+	616792544	GRIMIC_00067	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00067_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00067		106120
+	620608387	CASSIE_00145	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00145_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00145		46584
+	623105648	CANDY_00006	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CANDY_00006_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\CandyCadet\CANDY_00006		164800
+	626052080	RN_SUN_00003_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_SUN_00003_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\SunManVO\RN_SUN_00003_pref		175140
+	629726978	MONTY_00029_DLC_04	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00029_DLC_04_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00029_DLC\MONTY_00029_DLC_04		38520
+	634092418	FREDDY_00010_thatIs_Pref_RN	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00010_thatIs_Pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00019\FREDDY_00010_thatIs_Pref_RN		75808
+	634306507	MONTY_00026_DLC_06	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00026_DLC_06_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00026_DLC\MONTY_00026_DLC_06		13356
+	636178793	RN_GREGORY_WalkieTalkie_00010	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_GREGORY_WalkieTalkie_00010_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Gregory\RN_GREGORY_WalkieTalkie_00010		11584
+	639589526	MONTY_00029_DLC_08	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00029_DLC_08_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00029_DLC\MONTY_00029_DLC_08		22428
+	640651575	GRIMIC_00095_02	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00095_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00095\GRIMIC_00095_02		38152
+	642877721	RN_GREGORY_WalkieTalkie_00013	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_GREGORY_WalkieTalkie_00013_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Gregory\RN_GREGORY_WalkieTalkie_00013		20296
+	643154511	CASSIE_00103	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00103_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00103		45972
+	645991265	CASSIE_00086	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00086_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00086		158400
+	647571550	CASSIE_00082	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00082_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00082		37728
+	649170645	GRIMIC_00022_06	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00022_06_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_00022_v2\GRIMIC_00022_06		220392
+	649396251	CASSIE_00087	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00087_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00087		169272
+	653118895	CASSIE_00043a	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00043a_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00043a		76536
+	654060294	GRIMIC_00107	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00107_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00107		103384
+	656129510	CASSIE_00124	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00124_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00124		79632
+	657760431	RN_GREGORY_WalkieTalkie_00006_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_GREGORY_WalkieTalkie_00006_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Gregory\RN_GREGORY_WalkieTalkie_00006_pref		74332
+	658207039	CASSIE_00043	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00043_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00043		37368
+	658955697	RN_ROXY_00017_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_ROXY_00017_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\RoxyVO\RN_ROXY_00017_pref		220716
+	660210479	CASSIE_00120	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00120_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00120		68652
+	665625286	GRIMIC_00097_02	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00097_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00097\GRIMIC_00097_02		52984
+	666730572	CASSIE_00060	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00060_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00060		12528
+	669987966	GRIMIC_00078_alt	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00078_alt_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_GENERAL_AR_RANDOM\GRIMIC_68_to_81\GRIMIC_00078_alt		146664
+	670678486	CASSIE_00001	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00001_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00001		135360
+	670876634	RN_ROXY_00007	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_ROXY_00007_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\RoxyVO\RN_ROXY_00007		29376
+	670955794	CASSIE_00097	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00097_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00097		47880
+	672603564	CASSIE_00122_alt01	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00122_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00122_alt01		96480
+	673444330	GRIMIC_00016_b	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00016_b_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00016\GRIMIC_00016_b		166600
+	673668574	GRIMIC_00093_02	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00093_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00093\GRIMIC_00093_02		42400
+	673700727	CASSIE_00150_scared_running	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00150_7F0F703E.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00150_scared_running		294796
+	675178894	grimic_WalkieTalkie_00001	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\grimic_WalkieTalkie_00001_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\grimic_WalkieTalkie_00001		53884
+	675342216	GRIMIC_00098_01	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00098_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00098\GRIMIC_00098_01		17416
+	678086563	CANDY_00003a	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CANDY_00003a_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\CandyCadet\CANDY_00003a		213652
+	680563419	CASSIE_00154_02	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00154_02_F79A8AE6.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_154_small_startled\CASSIE_00154_02		6076
+	682128865	CASSIE_00105	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00105_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00105		149724
+	688280610	CASSIE_00047a	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00047a_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00047a		37944
+	688345951	GRIMIC_00022_03	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00022_03_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_00022_v2\GRIMIC_00022_03		220392
+	689936120	GRIMIC_00081_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00081_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_GENERAL_AR_RANDOM\GRIMIC_68_to_81\GRIMIC_00081_pref		220392
+	690244614	GRIMIC_00109d	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00109d_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00109d		92304
+	691541061	RN_FREDDY_00002	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_FREDDY_00002_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\FreddyVO\RN_FREDDY_00002		71992
+	693806446	CASSIE_00029	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00029_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00029		11196
+	695658715	CASSIE_00014	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00014_980345B1.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00014		196416
+	697446067	MONTY_00029_DLC_18	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00029_DLC_18_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00029_DLC\MONTY_00029_DLC_18		12564
+	698690005	MONTY_00029_DLC_21	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00029_DLC_21_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00029_DLC\MONTY_00029_DLC_21		12564
+	698946536	sfx_walkie-talkie_button_release_03	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_walkie-talkie_button_release_03_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\_Chowda\Tools\WalkieTalkie\sfx_walkie-talkie_button_release\sfx_walkie-talkie_button_release_03		4924
+	699638719	RN_ROXY_00001_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_ROXY_00001_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\RoxyVO\RN_ROXY_00001_pref		166644
+	701402337	CASSIE_00044	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00044_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00044		13744
+	702581623	GRIMIC_00094_02	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00094_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00094\GRIMIC_00094_02		27604
+	703901621	GRIMIC_00016_c	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00016_c_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00016\GRIMIC_00016_c		189640
+	707824547	GRIMIC_00072_alt	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00072_alt_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_GENERAL_AR_RANDOM\GRIMIC_68_to_81\GRIMIC_00072_alt		220392
+	709336728	GRIMIC_00058	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00058_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00058		42292
+	709343412	CASSIE_00157_05	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00157_05_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00157_jump\CASSIE_00157_05		7164
+	711778503	CASSIE_00026	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00026_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00026		78768
+	713452664	GRIMIC_00095b_03	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00095b_03_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00095b\GRIMIC_00095b_03		41896
+	713832982	RN_ROXY_00020	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_ROXY_00020_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\RoxyVO\RN_ROXY_00020		132948
+	717105808	CASSIE_00015_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00015_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00015_pref		168156
+	717455835	MONTY_00024_DLC_05	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00024_DLC_05_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00024_DLC\MONTY_00024_DLC_05		36612
+	718746254	MONTY_00024_DLC_11	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00024_DLC_11_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00024_DLC\MONTY_00024_DLC_11		31572
+	720807257	CASSIE_00156_01	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00156_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00156_breathing_calming_down\CASSIE_00156_01		107388
+	722558192	CASSIE_00089	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00089_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00089		172404
+	724851884	GRIMIC_00078_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00078_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_GENERAL_AR_RANDOM\GRIMIC_68_to_81\GRIMIC_00078_pref		146664
+	727824495	GRIMIC_00096b_02	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00096b_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00096b\GRIMIC_00096b_02		55144
+	728484764	CASSIE_00016	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00016_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00016		135936
+	732368564	GRIMIC_00022c	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00022c_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_00022c		37288
+	733379385	STAFFMOM_00003	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\Staff Mom\STAFFMOM_00003_A512447A.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\StaffbotVO\Staff Mom\STAFFMOM_00003		17055
+	734477684	STAFFDAD_00002	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\Staff Dad\STAFFDAD_00002_A512447A.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\StaffbotVO\Staff Dad\STAFFDAD_00002		9599
+	736751317	GRIMIC_WalkieTalkie_00013	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_WalkieTalkie_00013_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_WalkieTalkie_00013		102952
+	737060137	RN_GREGORY_WalkieTalkie_00001	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_GREGORY_WalkieTalkie_00001_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Gregory\RN_GREGORY_WalkieTalkie_00001		36856
+	737274946	GRIMIC_WalkieTalkie_00008	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_WalkieTalkie_00008_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_WalkieTalkie_00008		78796
+	738085197	CASSIE_00091	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00091_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00091		96516
+	743389748	CASSIE_00055	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00055_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00055		50832
+	743557654	RN_ROXY_00030	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_ROXY_00030_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\RoxyVO\RN_ROXY_00030		183960
+	747466997	RN_ROXY_00005_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_ROXY_00005_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\RoxyVO\RN_ROXY_00005_pref		104004
+	752294309	GRIMIC_00068_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00068_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_GENERAL_AR_RANDOM\GRIMIC_68_to_81\GRIMIC_00068_pref		220392
+	754987998	GRIMIC_00095_01	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00095_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00095\GRIMIC_00095_01		38692
+	760126922	STAFFMOM_00002	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\Staff Mom\STAFFMOM_00002_A512447A.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\StaffbotVO\Staff Mom\STAFFMOM_00002		25433
+	760131943	RN_ROXY_00026	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_ROXY_00026_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\RoxyVO\RN_ROXY_00026		81072
+	765919905	GRIMIC_00069_alt	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00069_alt_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_GENERAL_AR_RANDOM\GRIMIC_68_to_81\GRIMIC_00069_alt		146664
+	770846641	GRIMIC_00076_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00076_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_GENERAL_AR_RANDOM\GRIMIC_68_to_81\GRIMIC_00076_pref		146664
+	771214136	MONTY_00002_DLC_01	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00002_DLC_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00002_DLC\MONTY_00002_DLC_01		61776
+	772046443	CASSIE_00094	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00094_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00094		77472
+	772945062	MONTY_00026_DLC_08	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00026_DLC_08_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00026_DLC\MONTY_00026_DLC_08		15660
+	773058336	CASSIE_00074	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00074_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00074		44748
+	773674299	GRIMIC_00081_alt	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00081_alt_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_GENERAL_AR_RANDOM\GRIMIC_68_to_81\GRIMIC_00081_alt		220392
+	773675553	GRIMIC_00101	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00101_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00101		183592
+	775895572	CASSIE_00137	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00137_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00137		190692
+	776122600	GRIMIC_00090_02	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00090_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00090\GRIMIC_00090_02		19720
+	779014136	GRIMIC_00109f	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00109f_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00109f		75384
+	779089463	MONTY_00029_DLC_16	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00029_DLC_16_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00029_DLC\MONTY_00029_DLC_16		11268
+	780345369	MONTY_00002_DLC_03	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00002_DLC_03_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00002_DLC\MONTY_00002_DLC_03		137664
+	782936484	GRIMIC_00027	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00027_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00027		220392
+	787638774	CASSIE_00054	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00054_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00054		51192
+	790856009	CASSIE_00159_01	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00159_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00159\CASSIE_00159_01		18900
+	790950064	GRIMIC_00095b_02	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00095b_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00095b\GRIMIC_00095b_02		40420
+	792123093	GRIMIC_00104	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00104_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00104		35344
+	793363937	GRIMIC_00095b_05	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00095b_05_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00095b\GRIMIC_00095b_05		39808
+	793419327	CASSIE_00059	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00059_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00059		17064
+	796885301	CASSIE_00160	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00160_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00160		641448
+	797332263	RN_MOON_00004	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_MOON_00004_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MoonManVO\RN_MOON_00004		186768
+	797720083	RN_ROXY_00002_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_ROXY_00002_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\RoxyVO\RN_ROXY_00002_pref		118224
+	800078315	CASSIE_00155_01	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00155_01_38C2926F.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00155_startled_small_scream\CASSIE_00155_01		6580
+	800672905	CASSIE_00139	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00139_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00139		62280
+	803013066	RN_SUN_00005_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_SUN_00005_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\SunManVO\RN_SUN_00005_pref		125244
+	803147274	GRIMIC_00020	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00020_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00020		84880
+	804494783	MONTY_00001_DLC_04	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00001_DLC_04_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00001_DLC\MONTY_00001_DLC_04		47844
+	805101535	GRIMIC_00090_03	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00090_03_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00090\GRIMIC_00090_03		23500
+	808489324	CASSIE_00158_02	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00158_02_B8631D7D.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00158\CASSIE_00158_02		7120
+	810202448	sfx_walkie-talkie_button_release_05	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_walkie-talkie_button_release_05_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\_Chowda\Tools\WalkieTalkie\sfx_walkie-talkie_button_release\sfx_walkie-talkie_button_release_05		5320
+	812185327	GRIMIC_00057	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00057_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00057		47944
+	812530908	GRIMIC_00023	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00023_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_00023\GRIMIC_00023		146664
+	813942558	CASSIE_00102_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00102_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00102_pref		31716
+	814270506	CASSIE_00156_02	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00156_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00156_breathing_calming_down\CASSIE_00156_02		126036
+	815691837	CASSIE_00061_01	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00061_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00061\CASSIE_00061_01		5832
+	816287458	RN_MOON_00007	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_MOON_00007_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MoonManVO\RN_MOON_00007		326448
+	817628739	GRIMIC_00109_01	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00109_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00109\GRIMIC_00109_01		92304
+	819122998	RN_MOON_00001_05	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_MOON_00001_05_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MoonManVO\RN_MOON_00001\RN_MOON_00001_05		304272
+	819464461	sfx_walkie-talkie_button_release_02	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_walkie-talkie_button_release_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\_Chowda\Tools\WalkieTalkie\sfx_walkie-talkie_button_release\sfx_walkie-talkie_button_release_02		4636
+	819474359	CASSIE_00149_02	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00149_02_50735F42.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00149_running\CASSIE_00149_02		175024
+	819993060	MONTY_00001_DLC_05	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00001_DLC_05_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00001_DLC\MONTY_00001_DLC_05		110160
+	824668582	GRIMIC_00022_04	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00022_04_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_00022_v2\GRIMIC_00022_04		220392
+	827642223	RN_ROXY_00022	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_ROXY_00022_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\RoxyVO\RN_ROXY_00022		67464
+	827987968	GRIMIC_00094_01	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00094_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00094\GRIMIC_00094_01		27280
+	828284150	RN_ROXY_00010_pref_1	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_ROXY_00010_pref_1_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\RoxyVO\RN_ROXY_00010_pref_1		73944
+	828533768	GRIMIC_00079_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00079_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_GENERAL_AR_RANDOM\GRIMIC_68_to_81\GRIMIC_00079_pref		220392
+	828628004	CASSIE_00157_04	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00157_04_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00157_jump\CASSIE_00157_04		8712
+	829029045	CASSIE_00090	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00090_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00090		128124
+	830074753	CASSIE_00101_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00101-glued_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00101_pref		25416
+	835967369	GRIMIC_00105	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00105_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00105		148168
+	836229963	GRIMIC_00096_02	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00096_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00096\GRIMIC_00096_02		54964
+	836259514	GRIMIC_00022_02	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00022_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_00022_v2\GRIMIC_00022_02		294120
+	838959343	grimic_WalkieTalkie_00006	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\grimic_WalkieTalkie_00006_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\grimic_WalkieTalkie_00006		61480
+	840276909	CASSIE_00076	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00076_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00076		148924
+	840925051	CASSIE_00104	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00104_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00104		125856
+	843075995	CASSIE_00020_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00020_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00020_pref		47916
+	853571467	GRIMIC_00096b_01	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00096b_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00096b\GRIMIC_00096b_01		54712
+	853881560	sfx_walkie-talkie_button_press_05	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_walkie-talkie_button_press_05_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\_Chowda\Tools\WalkieTalkie\sfx_walkie-talkie_button_press\sfx_walkie-talkie_button_press_05		6256
+	858473017	GRIMIC_00079_alt	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00079_alt_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_GENERAL_AR_RANDOM\GRIMIC_68_to_81\GRIMIC_00079_alt		220392
+	860147411	CASSIE_00006	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00006_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00006		195444
+	861463714	GRIMIC_00068_alt	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00068_alt_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_GENERAL_AR_RANDOM\GRIMIC_68_to_81\GRIMIC_00068_alt		146664
+	865561815	RN_ROXY_00014	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_ROXY_00014_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\RoxyVO\RN_ROXY_00014		73944
+	866847107	CANDY_00004	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CANDY_00004_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\CandyCadet\CANDY_00004		156268
+	867854893	CASSIE_00112	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00112_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00112		162468
+	869945264	CASSIE_00151_02	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00151_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00151_grunts_pushing\CASSIE_00151_02		14004
+	870466921	MONTY_00003_DLC_05	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00003_DLC_05_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00003_DLC\MONTY_00003_DLC_05		20412
+	872790654	CASSIE_00151_08	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00151_08_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00151_grunts_pushing\CASSIE_00151_08		16956
+	879757064	CASSIE_00035_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00035_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00035_pref		62676
+	882925735	RN_GREGORY_WalkieTalkie_00007a	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_GREGORY_WalkieTalkie_00007a_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Gregory\RN_GREGORY_WalkieTalkie_00007a		32248
+	884768290	RN_MOON_00006_10	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_MOON_00006_10_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MoonManVO\RN_MOON_00006\RN_MOON_00006_10		415800
+	885720040	GRIMIC_00080_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00080_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_GENERAL_AR_RANDOM\GRIMIC_68_to_81\GRIMIC_00080_pref		220392
+	886957054	GRIMIC_00055	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00055_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00055		94348
+	890630035	GRIMIC_00080_alt	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00080_alt_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_GENERAL_AR_RANDOM\GRIMIC_68_to_81\GRIMIC_00080_alt		146664
+	891705328	GRIMIC_00022_10	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00022_10_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_00022_v2\GRIMIC_00022_10		220392
+	899349909	CASSIE_00121	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00121_5C18B408.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00121		39124
+	899929757	CASSIE_00024	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00024_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00024		52192
+	901543741	CASSIE_00081	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00081_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00081		85356
+	903674125	sfx_walkie-talkie_button_press_06	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_walkie-talkie_button_press_06_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\_Chowda\Tools\WalkieTalkie\sfx_walkie-talkie_button_press\sfx_walkie-talkie_button_press_06		8056
+	905377635	CASSIE_00151_07	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00151_07_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00151_grunts_pushing\CASSIE_00151_07		12924
+	905689467	CANDY_00001	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CANDY_00001_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\CandyCadet\CANDY_00001		215236
+	912625579	CASSIE_00126b	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00126b_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00126b		137412
+	913807479	RN_ROXY_00023	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_ROXY_00023_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\RoxyVO\RN_ROXY_00023		81072
+	919543299	CASSIE_00108	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00108_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00108		85356
+	920652038	MONTY_00024_DLC_07	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00024_DLC_07_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00024_DLC\MONTY_00024_DLC_07		24048
+	922333687	RN_ROXY_00028	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_ROXY_00028_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\RoxyVO\RN_ROXY_00028		67536
+	924266276	GRIMIC_00070_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00070_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_GENERAL_AR_RANDOM\GRIMIC_68_to_81\GRIMIC_00070_pref		220392
+	925798727	CASSIE_00010_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00010_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00010_pref		125244
+	927906419	MASKBOT_00002	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MASKBOT_00002_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\MaskBot\MASKBOT_00002		31276
+	929419125	CASSIE_00123	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00123_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00123		103068
+	931013830	STAFFMOM_00004	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\Staff Mom\STAFFMOM_00004_A512447A.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\StaffbotVO\Staff Mom\STAFFMOM_00004		17741
+	931029625	CASSIE_00159_03	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00159_03_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00159\CASSIE_00159_03		23292
+	932626839	CASSIE_00152_03	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00152_03_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00152_scared_gasps\CASSIE_00152_03		9432
+	942128534	RN_SUN_00009	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_SUN_00009_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\SunManVO\RN_SUN_00009		74952
+	942758129	CASSIE_00135	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00135_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00135		109656
+	946139908	MONTY_00028_DLC_01	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00028_DLC_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00028_DLC\MONTY_00028_DLC_01		74592
+	946256919	STAFFMOM_00001	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\Staff Mom\STAFFMOM_00001_A512447A.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\StaffbotVO\Staff Mom\STAFFMOM_00001		7507
+	947356427	MONTY_00028_DLC_02	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00028_DLC_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00028_DLC\MONTY_00028_DLC_02		35028
+	947784604	CASSIE_00144	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00144_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00144		67644
+	949397408	MONTY_00003_DLC_04	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00003_DLC_04_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00003_DLC\MONTY_00003_DLC_04		11772
+	949414531	RN_MOON_00008_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_MOON_00008_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MoonManVO\RN_MOON_00008_pref		1158480
+	949659447	CASSIE_00157_08	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00157_08_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00157_jump\CASSIE_00157_08		7164
+	950374858	CASSIE_00125	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00125_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00125		63792
+	950585372	GRIMIC_00056	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00056_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00056		69328
+	953372864	MONTY_00024_DLC_04	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00024_DLC_04_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00024_DLC\MONTY_00024_DLC_04		17604
+	953700447	GRIMIC_00109a_02	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00109a_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00109a\GRIMIC_00109a_02		92304
+	953865316	CASSIE_00051	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00051_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00051		89856
+	955984873	RN_GREGORY_WalkieTalkie_00003_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_GREGORY_WalkieTalkie_00003_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Gregory\RN_GREGORY_WalkieTalkie_00003_pref		40528
+	963157994	GRIMIC_00022d	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00022d_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_00022d		37288
+	965048068	GRIMIC_WalkieTalkie_00015	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_WalkieTalkie_00015_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_WalkieTalkie_00015		84448
+	967311090	CASSIE_00046_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00046_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00046_pref		65052
+	967391056	CASSIE_00036	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00036_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00036		162144
+	970487823	CASSIE_00013	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00013_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00013		21528
+	973087258	GRIMIC_00021b	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00021b_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00021b		60292
+	974656146	CASSIE_00119	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00119_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00119		72468
+	976101454	MONTY_00028_DLC_03	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00028_DLC_03_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00028_DLC\MONTY_00028_DLC_03		93168
+	976387688	sfx_walkie-talkie_button_release_06	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_walkie-talkie_button_release_06_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\_Chowda\Tools\WalkieTalkie\sfx_walkie-talkie_button_release\sfx_walkie-talkie_button_release_06		5644
+	977536066	RN_ROXY_00013	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_ROXY_00013_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\RoxyVO\RN_ROXY_00013		92376
+	981503714	CASSIE_00151_06	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00151_06_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00151_grunts_pushing\CASSIE_00151_06		12312
+	986741869	CASSIE_00008	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00008_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00008		76896
+	987579123	CASSIE_00058	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00058_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00058		99540
+	993983965	GRIMIC_00091_01	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00091_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00091\GRIMIC_00091_01		55576
+	995079382	RN_MOON_00006_09	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_MOON_00006_09_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MoonManVO\RN_MOON_00006\RN_MOON_00006_09		273312
+	997841850	CASSIE_00106	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00106_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00106		64080
+	998253071	MONTY_00029_DLC_06	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00029_DLC_06_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00029_DLC\MONTY_00029_DLC_06		21852
+	998843845	RN_ROXY_00006_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_ROXY_00006_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\RoxyVO\RN_ROXY_00006_pref		134928
+	1000720774	CASSIE_00157_02	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00157_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00157_jump\CASSIE_00157_02		9684
+	1004548805	RN_ROXY_00024	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_ROXY_00024_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\RoxyVO\RN_ROXY_00024		39708
+	1006648940	CASSIE_00049	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00049_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00049		129708
+	1007739773	GRIMIC_00099_01	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00099_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00099\GRIMIC_00099_01		14896
+	1008965668	CASSIE_00012_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00012_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00012_pref		90432
+	1009705322	RN_ROXY_00011	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_ROXY_00011_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\RoxyVO\RN_ROXY_00011		92376
+	1011670792	RN_MOON_00001_04	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_MOON_00001_04_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MoonManVO\RN_MOON_00001\RN_MOON_00001_04		354528
+	1017336428	RN_SUN_00007_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_SUN_00007_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\SunManVO\RN_SUN_00007_pref		34200
+	1017398955	MONTY_00001_DLC_02	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00001_DLC_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00001_DLC\MONTY_00001_DLC_02		70704
+	1019443712	CANDY_00002	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CANDY_00002_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\CandyCadet\CANDY_00002		63640
+	1020882676	CASSIE_00057a	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00057a_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00057a		31140
+	1021119255	CASSIE_00007	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00007_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00007		19872
+	1021175684	RN_ROXY_00029_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_ROXY_00029_pref_4CC7A3C2.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\RoxyVO\RN_ROXY_00029_pref		68112
+	1027909459	staffdad_00005_m	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\Staff Dad\staffdad_00005_m_A512447A.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\StaffbotVO\Staff Dad\staffdad_00005_m		8461
+	1029362161	RN_GREGORY_00014_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_GREGORY_00014_pref_6AAAC66B.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Gregory\RN_GREGORY_00014_pref		1031032
+	1031932777	CASSIE_00050a_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00050a_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00050a_pref		111924
+	1035247244	GRIMIC_00109_02	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00109_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00109\GRIMIC_00109_02		67032
+	1036407871	MONTY_00029_DLC_02	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00029_DLC_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00029_DLC\MONTY_00029_DLC_02		21852
+	1037377583	CASSIE_00099	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00099_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00099		18144
+	1044409970	CASSIE_00042	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00042_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00042		42624
+	1046147009	CASSIE_00146	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00146_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00146		21492
+	1046288126	CASSIE_00064	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00064_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00064		68868
+	1050445667	GRIMIC_00032	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00032_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\GRIMIC_00032		220392
+	1052389402	MONTY_00029_DLC_03	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MONTY_00029_DLC_03_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MontyVO\MONTY_00029_DLC\MONTY_00029_DLC_03		21852
+	1054036867	CASSIE_00021a_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00021a_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00021a_pref		64980
+	1057501676	CASSIE_00073	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00073_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00073		76032
+	1060531627	GRIMIC_00072_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GRIMIC_00072_pref_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Grimic\Whispers\GRIMIC_GENERAL_AR_RANDOM\GRIMIC_68_to_81\GRIMIC_00072_pref		220392
+	1062897299	CASSIE_00152_01	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00152_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00152_scared_gasps\CASSIE_00152_01		6948
+	1064088359	RN_GREGORY_WalkieTalkie_00009	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_GREGORY_WalkieTalkie_00009_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Gregory\RN_GREGORY_WalkieTalkie_00009		13312
+	1065044361	RN_MOON_00001_01	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_MOON_00001_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\MoonManVO\RN_MOON_00001\RN_MOON_00001_01		232560
+	1067215052	CASSIE_00080a	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00080a_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00080a		22320
+	1070026970	CASSIE_00143	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00143_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00143		52020
+	1071350601	RN_ROXY_00021	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\RN_ROXY_00021_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\AnimatronicVO\RoxyVO\RN_ROXY_00021		40104
+	1073449781	CASSIE_00093_pref	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CASSIE_00093_73E79EE3.wem		\Actor-Mixer Hierarchy\Dialogue\_Chowda\Cassie\CASSIE_00093_pref		58968
+
