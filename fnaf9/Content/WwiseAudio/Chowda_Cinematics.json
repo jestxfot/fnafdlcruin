@@ -1,0 +1,2858 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "140",
+  "RootPaths": {
+   "ProjectRoot": "D:\\ASITP\\FNAF\\Project\\fnaf9\\fnaf9_WwiseProject\\",
+   "SourceFilesRoot": "D:\\ASITP\\FNAF\\Project\\fnaf9\\fnaf9_WwiseProject\\.cache\\Windows\\",
+   "SoundBanksRoot": "D:\\ASITP\\FNAF\\Project\\fnaf9\\Content\\WwiseAudio\\Windows\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "D:\\ASITP\\FNAF\\Project\\fnaf9\\fnaf9_WwiseProject\\GeneratedSoundBanks\\Windows"
+  },
+  "SoundBanks": [
+   {
+    "Id": "1973272004",
+    "GUID": "{759DBDC4-BDC4-1DC4-C4C4-C4C4C4C4C4C4}",
+    "Language": "SFX",
+    "Hash": "1947888167",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Chowda_Cinematics",
+    "ShortName": "Chowda_Cinematics",
+    "Path": "Chowda_Cinematics.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "1792019360",
+      "Name": "Play_cine_AR_mask",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_AR_mask",
+      "GUID": "{3A6C2CD2-CFA8-40A1-A27D-57C5C8495F35}",
+      "DurationType": "OneShot",
+      "DurationMin": "11.194546",
+      "DurationMax": "11.194546",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "1048568778",
+        "Language": "SFX",
+        "ShortName": "cine_AR_mask.wav",
+        "Path": "SFX\\cine_AR_mask_EDD048A9.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3482596876",
+      "Name": "Play_cine_ATM_fall",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_ATM_fall",
+      "GUID": "{20FE1B20-28C6-49C0-9ACD-C0848B8ABCD0}",
+      "MaxAttenuation": "4000.",
+      "DurationType": "OneShot",
+      "DurationMin": "6.633333",
+      "DurationMax": "6.633333",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "547406679",
+        "Language": "SFX",
+        "ShortName": "cine_ATM_fall.wav",
+        "Path": "SFX\\cine_ATM_fall_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1012486781",
+      "Name": "Play_cine_Cassie_confrontsMimicThenRoxySavesCassie_A",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_Cassie_confrontsMimicThenRoxySavesCassie_A",
+      "GUID": "{FA9E2C96-6544-4A6D-B019-F835BCA99951}",
+      "DurationType": "OneShot",
+      "DurationMin": "35.511314",
+      "DurationMax": "35.511314",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "642993756",
+        "Language": "SFX",
+        "ShortName": "cine_Cassie_confrontsMimicThenRoxySavesCassie_A.wav",
+        "Path": "SFX\\cine_Cassie_confrontsMimicThenRoxySavesCassie_A_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1012486776",
+      "Name": "Play_cine_Cassie_confrontsMimicThenRoxySavesCassie_D",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_Cassie_confrontsMimicThenRoxySavesCassie_D",
+      "GUID": "{CF08DE6A-5D1A-47BD-8821-DC696A7E50A9}",
+      "DurationType": "OneShot",
+      "DurationMin": "38.99202",
+      "DurationMax": "38.99202",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "240058819",
+        "Language": "SFX",
+        "ShortName": "cine_Cassie_confrontsMimicThenRoxySavesCassie_D.wav",
+        "Path": "SFX\\cine_Cassie_confrontsMimicThenRoxySavesCassie_D_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1012486777",
+      "Name": "Play_cine_Cassie_confrontsMimicThenRoxySavesCassie_E",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_Cassie_confrontsMimicThenRoxySavesCassie_E",
+      "GUID": "{B590D9DF-0DF1-4C1F-9AB6-B7C89F74B65C}",
+      "DurationType": "OneShot",
+      "DurationMin": "10.201338",
+      "DurationMax": "10.201338",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "652614919",
+        "Language": "SFX",
+        "ShortName": "cine_Cassie_confrontsMimicThenRoxySavesCassie_E.wav",
+        "Path": "SFX\\cine_Cassie_confrontsMimicThenRoxySavesCassie_E_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1608972045",
+      "Name": "Play_cine_Cassie_confrontsMimicThenRoxySavesCassie_tension_lp",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_cine_Cassie_confrontsMimicThenRoxySavesCassie_tension_lp",
+      "GUID": "{9381D263-BD29-4A71-8F90-CC58283D194F}",
+      "DurationType": "Infinite",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "816201266",
+        "Language": "SFX",
+        "ShortName": "cine_Cassie_confrontsMimicThenRoxySavesCassie_tension_lp.wav",
+        "Path": "SFX\\cine_Cassie_confrontsMimicThenRoxySavesCassie_tension_lp_F585A561.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1203553217",
+      "Name": "Play_cine_Cassie_confrontsMimicThenRoxySavesHer_B",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_Cassie_confrontsMimicThenRoxySavesHer_B",
+      "GUID": "{E66BC723-F749-43CA-B1C1-EE1508F742D1}",
+      "DurationType": "OneShot",
+      "DurationMin": "11.328753",
+      "DurationMax": "11.328753",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "755543136",
+        "Language": "SFX",
+        "ShortName": "cine_Cassie_confrontsMimicThenRoxySavesCassie_B.wav",
+        "Path": "SFX\\cine_Cassie_confrontsMimicThenRoxySavesCassie_B_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1203553216",
+      "Name": "Play_cine_Cassie_confrontsMimicThenRoxySavesHer_C",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_Cassie_confrontsMimicThenRoxySavesHer_C",
+      "GUID": "{FDFC17B7-8A46-40B3-BF3C-DC1DE58B3D88}",
+      "DurationType": "OneShot",
+      "DurationMin": "10.445102",
+      "DurationMax": "10.445102",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "713463977",
+        "Language": "SFX",
+        "ShortName": "cine_Cassie_confrontsMimicThenRoxySavesCassie_C.wav",
+        "Path": "SFX\\cine_Cassie_confrontsMimicThenRoxySavesCassie_C_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1711034781",
+      "Name": "Play_cine_Cassie_conveyerArmHitsPlayer",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_Cassie_conveyerArmHitsPlayer",
+      "GUID": "{0A2DBAD1-2632-404C-AD90-CB6D2E783EF3}",
+      "DurationType": "OneShot",
+      "DurationMin": "22.933332",
+      "DurationMax": "22.933332",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "884365551",
+        "Language": "SFX",
+        "ShortName": "sfx_Cassie_conveyerArmHitsAndPushesPlayer.wav",
+        "Path": "SFX\\sfx_Cassie_conveyerArmHitsAndPushesPlayer_93CB7A26.wem"
+       }
+      ]
+     },
+     {
+      "Id": "4134882548",
+      "Name": "Play_cine_Cassie_deactivatesRoxy",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_Cassie_deactivatesRoxy",
+      "GUID": "{B5A8F1C6-EA82-4AEF-8541-527AEFC3BE10}",
+      "DurationType": "OneShot",
+      "DurationMin": "7.733333",
+      "DurationMax": "7.733333",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "187377476",
+        "Language": "SFX",
+        "ShortName": "cine_Cassie_deactivatesRoxy.wav",
+        "Path": "SFX\\cine_Cassie_deactivatesRoxy_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1000436924",
+      "Name": "Play_cine_Cassie_flashlightDies",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_Cassie_flashlightDies",
+      "GUID": "{5CFDD564-3D02-467B-88AF-3E151783AE70}",
+      "DurationType": "OneShot",
+      "DurationMin": "6.733333",
+      "DurationMax": "6.733333",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "653629610",
+        "Language": "SFX",
+        "ShortName": "cine_Cassie_flashlightDies.wav",
+        "Path": "SFX\\cine_Cassie_flashlightDies_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3950354436",
+      "Name": "Play_cine_Cassie_resetsMoonMan",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_Cassie_resetsMoonMan",
+      "GUID": "{86D45CE3-4582-4D6D-8C64-488B06F73F75}",
+      "DurationType": "OneShot",
+      "DurationMin": "39.061337",
+      "DurationMax": "39.061337",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "535902454",
+        "Language": "SFX",
+        "ShortName": "cine_Cassie_resetsMoonMan_EclipseTransformation.wav",
+        "Path": "SFX\\cine_Cassie_resetsMoonMan_EclipseTransformation_4BF45BED.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2602901078",
+      "Name": "Play_cine_Cassie_seesCameraARBlockerDisappear",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_Cassie_seesCameraARBlockerDisappear",
+      "GUID": "{1FBCDC86-D879-478A-913F-5E86A7E91517}",
+      "DurationType": "OneShot",
+      "DurationMin": "6.033333",
+      "DurationMax": "6.033333",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "924920306",
+        "Language": "SFX",
+        "ShortName": "cine_Cassie_seesCameraARBlockerDisappear.wav",
+        "Path": "SFX\\cine_Cassie_seesCameraARBlockerDisappear_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2655993316",
+      "Name": "Play_cine_Cassie_seesCartFlyOffBrokenRail",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_Cassie_seesCartFlyOffBrokenRail",
+      "GUID": "{3C496D96-F1D6-4049-95E1-A2CAA6F8213D}",
+      "DurationType": "OneShot",
+      "DurationMin": "18.966667",
+      "DurationMax": "18.966667",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "928193902",
+        "Language": "SFX",
+        "ShortName": "cine_Cassie_seesCartFlyOffBrokenRail.wav",
+        "Path": "SFX\\cine_Cassie_seesCartFlyOffBrokenRail_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1413986686",
+      "Name": "Play_cine_Cassie_seesChicaOnConveyerBelt",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_Cassie_seesChicaOnConveyerBelt",
+      "GUID": "{17307611-CCB5-4962-B289-546F80643735}",
+      "DurationType": "OneShot",
+      "DurationMin": "13.297392",
+      "DurationMax": "13.297392",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "823384576",
+        "Language": "SFX",
+        "ShortName": "cine_Cassie_seesChicaOnConveyerBelt.wav",
+        "Path": "SFX\\cine_Cassie_seesChicaOnConveyerBelt_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "789434262",
+      "Name": "Play_cine_Cassie_seesTangle",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_Cassie_seesTangle",
+      "GUID": "{066BB8F5-6576-4ABE-854B-314EB925DE1D}",
+      "DurationType": "OneShot",
+      "DurationMin": "27.014671",
+      "DurationMax": "27.014671",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "625555861",
+        "Language": "SFX",
+        "ShortName": "cine_Cassie_seesTangle.wav",
+        "Path": "SFX\\cine_Cassie_seesTangle_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1106425017",
+      "Name": "Play_cine_Cassie_shovesVoiceBoxIntoChicasThroat",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_Cassie_shovesVoiceBoxIntoChicasThroat",
+      "GUID": "{F4BD9869-A5DA-42F3-8DAE-E147757C906E}",
+      "DurationType": "OneShot",
+      "DurationMin": "23.200001",
+      "DurationMax": "23.200001",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "346904294",
+        "Language": "SFX",
+        "ShortName": "cine_Cassie_shovesVoiceBoxIntoChicasThroat.wav",
+        "Path": "SFX\\cine_Cassie_shovesVoiceBoxIntoChicasThroat_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "429246815",
+      "Name": "Play_cine_Cassie_shutsDownComputer",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_Cassie_shutsDownComputer",
+      "GUID": "{16E63C9E-794C-4053-975B-F1183AF1D237}",
+      "DurationType": "OneShot",
+      "DurationMin": "20.666666",
+      "DurationMax": "20.666666",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "956471588",
+        "Language": "SFX",
+        "ShortName": "cine_Cassie_shutsDownComputer.wav",
+        "Path": "SFX\\cine_Cassie_shutsDownComputer_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3525659383",
+      "Name": "Play_cine_Cassie_shutsDownComputer_A",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_cine_Cassie_shutsDownComputer_A",
+      "GUID": "{2A725E89-105F-43CC-8948-4468C3F6DCD8}",
+      "DurationType": "OneShot",
+      "DurationMin": "20.666666",
+      "DurationMax": "20.666666",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "185195725",
+        "Language": "SFX",
+        "ShortName": "cine_Cassie_shutsDownComputer_A.wav",
+        "Path": "SFX\\cine_Cassie_shutsDownComputer_A_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3525659380",
+      "Name": "Play_cine_Cassie_shutsDownComputer_B",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_cine_Cassie_shutsDownComputer_B",
+      "GUID": "{35775A9E-4323-4110-99FE-C9226A3E3190}",
+      "DurationType": "OneShot",
+      "DurationMin": "14.9",
+      "DurationMax": "14.9",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "998213267",
+        "Language": "SFX",
+        "ShortName": "cine_Cassie_shutsDownComputer_B.wav",
+        "Path": "SFX\\cine_Cassie_shutsDownComputer_B_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3753998988",
+      "Name": "Play_cine_Cassie_slidesDownVentToVannyRoom",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_Cassie_slidesDownVentToVannyRoom",
+      "GUID": "{0BC5185D-61BE-44F6-852A-785C852E47D8}",
+      "DurationType": "OneShot",
+      "DurationMin": "32.573334",
+      "DurationMax": "32.573334",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "838470927",
+        "Language": "SFX",
+        "ShortName": "cine_Cassie_slidesDownVentToVannyRoom.wav",
+        "Path": "SFX\\cine_Cassie_slidesDownVentToVannyRoom_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "654715799",
+      "Name": "Play_cine_Cassie_takesFlashlight",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_Cassie_takesFlashlight",
+      "GUID": "{EB27F460-C7B0-4C5C-AE19-59B727B1BC41}",
+      "DurationType": "OneShot",
+      "DurationMin": "4.266667",
+      "DurationMax": "4.266667",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "646684656",
+        "Language": "SFX",
+        "ShortName": "cine_Cassie_takesFlashlight.wav",
+        "Path": "SFX\\cine_Cassie_takesFlashlight_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1032871771",
+      "Name": "Play_cine_Cassie_talksToGregoryOutsideElevator",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_Cassie_talksToGregoryOutsideElevator",
+      "GUID": "{C0C3067C-8F4F-41D3-B069-427F5AA585F5}",
+      "DurationType": "OneShot",
+      "DurationMin": "30.444988",
+      "DurationMax": "30.444988",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "694419214",
+        "Language": "SFX",
+        "ShortName": "cine_Cassie_talksToGregoryOutsideElevator.wav",
+        "Path": "SFX\\cine_Cassie_talksToGregoryOutsideElevator_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2931070805",
+      "Name": "Play_cine_Cassie_talksToRoxyPinned",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_Cassie_talksToRoxyPinned",
+      "GUID": "{C8BA0F06-1245-4EAC-9D99-8A83EE49D8DF}",
+      "DurationType": "OneShot",
+      "DurationMin": "27.833334",
+      "DurationMax": "27.833334",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "841657251",
+        "Language": "SFX",
+        "ShortName": "cine_Cassie_talksToRoxyPinned.wav",
+        "Path": "SFX\\cine_Cassie_talksToRoxyPinned_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1353546739",
+      "Name": "Play_cine_Cassie_wakesUpInGatorGolf",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_Cassie_wakesUpInGatorGolf",
+      "GUID": "{467486D7-9F45-4BD2-9BF6-1F7E86F4980E}",
+      "DurationType": "OneShot",
+      "DurationMin": "19.200001",
+      "DurationMax": "19.200001",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "694525948",
+        "Language": "SFX",
+        "ShortName": "cine_Cassie_wakesUpInGatorGolf.wav",
+        "Path": "SFX\\cine_Cassie_wakesUpInGatorGolf_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2419585318",
+      "Name": "Play_cine_Cassie_watchesRoxySobbing",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_Cassie_watchesRoxySobbing",
+      "GUID": "{D64B3B5F-8114-4D18-B303-F607F9AE45ED}",
+      "DurationType": "OneShot",
+      "DurationMin": "33.898663",
+      "DurationMax": "33.898663",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "883255396",
+        "Language": "SFX",
+        "ShortName": "cine_Cassie_watchesRoxySobbing.wav",
+        "Path": "SFX\\cine_Cassie_watchesRoxySobbing_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "4289684982",
+      "Name": "Play_cine_catwalks_vent_collapse",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_catwalks_vent_collapse",
+      "GUID": "{CA42E798-81D4-4FBE-B0E3-4DE45CC50B63}",
+      "DurationType": "OneShot",
+      "DurationMin": "12.866667",
+      "DurationMax": "12.866667",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "696023142",
+        "Language": "SFX",
+        "ShortName": "cine_Catwalks_vent_collapse.wav",
+        "Path": "SFX\\cine_Catwalks_vent_collapse_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2725005940",
+      "Name": "Play_cine_Chica_chasesCassie",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_Chica_chasesCassie",
+      "GUID": "{7194DCF9-057A-4467-B926-E0B7BE049497}",
+      "DurationType": "OneShot",
+      "DurationMin": "7.025521",
+      "DurationMax": "7.025521",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "335267499",
+        "Language": "SFX",
+        "ShortName": "cine_Chica_chasesCassie.wav",
+        "Path": "SFX\\cine_Chica_chasesCassie_CDD42FD6.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2902679410",
+      "Name": "Play_cine_Chica_CupCake_fallingDebris_A",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_Chica_CupCake_fallingDebris_A",
+      "GUID": "{272D5C37-5286-4321-BCA5-D1C22F04F8D6}",
+      "DurationType": "OneShot",
+      "DurationMin": "5.5",
+      "DurationMax": "5.5",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "573509123",
+        "Language": "SFX",
+        "ShortName": "cine_Chica_CupCake_fallingDebris_A.wav",
+        "Path": "SFX\\cine_Chica_CupCake_fallingDebris_A_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2902679409",
+      "Name": "Play_cine_Chica_CupCake_fallingDebris_B",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_Chica_CupCake_fallingDebris_B",
+      "GUID": "{D80B817D-2A69-4521-A22D-EF4765D8E98F}",
+      "DurationType": "OneShot",
+      "DurationMin": "6.366667",
+      "DurationMax": "6.366667",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "927582511",
+        "Language": "SFX",
+        "ShortName": "cine_Chica_CupCake_fallingDebris_B.wav",
+        "Path": "SFX\\cine_Chica_CupCake_fallingDebris_B_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2902679408",
+      "Name": "Play_cine_Chica_CupCake_fallingDebris_C",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_Chica_CupCake_fallingDebris_C",
+      "GUID": "{485B95C4-FA20-4A49-A8AD-FAA1577003D0}",
+      "DurationType": "OneShot",
+      "DurationMin": "7.766667",
+      "DurationMax": "7.766667",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "874341950",
+        "Language": "SFX",
+        "ShortName": "cine_Chica_CupCake_fallingDebris_C.wav",
+        "Path": "SFX\\cine_Chica_CupCake_fallingDebris_C_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1526430987",
+      "Name": "Play_cine_dlcRabbit_activatesARWorldInhibitor",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_dlcRabbit_activatesARWorldInhibitor",
+      "GUID": "{7877C96F-510F-4CC3-965E-1A9F586E3C39}",
+      "DurationType": "OneShot",
+      "DurationMin": "18.566668",
+      "DurationMax": "18.566668",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "436535073",
+        "Language": "SFX",
+        "ShortName": "cine_dlcRabbit_activatesARWorldInhibitor.wav",
+        "Path": "SFX\\cine_dlcRabbit_activatesARWorldInhibitor_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3799019360",
+      "Name": "Play_cine_DLCRabbit_screamsAndDissapears_teleportDoorAppears",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_DLCRabbit_screamsAndDissapears_teleportDoorAppears",
+      "GUID": "{79C2A5A4-2E75-4C72-81DB-B4015B1A1C3B}",
+      "DurationType": "OneShot",
+      "DurationMin": "9.033334",
+      "DurationMax": "9.033334",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "455062501",
+        "Language": "SFX",
+        "ShortName": "cine_DLCRabbit_screamsAndDissapears_teleportDoorAppears.wav",
+        "Path": "SFX\\cine_DLCRabbit_screamsAndDissapears_teleportDoorAppears_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "331157819",
+      "Name": "Play_cine_elevator_shaft_A",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_elevator_shaft_A",
+      "GUID": "{C015BDFD-2D41-4EFE-AF7C-2725FF27CE3C}",
+      "DurationType": "OneShot",
+      "DurationMin": "8.280794",
+      "DurationMax": "11.714309",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "181292493",
+        "Language": "SFX",
+        "ShortName": "amb_scatter_rubble_fall_small_03.wav",
+        "Path": "SFX\\amb_scatter_rubble_fall_small_03_7DBFA4EB.wem"
+       },
+       {
+        "Id": "283803449",
+        "Language": "SFX",
+        "ShortName": "amb_scatter_rubble_fall_small_02.wav",
+        "Path": "SFX\\amb_scatter_rubble_fall_small_02_7DBFA4EB.wem"
+       },
+       {
+        "Id": "309391810",
+        "Language": "SFX",
+        "ShortName": "amb_scatter_rubble_fall_small_04.wav",
+        "Path": "SFX\\amb_scatter_rubble_fall_small_04_7DBFA4EB.wem"
+       },
+       {
+        "Id": "380012854",
+        "Language": "SFX",
+        "ShortName": "amb_scatter_rubble_fall_small_05.wav",
+        "Path": "SFX\\amb_scatter_rubble_fall_small_05_7DBFA4EB.wem"
+       },
+       {
+        "Id": "384423892",
+        "Language": "SFX",
+        "ShortName": "cine_elevator_shaft_A.wav",
+        "Path": "SFX\\cine_elevator_shaft_A_73E79EE3.wem"
+       },
+       {
+        "Id": "519335953",
+        "Language": "SFX",
+        "ShortName": "amb_scatter_rubble_fall_small_08.wav",
+        "Path": "SFX\\amb_scatter_rubble_fall_small_08_7DBFA4EB.wem"
+       },
+       {
+        "Id": "692506232",
+        "Language": "SFX",
+        "ShortName": "amb_scatter_rubble_fall_small_06.wav",
+        "Path": "SFX\\amb_scatter_rubble_fall_small_06_7DBFA4EB.wem"
+       },
+       {
+        "Id": "698178720",
+        "Language": "SFX",
+        "ShortName": "amb_scatter_rubble_fall_small_01.wav",
+        "Path": "SFX\\amb_scatter_rubble_fall_small_01_7DBFA4EB.wem"
+       },
+       {
+        "Id": "767275046",
+        "Language": "SFX",
+        "ShortName": "amb_scatter_rubble_fall_small_09.wav",
+        "Path": "SFX\\amb_scatter_rubble_fall_small_09_7DBFA4EB.wem"
+       },
+       {
+        "Id": "968561261",
+        "Language": "SFX",
+        "ShortName": "amb_scatter_rubble_fall_small_07.wav",
+        "Path": "SFX\\amb_scatter_rubble_fall_small_07_7DBFA4EB.wem"
+       },
+       {
+        "Id": "989457488",
+        "Language": "SFX",
+        "ShortName": "amb_scatter_rubble_fall_small_10.wav",
+        "Path": "SFX\\amb_scatter_rubble_fall_small_10_7DBFA4EB.wem"
+       }
+      ],
+      "ActionPostEvent": [
+       {
+        "Id": "561288986",
+        "Name": "Stop_fly_cassie_ladder_step",
+        "ObjectPath": "\\Events\\Chowda\\Characters\\Cassie\\Stop_fly_cassie_ladder_step",
+        "GUID": "{6CB1A2BC-0512-46F8-BFB1-242B51A36DD5}"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "1409647625",
+        "Name": "AttachedSignal",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\AttachedSignal",
+        "GUID": "{7173AE06-92D0-40C1-A84F-834EEFBE9BA9}"
+       }
+      ]
+     },
+     {
+      "Id": "331157816",
+      "Name": "Play_cine_elevator_shaft_B",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_elevator_shaft_B",
+      "GUID": "{C010212E-56E0-4DF0-8F1A-B364AA49F40F}",
+      "DurationType": "OneShot",
+      "DurationMin": "11.817823",
+      "DurationMax": "11.817823",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "458340976",
+        "Language": "SFX",
+        "ShortName": "cine_elevator_shaft_B.wav",
+        "Path": "SFX\\cine_elevator_shaft_B_73E79EE3.wem"
+       }
+      ],
+      "ActionPostEvent": [
+       {
+        "Id": "938227368",
+        "Name": "Play_fly_cassie_ladder_step",
+        "ObjectPath": "\\Events\\Chowda\\Characters\\Cassie\\Play_fly_cassie_ladder_step",
+        "GUID": "{3DEEA8C9-C4B8-47D6-9D39-3C3DAC678AC6}"
+       }
+      ]
+     },
+     {
+      "Id": "3542506763",
+      "Name": "Play_cine_Fazwrench_pickup",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_Fazwrench_pickup",
+      "GUID": "{FBCBC372-B7F3-4D06-A5DC-0852FCA7BB74}",
+      "DurationType": "OneShot",
+      "DurationMin": "7.507332",
+      "DurationMax": "7.507332",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "113915188",
+        "Language": "SFX",
+        "ShortName": "cine_Fazwrench_pickup.wav",
+        "Path": "SFX\\cine_Fazwrench_pickup_39DDD6CD.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3083578790",
+      "Name": "Play_cine_forklift_breaksIntoMimicRoom_forklift",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_forklift_breaksIntoMimicRoom_forklift",
+      "GUID": "{120DE5CE-C0B1-4B17-B18A-6EC902A6283B}",
+      "DurationType": "OneShot",
+      "DurationMin": "7.430386",
+      "DurationMax": "7.430386",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "360531560",
+        "Language": "SFX",
+        "ShortName": "cine_forklift_breaksIntoMimicRoom_Forklift.wav",
+        "Path": "SFX\\cine_forklift_breaksIntoMimicRoom_Forklift_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1239065590",
+      "Name": "Play_cine_forklift_breaksIntoMimicRoom_wallBreak",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_forklift_breaksIntoMimicRoom_wallBreak",
+      "GUID": "{9222A680-DEC3-4BF1-B4EB-2CEAC3FF2F66}",
+      "DurationType": "OneShot",
+      "DurationMin": "4.441633",
+      "DurationMax": "4.441633",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "903499232",
+        "Language": "SFX",
+        "ShortName": "cine_forklift_breaksIntoMimicRoom_WallBreak.wav",
+        "Path": "SFX\\cine_forklift_breaksIntoMimicRoom_WallBreak_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "598970673",
+      "Name": "Play_cine_forklift_triesToBbreakIntoMimicRoom_Forklift",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_forklift_triesToBbreakIntoMimicRoom_Forklift",
+      "GUID": "{D1BF4665-5C87-4581-9A0C-7529A09D637F}",
+      "DurationType": "OneShot",
+      "DurationMin": "3.471338",
+      "DurationMax": "3.471338",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "245651905",
+        "Language": "SFX",
+        "ShortName": "cine_forklift_triesToBbreakIntoMimicRoom_Forklift.wav",
+        "Path": "SFX\\cine_forklift_triesToBbreakIntoMimicRoom_Forklift_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2896758785",
+      "Name": "Play_cine_forklift_triesToBbreakIntoMimicRoom_MetalDoorImpact",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_forklift_triesToBbreakIntoMimicRoom_MetalDoorImpact",
+      "GUID": "{D4CD041D-32E7-4499-AEFB-A4B35DFD2313}",
+      "DurationType": "OneShot",
+      "DurationMin": "3.396349",
+      "DurationMax": "3.396349",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "229505400",
+        "Language": "SFX",
+        "ShortName": "cine_forklift_triesToBbreakIntoMimicRoom_MetalDoorImpact.wav",
+        "Path": "SFX\\cine_forklift_triesToBbreakIntoMimicRoom_MetalDoorImpact_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "522505605",
+      "Name": "Play_cine_Freddy_risesFallenRubble",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_Freddy_risesFallenRubble",
+      "GUID": "{38F3A49E-5D6E-4A60-8AF8-97D0169B555A}",
+      "DurationType": "OneShot",
+      "DurationMin": "11.957324",
+      "DurationMax": "11.957324",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "810817006",
+        "Language": "SFX",
+        "ShortName": "cine_Freddy_risesFallenRubble.wav",
+        "Path": "SFX\\cine_Freddy_risesFallenRubble_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1833108406",
+      "Name": "Play_cine_Freddy_smashesThroughWall",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_Freddy_smashesThroughWall",
+      "GUID": "{8DB98BDB-49A7-4F96-8452-D14A44B34D08}",
+      "DurationType": "OneShot",
+      "DurationMin": "8.433333",
+      "DurationMax": "8.433333",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "262252577",
+        "Language": "SFX",
+        "ShortName": "cine_Freddy_smashesThroughWall.wav",
+        "Path": "SFX\\cine_Freddy_smashesThroughWall_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1172716928",
+      "Name": "Play_cine_gokartScreechesTowardsPlayer_boxes",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_gokartScreechesTowardsPlayer_boxes",
+      "GUID": "{A82560C0-E162-4026-A911-1A6199E6C83C}",
+      "MaxAttenuation": "4000.",
+      "DurationType": "OneShot",
+      "DurationMin": "3.273991",
+      "DurationMax": "3.273991",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "473527669",
+        "Language": "SFX",
+        "ShortName": "cine_gokartScreechesTowardsPlayer_boxes.wav",
+        "Path": "SFX\\cine_gokartScreechesTowardsPlayer_boxes_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1999223738",
+      "Name": "Play_cine_gokartScreechesTowardsPlayer_crash",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_gokartScreechesTowardsPlayer_crash",
+      "GUID": "{3A41B5BB-9361-4975-8EE5-C79EB01EB7A8}",
+      "MaxAttenuation": "4000.",
+      "DurationType": "OneShot",
+      "DurationMin": "2.492177",
+      "DurationMax": "2.492177",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "872871083",
+        "Language": "SFX",
+        "ShortName": "cine_gokartScreechesTowardsPlayer_crash.wav",
+        "Path": "SFX\\cine_gokartScreechesTowardsPlayer_crash_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2284575679",
+      "Name": "Play_cine_gokartScreechesTowardsPlayer_kart",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_gokartScreechesTowardsPlayer_kart",
+      "GUID": "{1CC496D1-3D80-4F02-BD6D-6116E124FE7D}",
+      "MaxAttenuation": "4000.",
+      "DurationType": "OneShot",
+      "DurationMin": "7.347823",
+      "DurationMax": "7.347823",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "114568316",
+        "Language": "SFX",
+        "ShortName": "cine_gokartScreechesTowardsPlayer_kart.wav",
+        "Path": "SFX\\cine_gokartScreechesTowardsPlayer_kart_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "830878852",
+      "Name": "Play_cine_gokartScreechesTowardsPlayer_sting",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_gokartScreechesTowardsPlayer_sting",
+      "GUID": "{F253A02D-5DF4-41A1-B9BB-27BE97A27A4A}",
+      "DurationType": "OneShot",
+      "DurationMin": "5.436485",
+      "DurationMax": "5.436485",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "340793656",
+        "Language": "SFX",
+        "ShortName": "cine_gokartScreechesTowardsPlayer_sting.wav",
+        "Path": "SFX\\cine_gokartScreechesTowardsPlayer_sting_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1888651789",
+      "Name": "Play_cine_Gondola_doorOpen",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_Gondola_doorOpen",
+      "GUID": "{1763F52C-6B9F-4B5D-9DDC-79ED9F68400B}",
+      "DurationType": "OneShot",
+      "DurationMin": "9.420913",
+      "DurationMax": "9.420913",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "694641676",
+        "Language": "SFX",
+        "ShortName": "cine_Gondola_doorOpen.wav",
+        "Path": "SFX\\cine_Gondola_doorOpen_D26332F2.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3381341158",
+      "Name": "Play_cine_goodEnding",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_goodEnding",
+      "GUID": "{00D947E5-E8A1-4E39-89BD-72C750F5A0FB}",
+      "DurationType": "OneShot",
+      "DurationMin": "71.96769",
+      "DurationMax": "71.96769",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "319086275",
+        "Language": "SFX",
+        "ShortName": "cine_goodEnding.wav",
+        "Path": "SFX\\cine_goodEnding_73E79EE3.wem"
+       },
+       {
+        "Id": "447732635",
+        "Language": "SFX",
+        "ShortName": "mus_FNAF9_ScooperEnding V1_timingfixed.wav",
+        "Path": "SFX\\mus_FNAF9_ScooperEnding V1_timingfixed_F585A561.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1237432161",
+      "Name": "Play_cine_Gregory_asksCassieToTurnOffSecurity",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_Gregory_asksCassieToTurnOffSecurity",
+      "GUID": "{45E0FA5A-6EDD-4AC3-BEB6-271986F227C5}",
+      "DurationType": "OneShot",
+      "DurationMin": "40.94381",
+      "DurationMax": "40.94381",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "974325580",
+        "Language": "SFX",
+        "ShortName": "cine_Gregory_asksCassieToTurnOffSecurity.wav",
+        "Path": "SFX\\cine_Gregory_asksCassieToTurnOffSecurity_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "323429084",
+      "Name": "Play_cine_item_fallOffCatwalks",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_item_fallOffCatwalks",
+      "GUID": "{D69939EC-5C98-4BBA-A386-735C3D554C0F}",
+      "MaxAttenuation": "4000.",
+      "DurationType": "OneShot",
+      "DurationMin": "7.539614",
+      "DurationMax": "7.539614",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "1039359198",
+        "Language": "SFX",
+        "ShortName": "cine_item_fallOffCatwalks.wav",
+        "Path": "SFX\\cine_item_fallOffCatwalks_435B7126.wem"
+       }
+      ]
+     },
+     {
+      "Id": "678720561",
+      "Name": "Play_cine_item_fallOffCatwalks_Start",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_item_fallOffCatwalks_Start",
+      "GUID": "{2F04E97E-1DE0-4D1A-AAE9-02AEB542F6E4}",
+      "MaxAttenuation": "4000.",
+      "DurationType": "OneShot",
+      "DurationMin": "4.324579",
+      "DurationMax": "4.324579",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "737270509",
+        "Language": "SFX",
+        "ShortName": "cine_ventDrop_kitchen_sfx_B.wav",
+        "Path": "SFX\\cine_ventDrop_kitchen_sfx_B_A565ED5D.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3528164870",
+      "Name": "Play_cine_logRide_monty_electrocuted",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_logRide_monty_electrocuted",
+      "GUID": "{0C324DD6-45CD-4FE3-B666-48B369A9B409}",
+      "DurationType": "OneShot",
+      "DurationMin": "19.910908",
+      "DurationMax": "19.910908",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "539195328",
+        "Language": "SFX",
+        "ShortName": "cine_logRide_monty_electrocuted.wav",
+        "Path": "SFX\\cine_logRide_monty_electrocuted_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2995199956",
+      "Name": "Play_cine_Monty_AppearsAndJumpsInWater",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_Monty_AppearsAndJumpsInWater",
+      "GUID": "{5D032E54-818F-4E92-8EBD-41E02A5FEE3C}",
+      "DurationType": "OneShot",
+      "DurationMin": "14.466644",
+      "DurationMax": "14.466644",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "1071895140",
+        "Language": "SFX",
+        "ShortName": "cine_Monty_AppearsAndJumpsInWater.wav",
+        "Path": "SFX\\cine_Monty_AppearsAndJumpsInWater_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2606856594",
+      "Name": "Play_cine_Monty_crawlspace_attack_A",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_Monty_crawlspace_attack_A",
+      "GUID": "{D46B9AAF-3D2E-43B2-859D-BDFAA4743BC9}",
+      "DurationType": "OneShot",
+      "DurationMin": "3.346146",
+      "DurationMax": "3.346146",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "978967178",
+        "Language": "SFX",
+        "ShortName": "cine_Monty_crawlspace_attack_A.wav",
+        "Path": "SFX\\cine_Monty_crawlspace_attack_A_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "490748776",
+      "Name": "Play_cine_Monty_crawlspace_attack_AR_A",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_Monty_crawlspace_attack_AR_A",
+      "GUID": "{F94CD82C-D7C0-424D-8952-607F356CC9E7}",
+      "DurationType": "OneShot",
+      "DurationMin": "4.341354",
+      "DurationMax": "4.341354",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "620256896",
+        "Language": "SFX",
+        "ShortName": "cine_Monty_crawlspace_attack_AR_A.wav",
+        "Path": "SFX\\cine_Monty_crawlspace_attack_AR_A_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "490748779",
+      "Name": "Play_cine_Monty_crawlspace_attack_AR_B",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_Monty_crawlspace_attack_AR_B",
+      "GUID": "{5821333E-7474-4F7C-84E9-335E3064D17A}",
+      "DurationType": "OneShot",
+      "DurationMin": "5.625",
+      "DurationMax": "5.625",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "677377868",
+        "Language": "SFX",
+        "ShortName": "cine_Monty_crawlspace_attack_AR_B.wav",
+        "Path": "SFX\\cine_Monty_crawlspace_attack_AR_B_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2606856593",
+      "Name": "Play_cine_Monty_crawlspace_attack_B",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_Monty_crawlspace_attack_B",
+      "GUID": "{2C9568C3-7C4C-46C5-B425-AC25C41AFBD0}",
+      "DurationType": "OneShot",
+      "DurationMin": "4.875",
+      "DurationMax": "4.875",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "1057539085",
+        "Language": "SFX",
+        "ShortName": "cine_Monty_crawlspace_attack_B.wav",
+        "Path": "SFX\\cine_Monty_crawlspace_attack_B_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3824814288",
+      "Name": "Play_cine_Monty_crawlspace_crawlsAway",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_Monty_crawlspace_crawlsAway",
+      "GUID": "{6CC7F482-8D54-46A6-8388-6D94715F9DE7}",
+      "DurationType": "OneShot",
+      "DurationMin": "9.3",
+      "DurationMax": "9.3",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "735428334",
+        "Language": "SFX",
+        "ShortName": "cine_Monty_crawlspace_attack_scratchingAway.wav",
+        "Path": "SFX\\cine_Monty_crawlspace_attack_scratchingAway_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "783324539",
+      "Name": "Play_cine_MontyAttack_sfx_A",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_MontyAttack_sfx_A",
+      "GUID": "{153C92A0-7F1C-47F3-892F-7B2CEBA013C8}",
+      "DurationType": "OneShot",
+      "DurationMin": "8.862267",
+      "DurationMax": "8.862267",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "308998683",
+        "Language": "SFX",
+        "ShortName": "cine_sting_MontyPipe.wav",
+        "Path": "SFX\\cine_sting_MontyPipe_73E79EE3.wem"
+       },
+       {
+        "Id": "459438273",
+        "Language": "SFX",
+        "ShortName": "cine_MontyAttack_sfx_A.wav",
+        "Path": "SFX\\cine_MontyAttack_sfx_A_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "783324536",
+      "Name": "Play_cine_MontyAttack_sfx_B",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_MontyAttack_sfx_B",
+      "GUID": "{32B6D381-6E7A-47A3-847C-E5E21E73A52E}",
+      "DurationType": "OneShot",
+      "DurationMin": "20.750885",
+      "DurationMax": "20.750885",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "624568123",
+        "Language": "SFX",
+        "ShortName": "cine_MontyAttack_sfx_B.wav",
+        "Path": "SFX\\cine_MontyAttack_sfx_B_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "783324537",
+      "Name": "Play_cine_MontyAttack_sfx_C",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_MontyAttack_sfx_C",
+      "GUID": "{C72A0563-84CA-4C12-9F2C-B679158A3B8B}",
+      "DurationType": "OneShot",
+      "DurationMin": "19.264807",
+      "DurationMax": "19.264807",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "1071267544",
+        "Language": "SFX",
+        "ShortName": "cine_MontyAttack_sfx_C.wav",
+        "Path": "SFX\\cine_MontyAttack_sfx_C_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3173536017",
+      "Name": "Play_cine_Moonman_maintenancePanelRevealed",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_Moonman_maintenancePanelRevealed",
+      "GUID": "{A3FF4C0E-D9D3-4E6C-ABD4-5564C28BD91B}",
+      "DurationType": "OneShot",
+      "DurationMin": "9.909343",
+      "DurationMax": "9.909343",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "758830251",
+        "Language": "SFX",
+        "ShortName": "cine_moonMan_maintenancePanelrevealed.wav",
+        "Path": "SFX\\cine_moonMan_maintenancePanelrevealed_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "298143307",
+      "Name": "Play_cine_moonMan_maintenancePanelrevealed_Orange01",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_moonMan_maintenancePanelrevealed_Orange01",
+      "GUID": "{01E4EEB2-454F-48CE-9C9D-88F625520881}",
+      "DurationType": "OneShot",
+      "DurationMin": "9.909343",
+      "DurationMax": "9.909343",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "1017999311",
+        "Language": "SFX",
+        "ShortName": "cine_moonMan_maintenancePanelrevealed_Orange01.wav",
+        "Path": "SFX\\cine_moonMan_maintenancePanelrevealed_Orange01_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "298143304",
+      "Name": "Play_cine_moonMan_maintenancePanelrevealed_Orange02",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_moonMan_maintenancePanelrevealed_Orange02",
+      "GUID": "{75847742-2C29-4BE9-BE16-870EDF3A49F9}",
+      "DurationType": "OneShot",
+      "DurationMin": "12.578504",
+      "DurationMax": "12.578504",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "265656204",
+        "Language": "SFX",
+        "ShortName": "cine_moonMan_maintenancePanelrevealed_Orange02.wav",
+        "Path": "SFX\\cine_moonMan_maintenancePanelrevealed_Orange02_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3698258392",
+      "Name": "Play_cine_moonMan_maintenancePanelrevealed_Red01",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_moonMan_maintenancePanelrevealed_Red01",
+      "GUID": "{0CE98BA6-EA77-481B-9346-3F9897B45176}",
+      "DurationType": "OneShot",
+      "DurationMin": "10.15195",
+      "DurationMax": "10.15195",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "1072425135",
+        "Language": "SFX",
+        "ShortName": "cine_moonMan_maintenancePanelrevealed_Red01.wav",
+        "Path": "SFX\\cine_moonMan_maintenancePanelrevealed_Red01_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3698258395",
+      "Name": "Play_cine_moonMan_maintenancePanelrevealed_Red02",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_moonMan_maintenancePanelrevealed_Red02",
+      "GUID": "{DB684967-D4AF-4ABC-B187-B30E9825FEA9}",
+      "DurationType": "OneShot",
+      "DurationMin": "11.029343",
+      "DurationMax": "11.029343",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "606770184",
+        "Language": "SFX",
+        "ShortName": "cine_moonMan_maintenancePanelrevealed_Red02.wav",
+        "Path": "SFX\\cine_moonMan_maintenancePanelrevealed_Red02_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1150374264",
+      "Name": "Play_cine_moonMan_reachesThroughGymWalls_A",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_moonMan_reachesThroughGymWalls_A",
+      "GUID": "{8CF89F98-6C6B-4E63-B1FD-1A2DDAB94897}",
+      "DurationType": "OneShot",
+      "DurationMin": "11.231905",
+      "DurationMax": "11.231905",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "694358342",
+        "Language": "SFX",
+        "ShortName": "cine_moonMan_reachesThroughGymWalls_A.wav",
+        "Path": "SFX\\cine_moonMan_reachesThroughGymWalls_A_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1150374267",
+      "Name": "Play_cine_moonMan_reachesThroughGymWalls_B",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_moonMan_reachesThroughGymWalls_B",
+      "GUID": "{B86692F7-F78B-435C-A960-D6A8A901846B}",
+      "DurationType": "OneShot",
+      "DurationMin": "6.94941",
+      "DurationMax": "6.94941",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "599067757",
+        "Language": "SFX",
+        "ShortName": "cine_moonMan_reachesThroughGymWalls_B.wav",
+        "Path": "SFX\\cine_moonMan_reachesThroughGymWalls_B_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "4180112772",
+      "Name": "Play_cine_neutralEnding_A",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_neutralEnding_A",
+      "GUID": "{BCCD9F48-0D6F-4ABD-A127-4C7EB250BE5D}",
+      "DurationType": "OneShot",
+      "DurationMin": "5.08424",
+      "DurationMax": "5.08424",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "868059768",
+        "Language": "SFX",
+        "ShortName": "cine_neutralEnding_A.wav",
+        "Path": "SFX\\cine_neutralEnding_A_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "4180112775",
+      "Name": "Play_cine_neutralEnding_B",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_neutralEnding_B",
+      "GUID": "{81945100-3929-4D20-8C13-FBCB17D4D1E3}",
+      "DurationType": "OneShot",
+      "DurationMin": "18.286848",
+      "DurationMax": "18.286848",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "74921838",
+        "Language": "SFX",
+        "ShortName": "cine_neutralEnding_B.wav",
+        "Path": "SFX\\cine_neutralEnding_B_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "4180112774",
+      "Name": "Play_cine_neutralEnding_C",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_neutralEnding_C",
+      "GUID": "{DA1B3183-A392-4B33-B152-0A0B1DB9605E}",
+      "DurationType": "OneShot",
+      "DurationMin": "7.551383",
+      "DurationMax": "7.551383",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "266098612",
+        "Language": "SFX",
+        "ShortName": "cine_neutralEnding_C.wav",
+        "Path": "SFX\\cine_neutralEnding_C_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "4180112769",
+      "Name": "Play_cine_neutralEnding_D",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_neutralEnding_D",
+      "GUID": "{8553E367-B68B-4796-A74E-F6D17F537CBE}",
+      "DurationType": "OneShot",
+      "DurationMin": "25.689297",
+      "DurationMax": "25.689297",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "419779367",
+        "Language": "SFX",
+        "ShortName": "cine_neutralEnding_D.wav",
+        "Path": "SFX\\cine_neutralEnding_D_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1891890412",
+      "Name": "Play_cine_neutralEnding_elevator_lp",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_cine_neutralEnding_elevator_lp",
+      "GUID": "{1F0FB494-0A44-4997-86E0-B7DBF1F49F4E}",
+      "DurationType": "Infinite",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "219443066",
+        "Language": "SFX",
+        "ShortName": "cine_neutralEnding_elevator_start.wav",
+        "Path": "SFX\\cine_neutralEnding_elevator_start_73E79EE3.wem"
+       },
+       {
+        "Id": "337016087",
+        "Language": "SFX",
+        "ShortName": "cine_neutralEnding_elevator_lp.wav",
+        "Path": "SFX\\cine_neutralEnding_elevator_lp_F585A561.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2780678027",
+      "Name": "Play_cine_OpeningCinematic_A",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_OpeningCinematic_A",
+      "GUID": "{5C38E807-AC08-4C7D-A2FD-12177FC8F1C1}",
+      "DurationType": "OneShot",
+      "DurationMin": "10.922653",
+      "DurationMax": "10.922653",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "974033694",
+        "Language": "SFX",
+        "ShortName": "cine_OpeningCinematic_A.wav",
+        "Path": "SFX\\cine_OpeningCinematic_A_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2780678024",
+      "Name": "Play_cine_OpeningCinematic_B",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_OpeningCinematic_B",
+      "GUID": "{512E334A-D019-4A6F-8C9C-1428A25E036D}",
+      "DurationType": "OneShot",
+      "DurationMin": "9.557324",
+      "DurationMax": "9.557324",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "826698248",
+        "Language": "SFX",
+        "ShortName": "cine_OpeningCinematic_B.wav",
+        "Path": "SFX\\cine_OpeningCinematic_B_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "337594289",
+      "Name": "Play_cine_PlayerScansLobby",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_PlayerScansLobby",
+      "GUID": "{7CBAC861-7F9B-4568-99BB-73D2BFCF6CC8}",
+      "DurationType": "OneShot",
+      "DurationMin": "21.819818",
+      "DurationMax": "21.819818",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "477361096",
+        "Language": "SFX",
+        "ShortName": "cine_PlayerScansLobby.wav",
+        "Path": "SFX\\cine_PlayerScansLobby_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3918095873",
+      "Name": "Play_cine_Roxy_breaksTheGate",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_cine_Roxy_breaksTheGate",
+      "GUID": "{F051A54D-5BBA-4AE3-9EE4-6B14DCCA9F0D}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.996893",
+      "DurationMax": "1.996893",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "195208755",
+        "Language": "SFX",
+        "ShortName": "cine_Roxy_breaksTheGate.wav",
+        "Path": "SFX\\cine_Roxy_breaksTheGate_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1794971712",
+      "Name": "Play_cine_Roxy_grabsCassie",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_Roxy_grabsCassie",
+      "GUID": "{4F02F8CC-4346-47C2-971B-691B3D1A398D}",
+      "DurationType": "OneShot",
+      "DurationMin": "11.573334",
+      "DurationMax": "11.573334",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "492811370",
+        "Language": "SFX",
+        "ShortName": "cine_Roxy_grabsCassie.wav",
+        "Path": "SFX\\cine_Roxy_grabsCassie_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1483589053",
+      "Name": "Play_cine_Roxy_powersDown",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_Roxy_powersDown",
+      "GUID": "{F18987CD-6C0C-4C7D-AB55-1ABB87B8210E}",
+      "MaxAttenuation": "4000.",
+      "DurationType": "OneShot",
+      "DurationMin": "15.133333",
+      "DurationMax": "15.133333",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "938388214",
+        "Language": "SFX",
+        "ShortName": "cine_Roxy_powersDown.wav",
+        "Path": "SFX\\cine_Roxy_powersDown_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "219640498",
+      "Name": "Play_cine_SecurityBreach_footagePlays",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_cine_SecurityBreach_footagePlays",
+      "GUID": "{38DF40A9-85BE-4507-9E0A-9514AB972244}",
+      "MaxAttenuation": "4500.",
+      "DurationType": "OneShot",
+      "DurationMin": "13.666667",
+      "DurationMax": "13.666667",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "790180512",
+        "Language": "SFX",
+        "ShortName": "cine_SecurityBreach_footagePlays.wav",
+        "Path": "SFX\\cine_SecurityBreach_footagePlays_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3144604367",
+      "Name": "Play_cine_staffBot_softJumpscare_2",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_staffBot_softJumpscare_2",
+      "GUID": "{834345E4-A81F-44F2-A87E-45700FECDA53}",
+      "MaxAttenuation": "4000.",
+      "DurationType": "OneShot",
+      "DurationMin": "10.812494",
+      "DurationMax": "10.812494",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "383816909",
+        "Language": "SFX",
+        "ShortName": "cine_staffBot_softJumpscare_2.wav",
+        "Path": "SFX\\cine_staffBot_softJumpscare_2_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1147502975",
+      "Name": "Play_cine_sunMan_itsNotSafeYet",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_sunMan_itsNotSafeYet",
+      "GUID": "{ACF505B1-23C2-4BDD-8EE5-496544144D55}",
+      "DurationType": "OneShot",
+      "DurationMin": "7.",
+      "DurationMax": "7.",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "307918673",
+        "Language": "SFX",
+        "ShortName": "cine_sunMan_itsNotSafeYet.wav",
+        "Path": "SFX\\cine_sunMan_itsNotSafeYet_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3770065175",
+      "Name": "Play_cine_sunMan_rainbowBridge_jumpscare_A",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_sunMan_rainbowBridge_jumpscare_A",
+      "GUID": "{25D41085-DA58-44F1-8EC5-3898457924F3}",
+      "DurationType": "OneShot",
+      "DurationMin": "32.932995",
+      "DurationMax": "32.932995",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "830956794",
+        "Language": "SFX",
+        "ShortName": "cine_sunMan_rainbowBridge_jumpscare_A.wav",
+        "Path": "SFX\\cine_sunMan_rainbowBridge_jumpscare_A_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3770065172",
+      "Name": "Play_cine_sunMan_rainbowBridge_jumpscare_B",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_sunMan_rainbowBridge_jumpscare_B",
+      "GUID": "{72E1853B-A2A9-4325-AC38-1DFAF8DB5604}",
+      "DurationType": "OneShot",
+      "DurationMin": "6.545691",
+      "DurationMax": "6.545691",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "17998875",
+        "Language": "SFX",
+        "ShortName": "cine_sunMan_rainbowBridge_jumpscare_B.wav",
+        "Path": "SFX\\cine_sunMan_rainbowBridge_jumpscare_B_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2407227919",
+      "Name": "Play_cine_ventDrop_drag",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_ventDrop_drag",
+      "GUID": "{4682DE3F-7807-4F69-B48F-11788401083F}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.282242",
+      "DurationMax": "1.310906",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "316294335",
+        "Language": "SFX",
+        "ShortName": "fly_cassie_organicGarbage_getUp_03.wav",
+        "Path": "SFX\\fly_cassie_organicGarbage_getUp_03_73E79EE3.wem"
+       },
+       {
+        "Id": "343287977",
+        "Language": "SFX",
+        "ShortName": "fly_cassie_organicGarbage_crouch_01.wav",
+        "Path": "SFX\\fly_cassie_organicGarbage_crouch_01_73E79EE3.wem"
+       },
+       {
+        "Id": "397772894",
+        "Language": "SFX",
+        "ShortName": "fly_cassie_organicGarbage_crouch_run_02.wav",
+        "Path": "SFX\\fly_cassie_organicGarbage_crouch_run_02_73E79EE3.wem"
+       },
+       {
+        "Id": "443648849",
+        "Language": "SFX",
+        "ShortName": "fly_cassie_organicGarbage_getUp_04.wav",
+        "Path": "SFX\\fly_cassie_organicGarbage_getUp_04_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2055606871",
+      "Name": "Play_cine_ventDrop_kitchen_sfx",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_ventDrop_kitchen_sfx",
+      "GUID": "{626CFA6A-3A2E-421F-A836-6A7426596E9E}",
+      "DurationType": "OneShot",
+      "DurationMin": "8.862267",
+      "DurationMax": "8.862267",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "513487207",
+        "Language": "SFX",
+        "ShortName": "cine_ventDrop_kitchen.wav",
+        "Path": "SFX\\cine_ventDrop_kitchen_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3915941375",
+      "Name": "Play_cine_ventDrop_kitchen_sfx_A",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_ventDrop_kitchen_sfx_A",
+      "GUID": "{868AEF5D-1B8C-4806-B891-812FCD0EA2B4}",
+      "DurationType": "OneShot",
+      "DurationMin": "8.374989",
+      "DurationMax": "8.374989",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "523422306",
+        "Language": "SFX",
+        "ShortName": "cine_ventDrop_kitchen_sfx_A.wav",
+        "Path": "SFX\\cine_ventDrop_kitchen_sfx_A_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3915941372",
+      "Name": "Play_cine_ventDrop_kitchen_sfx_B",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_ventDrop_kitchen_sfx_B",
+      "GUID": "{1B7C3E91-440A-40C1-AD6D-F06353FD3DB9}",
+      "DurationType": "OneShot",
+      "DurationMin": "4.062494",
+      "DurationMax": "4.062494",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "463073777",
+        "Language": "SFX",
+        "ShortName": "cine_ventDrop_kitchen_sfx_B.wav",
+        "Path": "SFX\\cine_ventDrop_kitchen_sfx_B_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3915941373",
+      "Name": "Play_cine_ventDrop_kitchen_sfx_C",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_ventDrop_kitchen_sfx_C",
+      "GUID": "{5B7FC4CE-DA48-46BF-A82B-1825B20825DB}",
+      "DurationType": "OneShot",
+      "DurationMin": "5.",
+      "DurationMax": "5.",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "697245538",
+        "Language": "SFX",
+        "ShortName": "cine_ventDrop_kitchen_sfx_C.wav",
+        "Path": "SFX\\cine_ventDrop_kitchen_sfx_C_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3915941370",
+      "Name": "Play_cine_ventDrop_kitchen_sfx_D",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_ventDrop_kitchen_sfx_D",
+      "GUID": "{AEB898F9-13B1-4F4F-8D72-AAFB6BF89644}",
+      "DurationType": "OneShot",
+      "DurationMin": "3.624989",
+      "DurationMax": "3.624989",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "215695905",
+        "Language": "SFX",
+        "ShortName": "cine_ventDrop_kitchen_sfx_D.wav",
+        "Path": "SFX\\cine_ventDrop_kitchen_sfx_D_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "947292742",
+      "Name": "Play_cine_ventDrop_land_A",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_ventDrop_land_A",
+      "GUID": "{BDF8E9BB-685D-4D1C-9E68-D5E5367688D8}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.153854",
+      "DurationMax": "1.153854",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "478261525",
+        "Language": "SFX",
+        "ShortName": "fly_cassie_organicGarbage_land_04.wav",
+        "Path": "SFX\\fly_cassie_organicGarbage_land_04_73E79EE3.wem"
+       },
+       {
+        "Id": "559474370",
+        "Language": "SFX",
+        "ShortName": "fly_cassie_organicGarbage_crouch_run_01.wav",
+        "Path": "SFX\\fly_cassie_organicGarbage_crouch_run_01_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "947292741",
+      "Name": "Play_cine_ventDrop_land_B",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_ventDrop_land_B",
+      "GUID": "{E33D9871-9A8A-47FC-84D6-AE971BD21F0C}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.054237",
+      "DurationMax": "1.054237",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "478261525",
+        "Language": "SFX",
+        "ShortName": "fly_cassie_organicGarbage_land_04.wav",
+        "Path": "SFX\\fly_cassie_organicGarbage_land_04_73E79EE3.wem"
+       },
+       {
+        "Id": "751390021",
+        "Language": "SFX",
+        "ShortName": "fly_cassie_organicGarbage_crouch_04.wav",
+        "Path": "SFX\\fly_cassie_organicGarbage_crouch_04_73E79EE3.wem"
+       },
+       {
+        "Id": "922438838",
+        "Language": "SFX",
+        "ShortName": "fly_cassie_organicGarbage_crouch_walk_03.wav",
+        "Path": "SFX\\fly_cassie_organicGarbage_crouch_walk_03_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1233372131",
+      "Name": "Play_cine_ventDrop_stand",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_cine_ventDrop_stand",
+      "GUID": "{226B58C8-6BD5-4758-8CA1-79BF13BB605E}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.923083",
+      "DurationMax": "0.923083",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "214818339",
+        "Language": "SFX",
+        "ShortName": "fly_cassie_organicGarbage_crouch_walk_06.wav",
+        "Path": "SFX\\fly_cassie_organicGarbage_crouch_walk_06_73E79EE3.wem"
+       },
+       {
+        "Id": "820488633",
+        "Language": "SFX",
+        "ShortName": "fly_cassie_organicGarbage_walk_02.wav",
+        "Path": "SFX\\fly_cassie_organicGarbage_walk_02_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "938227368",
+      "Name": "Play_fly_cassie_ladder_step",
+      "ObjectPath": "\\Events\\Chowda\\Characters\\Cassie\\Play_fly_cassie_ladder_step",
+      "GUID": "{3DEEA8C9-C4B8-47D6-9D39-3C3DAC678AC6}",
+      "DurationType": "Infinite",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "70331281",
+        "Language": "SFX",
+        "ShortName": "fly_cassie_ladder_feet_09.wav",
+        "Path": "SFX\\fly_cassie_ladder_feet_09_73E79EE3.wem"
+       },
+       {
+        "Id": "92482653",
+        "Language": "SFX",
+        "ShortName": "fly_cassie_ladder_hands_08.wav",
+        "Path": "SFX\\fly_cassie_ladder_hands_08_73E79EE3.wem"
+       },
+       {
+        "Id": "185292377",
+        "Language": "SFX",
+        "ShortName": "fly_cassie_ladder_hands_03.wav",
+        "Path": "SFX\\fly_cassie_ladder_hands_03_73E79EE3.wem"
+       },
+       {
+        "Id": "303528967",
+        "Language": "SFX",
+        "ShortName": "fly_cassie_ladder_hands_09.wav",
+        "Path": "SFX\\fly_cassie_ladder_hands_09_73E79EE3.wem"
+       },
+       {
+        "Id": "325436584",
+        "Language": "SFX",
+        "ShortName": "fly_cassie_ladder_hands_07.wav",
+        "Path": "SFX\\fly_cassie_ladder_hands_07_73E79EE3.wem"
+       },
+       {
+        "Id": "389516884",
+        "Language": "SFX",
+        "ShortName": "fly_cassie_ladder_feet_06.wav",
+        "Path": "SFX\\fly_cassie_ladder_feet_06_73E79EE3.wem"
+       },
+       {
+        "Id": "502568275",
+        "Language": "SFX",
+        "ShortName": "fly_cassie_ladder_feet_10.wav",
+        "Path": "SFX\\fly_cassie_ladder_feet_10_73E79EE3.wem"
+       },
+       {
+        "Id": "519982481",
+        "Language": "SFX",
+        "ShortName": "fly_cassie_ladder_feet_03.wav",
+        "Path": "SFX\\fly_cassie_ladder_feet_03_73E79EE3.wem"
+       },
+       {
+        "Id": "542580386",
+        "Language": "SFX",
+        "ShortName": "fly_cassie_ladder_hands_06.wav",
+        "Path": "SFX\\fly_cassie_ladder_hands_06_73E79EE3.wem"
+       },
+       {
+        "Id": "552032375",
+        "Language": "SFX",
+        "ShortName": "fly_cassie_ladder_feet_01.wav",
+        "Path": "SFX\\fly_cassie_ladder_feet_01_73E79EE3.wem"
+       },
+       {
+        "Id": "630550010",
+        "Language": "SFX",
+        "ShortName": "fly_cassie_ladder_feet_02.wav",
+        "Path": "SFX\\fly_cassie_ladder_feet_02_73E79EE3.wem"
+       },
+       {
+        "Id": "690237157",
+        "Language": "SFX",
+        "ShortName": "fly_cassie_ladder_hands_10.wav",
+        "Path": "SFX\\fly_cassie_ladder_hands_10_73E79EE3.wem"
+       },
+       {
+        "Id": "739813726",
+        "Language": "SFX",
+        "ShortName": "fly_cassie_ladder_feet_07.wav",
+        "Path": "SFX\\fly_cassie_ladder_feet_07_73E79EE3.wem"
+       },
+       {
+        "Id": "833711652",
+        "Language": "SFX",
+        "ShortName": "fly_cassie_ladder_feet_11.wav",
+        "Path": "SFX\\fly_cassie_ladder_feet_11_73E79EE3.wem"
+       },
+       {
+        "Id": "859516681",
+        "Language": "SFX",
+        "ShortName": "fly_cassie_ladder_hands_04.wav",
+        "Path": "SFX\\fly_cassie_ladder_hands_04_73E79EE3.wem"
+       },
+       {
+        "Id": "895233443",
+        "Language": "SFX",
+        "ShortName": "fly_cassie_ladder_hands_01.wav",
+        "Path": "SFX\\fly_cassie_ladder_hands_01_73E79EE3.wem"
+       },
+       {
+        "Id": "910419408",
+        "Language": "SFX",
+        "ShortName": "fly_cassie_ladder_feet_05.wav",
+        "Path": "SFX\\fly_cassie_ladder_feet_05_73E79EE3.wem"
+       },
+       {
+        "Id": "911460111",
+        "Language": "SFX",
+        "ShortName": "fly_cassie_ladder_feet_04.wav",
+        "Path": "SFX\\fly_cassie_ladder_feet_04_73E79EE3.wem"
+       },
+       {
+        "Id": "998990744",
+        "Language": "SFX",
+        "ShortName": "fly_cassie_ladder_hands_02.wav",
+        "Path": "SFX\\fly_cassie_ladder_hands_02_73E79EE3.wem"
+       },
+       {
+        "Id": "1053635900",
+        "Language": "SFX",
+        "ShortName": "fly_cassie_ladder_feet_08.wav",
+        "Path": "SFX\\fly_cassie_ladder_feet_08_73E79EE3.wem"
+       },
+       {
+        "Id": "1057250059",
+        "Language": "SFX",
+        "ShortName": "fly_cassie_ladder_hands_05.wav",
+        "Path": "SFX\\fly_cassie_ladder_hands_05_73E79EE3.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "1409647625",
+        "Name": "AttachedSignal",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\AttachedSignal",
+        "GUID": "{7173AE06-92D0-40C1-A84F-834EEFBE9BA9}"
+       }
+      ]
+     },
+     {
+      "Id": "2625936203",
+      "Name": "Play_sfx_Cassie_falling_in_pipe",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_sfx_Cassie_falling_in_pipe",
+      "GUID": "{3DABBDE8-5131-4091-B3E1-F8D69DA41061}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.751973",
+      "DurationMax": "1.751973",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "381003478",
+        "Language": "SFX",
+        "ShortName": "sfx_Cassie_falling_in_pipe.wav",
+        "Path": "SFX\\sfx_Cassie_falling_in_pipe_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3261214903",
+      "Name": "Play_sfx_Cassie_slidesDownVentToVannyRoom_head",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_sfx_Cassie_slidesDownVentToVannyRoom_head",
+      "GUID": "{22AE6219-A239-49FE-84C7-4AEB01C99B52}",
+      "DurationType": "Infinite",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "11586044",
+        "Language": "SFX",
+        "ShortName": "RN_FREDDY_00001_echoes.wav",
+        "Path": "SFX\\RN_FREDDY_00001_echoes_6C0B8373.wem"
+       },
+       {
+        "Id": "23486269",
+        "Language": "SFX",
+        "ShortName": "sfx_Cassie_slidesDownVentToVannyRoom_lp.wav",
+        "Path": "SFX\\sfx_Cassie_slidesDownVentToVannyRoom_lp_F585A561.wem"
+       },
+       {
+        "Id": "60513346",
+        "Language": "SFX",
+        "ShortName": "Chought_in_a_loop_RN.wav",
+        "Path": "SFX\\Chought_in_a_loop_RN_6C0B8373.wem"
+       },
+       {
+        "Id": "865387494",
+        "Language": "SFX",
+        "ShortName": "RN_ROXY_00027alt_echoes.wav",
+        "Path": "SFX\\RN_ROXY_00027alt_echoes_6C0B8373.wem"
+       },
+       {
+        "Id": "1053717058",
+        "Language": "SFX",
+        "ShortName": "sfx_Cassie_slidesDownVentToVannyRoom_head.wav",
+        "Path": "SFX\\sfx_Cassie_slidesDownVentToVannyRoom_head_73E79EE3.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "4118684129",
+        "Name": "AR_World",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\DoesNotPause Bus\\Effects\\AR_World",
+        "GUID": "{34712C77-5A43-4E93-BA3D-D5BC0852C10A}"
+       }
+      ]
+     },
+     {
+      "Id": "1282549895",
+      "Name": "Play_sfx_Cassie_slidesDownVentToVannyRoom_tail",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_sfx_Cassie_slidesDownVentToVannyRoom_tail",
+      "GUID": "{3244D0D0-4CB2-4D18-99F5-09F8B93733D1}",
+      "DurationType": "OneShot",
+      "DurationMin": "8.680136",
+      "DurationMax": "8.680136",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "618377012",
+        "Language": "SFX",
+        "ShortName": "sfx_Cassie_slidesDownVentToVannyRoom_tail.wav",
+        "Path": "SFX\\sfx_Cassie_slidesDownVentToVannyRoom_tail_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "247344695",
+      "Name": "Play_sfx_Cassie_slidesDownVentToVannyRoom_whoosh",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_sfx_Cassie_slidesDownVentToVannyRoom_whoosh",
+      "GUID": "{A593AB78-F376-410D-AA8D-17D9628AD72A}",
+      "MaxAttenuation": "4000.",
+      "DurationType": "OneShot",
+      "DurationMin": "9.193358",
+      "DurationMax": "10.192036",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "5783516",
+        "Language": "SFX",
+        "ShortName": "sfx_Cassie_slidesDownVentToVannyRoom_whoosh_02.wav",
+        "Path": "SFX\\sfx_Cassie_slidesDownVentToVannyRoom_whoosh_02_73E79EE3.wem"
+       },
+       {
+        "Id": "263089726",
+        "Language": "SFX",
+        "ShortName": "sfx_Cassie_slidesDownVentToVannyRoom_whoosh_01.wav",
+        "Path": "SFX\\sfx_Cassie_slidesDownVentToVannyRoom_whoosh_01_73E79EE3.wem"
+       },
+       {
+        "Id": "408572625",
+        "Language": "SFX",
+        "ShortName": "sfx_Cassie_slidesDownVentToVannyRoom_whoosh_03.wav",
+        "Path": "SFX\\sfx_Cassie_slidesDownVentToVannyRoom_whoosh_03_73E79EE3.wem"
+       },
+       {
+        "Id": "756428528",
+        "Language": "SFX",
+        "ShortName": "sfx_Cassie_slidesDownVentToVannyRoom_whoosh_04.wav",
+        "Path": "SFX\\sfx_Cassie_slidesDownVentToVannyRoom_whoosh_04_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3854861785",
+      "Name": "Play_sfx_Cassie_TakesARMaskFromBot",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_sfx_Cassie_TakesARMaskFromBot",
+      "GUID": "{59428A91-E12A-4134-85BE-3380951742B4}",
+      "DurationType": "OneShot",
+      "DurationMin": "3.533333",
+      "DurationMax": "3.533333",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "52597526",
+        "Language": "SFX",
+        "ShortName": "sfx_Cassie_TakesARMaskFromBot.wav",
+        "Path": "SFX\\sfx_Cassie_TakesARMaskFromBot_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1155075553",
+      "Name": "Play_sfx_Chica_cardboardBox_scratch",
+      "ObjectPath": "\\Events\\Chowda\\Characters\\Chica\\Play_sfx_Chica_cardboardBox_scratch",
+      "GUID": "{699229AC-EB75-44D3-93C0-E92864498433}",
+      "MaxAttenuation": "4000.",
+      "DurationType": "OneShot",
+      "DurationMin": "0.688209",
+      "DurationMax": "1.52551",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "698473048",
+        "Language": "SFX",
+        "ShortName": "chicaCupcake\\sfx_Chica_cardboardBox_scratch\\sfx_Chica_cardboardBox_scratch_04.wav",
+        "Path": "SFX\\chicaCupcake\\sfx_Chica_cardboardBox_scratch\\sfx_Chica_cardboardBox_scratch_04_73E79EE3.wem"
+       },
+       {
+        "Id": "826909069",
+        "Language": "SFX",
+        "ShortName": "chicaCupcake\\sfx_Chica_cardboardBox_scratch\\sfx_Chica_cardboardBox_scratch_01.wav",
+        "Path": "SFX\\chicaCupcake\\sfx_Chica_cardboardBox_scratch\\sfx_Chica_cardboardBox_scratch_01_73E79EE3.wem"
+       },
+       {
+        "Id": "873571075",
+        "Language": "SFX",
+        "ShortName": "chicaCupcake\\sfx_Chica_cardboardBox_scratch\\sfx_Chica_cardboardBox_scratch_03.wav",
+        "Path": "SFX\\chicaCupcake\\sfx_Chica_cardboardBox_scratch\\sfx_Chica_cardboardBox_scratch_03_73E79EE3.wem"
+       },
+       {
+        "Id": "1037632995",
+        "Language": "SFX",
+        "ShortName": "chicaCupcake\\sfx_Chica_cardboardBox_scratch\\sfx_Chica_cardboardBox_scratch_02.wav",
+        "Path": "SFX\\chicaCupcake\\sfx_Chica_cardboardBox_scratch\\sfx_Chica_cardboardBox_scratch_02_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "458717634",
+      "Name": "Play_sfx_chica_cupcake_eat",
+      "ObjectPath": "\\Events\\Chowda\\Characters\\Chica\\Play_sfx_chica_cupcake_eat",
+      "GUID": "{93D3F2AC-0D24-41F0-A4C3-1087D2CFAE5C}",
+      "MaxAttenuation": "3000.",
+      "DurationType": "OneShot",
+      "DurationMin": "0.7",
+      "DurationMax": "0.700045",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "143662011",
+        "Language": "SFX",
+        "ShortName": "chicaCupcake\\sfx_chica_cupcake_eat\\sfx_chica_cupcake_eat_01.wav",
+        "Path": "SFX\\chicaCupcake\\sfx_chica_cupcake_eat\\sfx_chica_cupcake_eat_01_73E79EE3.wem"
+       },
+       {
+        "Id": "380283307",
+        "Language": "SFX",
+        "ShortName": "chicaCupcake\\sfx_chica_cupcake_eat\\sfx_chica_cupcake_eat_06.wav",
+        "Path": "SFX\\chicaCupcake\\sfx_chica_cupcake_eat\\sfx_chica_cupcake_eat_06_73E79EE3.wem"
+       },
+       {
+        "Id": "507794320",
+        "Language": "SFX",
+        "ShortName": "chicaCupcake\\sfx_chica_cupcake_eat\\sfx_chica_cupcake_eat_02.wav",
+        "Path": "SFX\\chicaCupcake\\sfx_chica_cupcake_eat\\sfx_chica_cupcake_eat_02_73E79EE3.wem"
+       },
+       {
+        "Id": "578032839",
+        "Language": "SFX",
+        "ShortName": "chicaCupcake\\sfx_chica_cupcake_eat\\sfx_chica_cupcake_eat_05.wav",
+        "Path": "SFX\\chicaCupcake\\sfx_chica_cupcake_eat\\sfx_chica_cupcake_eat_05_73E79EE3.wem"
+       },
+       {
+        "Id": "651637168",
+        "Language": "SFX",
+        "ShortName": "chicaCupcake\\sfx_chica_cupcake_eat\\sfx_chica_cupcake_eat_03.wav",
+        "Path": "SFX\\chicaCupcake\\sfx_chica_cupcake_eat\\sfx_chica_cupcake_eat_03_73E79EE3.wem"
+       },
+       {
+        "Id": "1058139762",
+        "Language": "SFX",
+        "ShortName": "chicaCupcake\\sfx_chica_cupcake_eat\\sfx_chica_cupcake_eat_04.wav",
+        "Path": "SFX\\chicaCupcake\\sfx_chica_cupcake_eat\\sfx_chica_cupcake_eat_04_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "468574910",
+      "Name": "Play_sfx_chica_eat_lp",
+      "ObjectPath": "\\Events\\Chowda\\Characters\\Chica\\Play_sfx_chica_eat_lp",
+      "GUID": "{4CED7227-B6BF-4B8B-8D9C-CCAEC1EBB08C}",
+      "MaxAttenuation": "3000.",
+      "DurationType": "OneShot",
+      "DurationMin": "26.670816",
+      "DurationMax": "26.670816",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "1009165977",
+        "Language": "SFX",
+        "ShortName": "chicaCupcake\\sfx_chica_eat_lp.wav",
+        "Path": "SFX\\chicaCupcake\\sfx_chica_eat_lp_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "4162728544",
+      "Name": "Play_sfx_Chica_grab_cupcake",
+      "ObjectPath": "\\Events\\Chowda\\Characters\\Chica\\Play_sfx_Chica_grab_cupcake",
+      "GUID": "{FAA05C79-503E-4110-B968-73D97A3750AD}",
+      "MaxAttenuation": "3000.",
+      "DurationType": "OneShot",
+      "DurationMin": "0.391905",
+      "DurationMax": "0.416667",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "78409210",
+        "Language": "SFX",
+        "ShortName": "chicaCupcake\\sfx_Chica_grab_cupcake\\sfx_Chica_grab_cupcake_02.wav",
+        "Path": "SFX\\chicaCupcake\\sfx_Chica_grab_cupcake\\sfx_Chica_grab_cupcake_02_73E79EE3.wem"
+       },
+       {
+        "Id": "614955002",
+        "Language": "SFX",
+        "ShortName": "chicaCupcake\\sfx_Chica_grab_cupcake\\sfx_Chica_grab_cupcake_03.wav",
+        "Path": "SFX\\chicaCupcake\\sfx_Chica_grab_cupcake\\sfx_Chica_grab_cupcake_03_73E79EE3.wem"
+       },
+       {
+        "Id": "910804945",
+        "Language": "SFX",
+        "ShortName": "chicaCupcake\\sfx_Chica_grab_cupcake\\sfx_Chica_grab_cupcake_01.wav",
+        "Path": "SFX\\chicaCupcake\\sfx_Chica_grab_cupcake\\sfx_Chica_grab_cupcake_01_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "516065170",
+      "Name": "Play_sfx_fence_impact",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_sfx_fence_impact",
+      "GUID": "{D9266EBC-F5B3-4644-845D-6C315F7AA65C}",
+      "MaxAttenuation": "1500.",
+      "DurationType": "OneShot",
+      "DurationMin": "2.155692",
+      "DurationMax": "2.743674",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "116265974",
+        "Language": "SFX",
+        "ShortName": "sfx_fence_impact_02.wav",
+        "Path": "SFX\\sfx_fence_impact_02_73E79EE3.wem"
+       },
+       {
+        "Id": "197364937",
+        "Language": "SFX",
+        "ShortName": "sfx_fence_impact_03.wav",
+        "Path": "SFX\\sfx_fence_impact_03_73E79EE3.wem"
+       },
+       {
+        "Id": "202940294",
+        "Language": "SFX",
+        "ShortName": "sfx_fence_impact_06.wav",
+        "Path": "SFX\\sfx_fence_impact_06_73E79EE3.wem"
+       },
+       {
+        "Id": "250288722",
+        "Language": "SFX",
+        "ShortName": "sfx_fence_impact_04.wav",
+        "Path": "SFX\\sfx_fence_impact_04_73E79EE3.wem"
+       },
+       {
+        "Id": "296394016",
+        "Language": "SFX",
+        "ShortName": "sfx_fence_impact_01.wav",
+        "Path": "SFX\\sfx_fence_impact_01_73E79EE3.wem"
+       },
+       {
+        "Id": "830124016",
+        "Language": "SFX",
+        "ShortName": "sfx_fence_impact_05.wav",
+        "Path": "SFX\\sfx_fence_impact_05_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1254005194",
+      "Name": "Play_sfx_fence_rattle",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_sfx_fence_rattle",
+      "GUID": "{387EF785-BACB-4D69-A4BF-1ED4EF06A50A}",
+      "MaxAttenuation": "1500.",
+      "DurationType": "OneShot",
+      "DurationMin": "1.666667",
+      "DurationMax": "2.333333",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "14045373",
+        "Language": "SFX",
+        "ShortName": "sfx_fence_rattle_05.wav",
+        "Path": "SFX\\sfx_fence_rattle_05_73E79EE3.wem"
+       },
+       {
+        "Id": "121674632",
+        "Language": "SFX",
+        "ShortName": "sfx_fence_rattle_04.wav",
+        "Path": "SFX\\sfx_fence_rattle_04_73E79EE3.wem"
+       },
+       {
+        "Id": "355875591",
+        "Language": "SFX",
+        "ShortName": "sfx_fence_rattle_03.wav",
+        "Path": "SFX\\sfx_fence_rattle_03_73E79EE3.wem"
+       },
+       {
+        "Id": "628738596",
+        "Language": "SFX",
+        "ShortName": "sfx_fence_rattle_06.wav",
+        "Path": "SFX\\sfx_fence_rattle_06_73E79EE3.wem"
+       },
+       {
+        "Id": "1012677472",
+        "Language": "SFX",
+        "ShortName": "sfx_fence_rattle_01.wav",
+        "Path": "SFX\\sfx_fence_rattle_01_73E79EE3.wem"
+       },
+       {
+        "Id": "1039672326",
+        "Language": "SFX",
+        "ShortName": "sfx_fence_rattle_02.wav",
+        "Path": "SFX\\sfx_fence_rattle_02_73E79EE3.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "4118684129",
+        "Name": "AR_World",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\DoesNotPause Bus\\Effects\\AR_World",
+        "GUID": "{34712C77-5A43-4E93-BA3D-D5BC0852C10A}"
+       }
+      ]
+     },
+     {
+      "Id": "572994884",
+      "Name": "Play_sfx_fence_slide_long",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_sfx_fence_slide_long",
+      "GUID": "{45D3743B-4DA9-4D50-9007-44F6A53BEA57}",
+      "MaxAttenuation": "1500.",
+      "DurationType": "OneShot",
+      "DurationMin": "0.847007",
+      "DurationMax": "1.015261",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "172798600",
+        "Language": "SFX",
+        "ShortName": "sfx_fence_slide_long_05.wav",
+        "Path": "SFX\\sfx_fence_slide_long_05_73E79EE3.wem"
+       },
+       {
+        "Id": "191352909",
+        "Language": "SFX",
+        "ShortName": "sfx_fence_slide_long_06.wav",
+        "Path": "SFX\\sfx_fence_slide_long_06_73E79EE3.wem"
+       },
+       {
+        "Id": "241899419",
+        "Language": "SFX",
+        "ShortName": "sfx_fence_slide_long_02.wav",
+        "Path": "SFX\\sfx_fence_slide_long_02_73E79EE3.wem"
+       },
+       {
+        "Id": "715385513",
+        "Language": "SFX",
+        "ShortName": "sfx_fence_slide_long_01.wav",
+        "Path": "SFX\\sfx_fence_slide_long_01_73E79EE3.wem"
+       },
+       {
+        "Id": "925303008",
+        "Language": "SFX",
+        "ShortName": "sfx_fence_slide_long_03.wav",
+        "Path": "SFX\\sfx_fence_slide_long_03_73E79EE3.wem"
+       },
+       {
+        "Id": "1029068121",
+        "Language": "SFX",
+        "ShortName": "sfx_fence_slide_long_04.wav",
+        "Path": "SFX\\sfx_fence_slide_long_04_73E79EE3.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "4118684129",
+        "Name": "AR_World",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\DoesNotPause Bus\\Effects\\AR_World",
+        "GUID": "{34712C77-5A43-4E93-BA3D-D5BC0852C10A}"
+       }
+      ]
+     },
+     {
+      "Id": "1305342476",
+      "Name": "Play_sfx_fence_slide_short",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_sfx_fence_slide_short",
+      "GUID": "{86728658-F632-4BFC-8E62-D9C4B11F9EB3}",
+      "MaxAttenuation": "1500.",
+      "DurationType": "OneShot",
+      "DurationMin": "0.383855",
+      "DurationMax": "0.575419",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "60034886",
+        "Language": "SFX",
+        "ShortName": "sfx_fence_slide_short_04.wav",
+        "Path": "SFX\\sfx_fence_slide_short_04_73E79EE3.wem"
+       },
+       {
+        "Id": "163122984",
+        "Language": "SFX",
+        "ShortName": "sfx_fence_slide_short_01.wav",
+        "Path": "SFX\\sfx_fence_slide_short_01_73E79EE3.wem"
+       },
+       {
+        "Id": "306110770",
+        "Language": "SFX",
+        "ShortName": "sfx_fence_slide_short_02.wav",
+        "Path": "SFX\\sfx_fence_slide_short_02_73E79EE3.wem"
+       },
+       {
+        "Id": "390736635",
+        "Language": "SFX",
+        "ShortName": "sfx_fence_slide_short_06.wav",
+        "Path": "SFX\\sfx_fence_slide_short_06_73E79EE3.wem"
+       },
+       {
+        "Id": "526415128",
+        "Language": "SFX",
+        "ShortName": "sfx_fence_slide_short_03.wav",
+        "Path": "SFX\\sfx_fence_slide_short_03_73E79EE3.wem"
+       },
+       {
+        "Id": "629372089",
+        "Language": "SFX",
+        "ShortName": "sfx_fence_slide_short_05.wav",
+        "Path": "SFX\\sfx_fence_slide_short_05_73E79EE3.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "4118684129",
+        "Name": "AR_World",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\DoesNotPause Bus\\Effects\\AR_World",
+        "GUID": "{34712C77-5A43-4E93-BA3D-D5BC0852C10A}"
+       }
+      ]
+     },
+     {
+      "Id": "268844170",
+      "Name": "Play_sfx_ladder_fall",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_sfx_ladder_fall",
+      "GUID": "{E716030A-AF62-428D-9EA3-2DE4C8B34EF9}",
+      "MaxAttenuation": "4000.",
+      "DurationType": "OneShot",
+      "DurationMin": "4.05873",
+      "DurationMax": "4.05873",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "321254573",
+        "Language": "SFX",
+        "ShortName": "sfx_ladder_fall.wav",
+        "Path": "SFX\\sfx_ladder_fall_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1308063666",
+      "Name": "Play_sfx_Monty_climbing_rattle",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_sfx_Monty_climbing_rattle",
+      "GUID": "{3EC00066-30B8-4CEB-8362-479C9C7222BB}",
+      "MaxAttenuation": "4000.",
+      "DurationType": "OneShot",
+      "DurationMin": "1.311746",
+      "DurationMax": "1.826621",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "180032722",
+        "Language": "SFX",
+        "ShortName": "CassieBrieflySeesMonty\\CassieBrieflySeesMonty\\sfx_Monty_climbing_rattle_08.wav",
+        "Path": "SFX\\CassieBrieflySeesMonty\\CassieBrieflySeesMonty\\sfx_Monty_climbing_rattle_08_73E79EE3.wem"
+       },
+       {
+        "Id": "476441266",
+        "Language": "SFX",
+        "ShortName": "CassieBrieflySeesMonty\\CassieBrieflySeesMonty\\sfx_Monty_climbing_rattle_07.wav",
+        "Path": "SFX\\CassieBrieflySeesMonty\\CassieBrieflySeesMonty\\sfx_Monty_climbing_rattle_07_73E79EE3.wem"
+       },
+       {
+        "Id": "716223292",
+        "Language": "SFX",
+        "ShortName": "CassieBrieflySeesMonty\\CassieBrieflySeesMonty\\sfx_Monty_climbing_rattle_03.wav",
+        "Path": "SFX\\CassieBrieflySeesMonty\\CassieBrieflySeesMonty\\sfx_Monty_climbing_rattle_03_73E79EE3.wem"
+       },
+       {
+        "Id": "835338660",
+        "Language": "SFX",
+        "ShortName": "CassieBrieflySeesMonty\\CassieBrieflySeesMonty\\sfx_Monty_climbing_rattle_01.wav",
+        "Path": "SFX\\CassieBrieflySeesMonty\\CassieBrieflySeesMonty\\sfx_Monty_climbing_rattle_01_73E79EE3.wem"
+       },
+       {
+        "Id": "848397092",
+        "Language": "SFX",
+        "ShortName": "CassieBrieflySeesMonty\\CassieBrieflySeesMonty\\sfx_Monty_climbing_rattle_05.wav",
+        "Path": "SFX\\CassieBrieflySeesMonty\\CassieBrieflySeesMonty\\sfx_Monty_climbing_rattle_05_73E79EE3.wem"
+       },
+       {
+        "Id": "907203307",
+        "Language": "SFX",
+        "ShortName": "CassieBrieflySeesMonty\\CassieBrieflySeesMonty\\sfx_Monty_climbing_rattle_04.wav",
+        "Path": "SFX\\CassieBrieflySeesMonty\\CassieBrieflySeesMonty\\sfx_Monty_climbing_rattle_04_73E79EE3.wem"
+       },
+       {
+        "Id": "979736905",
+        "Language": "SFX",
+        "ShortName": "CassieBrieflySeesMonty\\CassieBrieflySeesMonty\\sfx_Monty_climbing_rattle_02.wav",
+        "Path": "SFX\\CassieBrieflySeesMonty\\CassieBrieflySeesMonty\\sfx_Monty_climbing_rattle_02_73E79EE3.wem"
+       },
+       {
+        "Id": "1064045816",
+        "Language": "SFX",
+        "ShortName": "CassieBrieflySeesMonty\\CassieBrieflySeesMonty\\sfx_Monty_climbing_rattle_06.wav",
+        "Path": "SFX\\CassieBrieflySeesMonty\\CassieBrieflySeesMonty\\sfx_Monty_climbing_rattle_06_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3911057753",
+      "Name": "Play_sfx_Monty_crawlingAway",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_sfx_Monty_crawlingAway",
+      "GUID": "{C1AE5B5C-0DD2-4834-A10D-CD1698D6DEE0}",
+      "MaxAttenuation": "4000.",
+      "DurationType": "OneShot",
+      "DurationMin": "7.337234",
+      "DurationMax": "7.337234",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "672192735",
+        "Language": "SFX",
+        "ShortName": "CassieBrieflySeesMonty\\CassieBrieflySeesMonty\\sfx_Monty_crawlingAway.wav",
+        "Path": "SFX\\CassieBrieflySeesMonty\\CassieBrieflySeesMonty\\sfx_Monty_crawlingAway_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1719673533",
+      "Name": "Play_sfx_monty_fence_chomp",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_sfx_monty_fence_chomp",
+      "GUID": "{88D06473-5A89-4153-A95F-E9445F2BDACB}",
+      "MaxAttenuation": "1500.",
+      "DurationType": "OneShot",
+      "DurationMin": "0.218934",
+      "DurationMax": "0.344785",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "59429671",
+        "Language": "SFX",
+        "ShortName": "sfx_monty_fence_chomp_04.wav",
+        "Path": "SFX\\sfx_monty_fence_chomp_04_73E79EE3.wem"
+       },
+       {
+        "Id": "93582849",
+        "Language": "SFX",
+        "ShortName": "sfx_monty_fence_chomp_01.wav",
+        "Path": "SFX\\sfx_monty_fence_chomp_01_73E79EE3.wem"
+       },
+       {
+        "Id": "134458740",
+        "Language": "SFX",
+        "ShortName": "sfx_monty_fence_chomp_02.wav",
+        "Path": "SFX\\sfx_monty_fence_chomp_02_73E79EE3.wem"
+       },
+       {
+        "Id": "392655747",
+        "Language": "SFX",
+        "ShortName": "sfx_monty_fence_chomp_05.wav",
+        "Path": "SFX\\sfx_monty_fence_chomp_05_73E79EE3.wem"
+       },
+       {
+        "Id": "489914672",
+        "Language": "SFX",
+        "ShortName": "sfx_monty_fence_chomp_03.wav",
+        "Path": "SFX\\sfx_monty_fence_chomp_03_73E79EE3.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "4118684129",
+        "Name": "AR_World",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\DoesNotPause Bus\\Effects\\AR_World",
+        "GUID": "{34712C77-5A43-4E93-BA3D-D5BC0852C10A}"
+       }
+      ]
+     },
+     {
+      "Id": "2893656914",
+      "Name": "Play_sfx_Monty_fence_handTouch",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_sfx_Monty_fence_handTouch",
+      "GUID": "{6EE16937-02FA-4FC6-8009-FC456B5B2986}",
+      "MaxAttenuation": "3000.",
+      "DurationType": "OneShot",
+      "DurationMin": "0.8",
+      "DurationMax": "0.966667",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "88910081",
+        "Language": "SFX",
+        "ShortName": "sfx_Monty_fence_handTouch_02.wav",
+        "Path": "SFX\\sfx_Monty_fence_handTouch_02_73E79EE3.wem"
+       },
+       {
+        "Id": "371275772",
+        "Language": "SFX",
+        "ShortName": "sfx_Monty_fence_handTouch_04.wav",
+        "Path": "SFX\\sfx_Monty_fence_handTouch_04_73E79EE3.wem"
+       },
+       {
+        "Id": "845049629",
+        "Language": "SFX",
+        "ShortName": "sfx_Monty_fence_handTouch_01.wav",
+        "Path": "SFX\\sfx_Monty_fence_handTouch_01_73E79EE3.wem"
+       },
+       {
+        "Id": "1019822691",
+        "Language": "SFX",
+        "ShortName": "sfx_Monty_fence_handTouch_03.wav",
+        "Path": "SFX\\sfx_Monty_fence_handTouch_03_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3203330374",
+      "Name": "Play_sfx_Roxy_forklift_drop",
+      "ObjectPath": "\\Events\\Chowda\\Characters\\Roxy\\Play_sfx_Roxy_forklift_drop",
+      "GUID": "{B29BEC80-7EE5-4922-8553-A590709FC4C7}",
+      "MaxAttenuation": "4000.",
+      "DurationType": "OneShot",
+      "DurationMin": "1.602404",
+      "DurationMax": "1.682404",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "135019639",
+        "Language": "SFX",
+        "ShortName": "sfx_Roxy_forklift_drop\\sfx_Roxy_forklift_drop_05.wav",
+        "Path": "SFX\\sfx_Roxy_forklift_drop\\sfx_Roxy_forklift_drop_05_73E79EE3.wem"
+       },
+       {
+        "Id": "175439015",
+        "Language": "SFX",
+        "ShortName": "sfx_Roxy_forklift_drop\\sfx_Roxy_forklift_drop_01.wav",
+        "Path": "SFX\\sfx_Roxy_forklift_drop\\sfx_Roxy_forklift_drop_01_73E79EE3.wem"
+       },
+       {
+        "Id": "373209312",
+        "Language": "SFX",
+        "ShortName": "sfx_Roxy_forklift_drop\\sfx_Roxy_forklift_drop_03.wav",
+        "Path": "SFX\\sfx_Roxy_forklift_drop\\sfx_Roxy_forklift_drop_03_73E79EE3.wem"
+       },
+       {
+        "Id": "486289355",
+        "Language": "SFX",
+        "ShortName": "sfx_Roxy_forklift_drop\\sfx_Roxy_forklift_drop_04.wav",
+        "Path": "SFX\\sfx_Roxy_forklift_drop\\sfx_Roxy_forklift_drop_04_73E79EE3.wem"
+       },
+       {
+        "Id": "993289137",
+        "Language": "SFX",
+        "ShortName": "sfx_Roxy_forklift_drop\\sfx_Roxy_forklift_drop_02.wav",
+        "Path": "SFX\\sfx_Roxy_forklift_drop\\sfx_Roxy_forklift_drop_02_73E79EE3.wem"
+       },
+       {
+        "Id": "1036304687",
+        "Language": "SFX",
+        "ShortName": "sfx_Roxy_forklift_drop\\sfx_Roxy_forklift_drop_06.wav",
+        "Path": "SFX\\sfx_Roxy_forklift_drop\\sfx_Roxy_forklift_drop_06_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3591471541",
+      "Name": "Play_sfx_Roxy_forklift_push",
+      "ObjectPath": "\\Events\\Chowda\\Characters\\Roxy\\Play_sfx_Roxy_forklift_push",
+      "GUID": "{92C4F462-639A-4113-9D99-EAFEDDD611EF}",
+      "MaxAttenuation": "4000.",
+      "DurationType": "OneShot",
+      "DurationMin": "1.038912",
+      "DurationMax": "1.232653",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "88022206",
+        "Language": "SFX",
+        "ShortName": "sfx_Roxy_forklift_push\\sfx_Roxy_forklift_push_05.wav",
+        "Path": "SFX\\sfx_Roxy_forklift_push\\sfx_Roxy_forklift_push_05_73E79EE3.wem"
+       },
+       {
+        "Id": "315668834",
+        "Language": "SFX",
+        "ShortName": "sfx_Roxy_forklift_push\\sfx_Roxy_forklift_push_02.wav",
+        "Path": "SFX\\sfx_Roxy_forklift_push\\sfx_Roxy_forklift_push_02_73E79EE3.wem"
+       },
+       {
+        "Id": "421122422",
+        "Language": "SFX",
+        "ShortName": "sfx_Roxy_forklift_push\\sfx_Roxy_forklift_push_01.wav",
+        "Path": "SFX\\sfx_Roxy_forklift_push\\sfx_Roxy_forklift_push_01_73E79EE3.wem"
+       },
+       {
+        "Id": "597210847",
+        "Language": "SFX",
+        "ShortName": "sfx_Roxy_forklift_push\\sfx_Roxy_forklift_push_06.wav",
+        "Path": "SFX\\sfx_Roxy_forklift_push\\sfx_Roxy_forklift_push_06_73E79EE3.wem"
+       },
+       {
+        "Id": "932147396",
+        "Language": "SFX",
+        "ShortName": "sfx_Roxy_forklift_push\\sfx_Roxy_forklift_push_03.wav",
+        "Path": "SFX\\sfx_Roxy_forklift_push\\sfx_Roxy_forklift_push_03_73E79EE3.wem"
+       },
+       {
+        "Id": "1016987275",
+        "Language": "SFX",
+        "ShortName": "sfx_Roxy_forklift_push\\sfx_Roxy_forklift_push_04.wav",
+        "Path": "SFX\\sfx_Roxy_forklift_push\\sfx_Roxy_forklift_push_04_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "472151671",
+      "Name": "Play_sfx_sting_Monty_CameraAttack",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_sfx_sting_Monty_CameraAttack",
+      "GUID": "{89DF9AB8-EFF1-461A-B6ED-F9BE9A39F16A}",
+      "DurationType": "OneShot",
+      "DurationMin": "5.783855",
+      "DurationMax": "5.783855",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "990621381",
+        "Language": "SFX",
+        "ShortName": "sfx_sting_Monty_CameraAttack.wav",
+        "Path": "SFX\\sfx_sting_Monty_CameraAttack_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2209051614",
+      "Name": "Play_sfx_sting_monty_doorSmash",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_sfx_sting_monty_doorSmash",
+      "GUID": "{1B59190B-90FC-4A45-B081-F58935CB6275}",
+      "DurationType": "OneShot",
+      "DurationMin": "3.421088",
+      "DurationMax": "3.421088",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "284795348",
+        "Language": "SFX",
+        "ShortName": "sfx_sting_monty_doorSmash.wav",
+        "Path": "SFX\\sfx_sting_monty_doorSmash_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1350352012",
+      "Name": "Play_sfx_sting_monty_fence_attack",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_sfx_sting_monty_fence_attack",
+      "GUID": "{4F76535A-D9A1-484E-B535-5B0B03154618}",
+      "DurationType": "OneShot",
+      "DurationMin": "5.2922",
+      "DurationMax": "5.2922",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "891302697",
+        "Language": "SFX",
+        "ShortName": "sfx_sting_monty_fence_attack.wav",
+        "Path": "SFX\\sfx_sting_monty_fence_attack_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "873636656",
+      "Name": "Play_sting_ATM_fall",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_sting_ATM_fall",
+      "GUID": "{7A73FD0B-5E36-44D6-8C79-FA605E394ABD}",
+      "DurationType": "OneShot",
+      "DurationMin": "10.883333",
+      "DurationMax": "10.883333",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "704795140",
+        "Language": "SFX",
+        "ShortName": "sting_ATM_fall.wav",
+        "Path": "SFX\\sting_ATM_fall_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "832789764",
+      "Name": "Play_sting_Chica_cupcake_grab",
+      "ObjectPath": "\\Events\\Chowda\\Characters\\Chica\\Play_sting_Chica_cupcake_grab",
+      "GUID": "{741419B9-57FC-4FE3-A79C-AB3D03B6EB85}",
+      "DurationType": "OneShot",
+      "DurationMin": "7.5",
+      "DurationMax": "7.5",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "424907461",
+        "Language": "SFX",
+        "ShortName": "sting_Chica_cupcake_grab.wav",
+        "Path": "SFX\\sting_Chica_cupcake_grab_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2423311107",
+      "Name": "Play_sting_Monty_crawls_away",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_sting_Monty_crawls_away",
+      "GUID": "{BF2D72F0-6AFA-49F6-AEA4-D61BC38A4E83}",
+      "DurationType": "OneShot",
+      "DurationMin": "10.857007",
+      "DurationMax": "10.857007",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "2003195",
+        "Language": "SFX",
+        "ShortName": "sting_Monty_crawls_away.wav",
+        "Path": "SFX\\sting_Monty_crawls_away_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3706781765",
+      "Name": "Play_sting_sunMan_resetMoonManNow",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_sting_sunMan_resetMoonManNow",
+      "GUID": "{22DDC106-BCD2-471C-8EB1-C19CA9ED80E2}",
+      "DurationType": "OneShot",
+      "DurationMin": "2.637914",
+      "DurationMax": "2.637914",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "263505016",
+        "Language": "SFX",
+        "ShortName": "sting_sunMan_resetMoonManNow.wav",
+        "Path": "SFX\\sting_sunMan_resetMoonManNow_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "422710515",
+      "Name": "Play_stinger_Chica_cupCake_fallingDebris",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_stinger_Chica_cupCake_fallingDebris",
+      "GUID": "{65982C20-04CC-4C95-8987-03ABAF91273C}",
+      "DurationType": "OneShot",
+      "DurationMin": "6.4",
+      "DurationMax": "6.4",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "1041219389",
+        "Language": "SFX",
+        "ShortName": "stinger_Chica_cupCake_fallingDebris.wav",
+        "Path": "SFX\\stinger_Chica_cupCake_fallingDebris_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1087148094",
+      "Name": "Play_stinger_Chica_stumblesThroughLookingForCassie",
+      "ObjectPath": "\\Events\\Chowda\\Cinematics\\Play_stinger_Chica_stumblesThroughLookingForCassie",
+      "GUID": "{AAB528C0-2A50-4120-BBF9-555DAD3DF2C4}",
+      "DurationType": "OneShot",
+      "DurationMin": "8.608095",
+      "DurationMax": "8.608095",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "600976879",
+        "Language": "SFX",
+        "ShortName": "stinger_Chica_stumblesThroughLookingForCassie.wav",
+        "Path": "SFX\\stinger_Chica_stumblesThroughLookingForCassie_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1042485551",
+      "Name": "Stop_cine_Cassie_confrontsMimicThenRoxySavesCassie_tension_lp",
+      "ObjectPath": "\\Events\\Default Work Unit\\Stop_cine_Cassie_confrontsMimicThenRoxySavesCassie_tension_lp",
+      "GUID": "{A88BFA6B-3EF4-4A4F-B4F6-2A7E42B23A07}",
+      "MaxAttenuation": "0.",
+      "DurationType": "OneShot",
+      "DurationMin": "0.",
+      "DurationMax": "0."
+     },
+     {
+      "Id": "561288986",
+      "Name": "Stop_fly_cassie_ladder_step",
+      "ObjectPath": "\\Events\\Chowda\\Characters\\Cassie\\Stop_fly_cassie_ladder_step",
+      "GUID": "{6CB1A2BC-0512-46F8-BFB1-242B51A36DD5}",
+      "MaxAttenuation": "0.",
+      "DurationType": "OneShot",
+      "DurationMin": "0.",
+      "DurationMax": "0."
+     },
+     {
+      "Id": "496739167",
+      "Name": "Stop_sfx_chica_cupcake_eat_lp",
+      "ObjectPath": "\\Events\\Chowda\\Characters\\Chica\\Stop_sfx_chica_cupcake_eat_lp",
+      "GUID": "{C8635D15-6FC8-497A-8867-F13EB3A66BE8}",
+      "MaxAttenuation": "0.",
+      "DurationType": "OneShot",
+      "DurationMin": "0.",
+      "DurationMax": "0."
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "183903552",
+      "Name": "occlusion",
+      "ObjectPath": "\\Game Parameters\\bind_to_parameters\\occlusion",
+      "GUID": "{8D5CD7F0-0D05-416B-83A8-C86EB18CF773}"
+     },
+     {
+      "Id": "541494466",
+      "Name": "spline_follow_speed",
+      "ObjectPath": "\\Game Parameters\\Chowda\\spline_follow_speed",
+      "GUID": "{914B8695-A2AE-4B72-AF2E-FBD48D9B7856}"
+     }
+    ]
+   }
+  ]
+ }
+}
