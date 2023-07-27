@@ -1,0 +1,67 @@
+Event	ID	Name			Wwise Object Path	Notes
+	16473353	Play_BB_Arcade			\Default Work Unit\Play_BB_Arcade	
+	24973165	Play_mus_mimicChase			\Default Work Unit\Play_mus_mimicChase	
+	211388725	Play_GG_ride_music			\Chowda\Play_GG_ride_music	
+	448467224	Play_BB_Arcade_down			\Default Work Unit\Play_BB_Arcade_down	
+	1282209685	Play_mus_Daycare_BrazilEnding			\Chowda\Play_mus_Daycare_BrazilEnding	
+	1352180005	Play_GG_swamp_music_small			\Chowda\Play_GG_swamp_music_small	
+	1591169870	Play_SALON_freddybossa			\Default Work Unit\Play_SALON_freddybossa	
+	1713570583	Stop_mus_mimicChase			\Default Work Unit\Stop_mus_mimicChase	
+	1773093885	Play_GG_swamp_music			\Chowda\Play_GG_swamp_music	
+	2319127288	Stop_mus_RoxyStrugglingUnderForklift_lp			\Chowda\Stop_mus_RoxyStrugglingUnderForklift_lp	
+	2373745143	Stop_mus_Daycare_BrazilEnding			\Chowda\Stop_mus_Daycare_BrazilEnding	
+	2474935784	Play_mus_A_DLC_CIN_MainLobby_Section_1_1a_FC1			\Chowda\Play_mus_A_DLC_CIN_MainLobby_Section_1_1a_FC1	
+	3814163962	Play_mus_RoxyStrugglingUnderForklift_lp			\Chowda\Play_mus_RoxyStrugglingUnderForklift_lp	
+	3934836955	Play_FB_LOBBY			\Default Work Unit\Play_FB_LOBBY	
+	4085050811	Play_BB_Arcade_up			\Default Work Unit\Play_BB_Arcade_up	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	4118684129	AR_World			\Chowda\AR_World	
+
+State	ID	Name	State Group			Notes
+	58138747	Active	AR_World			
+	748895195	None	AR_World			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	100044150	Active	AR_World	\Interactive Music Hierarchy\_Chowda\FB_LOBBY\SPACE_LOBBY_FINAL_PT1_INTRO_RN\SPACE_LOBBY_FINAL_PT1_INTRO_RN_AR		
+	378583537	Active	AR_World	\Interactive Music Hierarchy\_Chowda\SALON_freddybossa\SALON_freddybossa\New Music Track		
+	396332774	Active	AR_World	\Interactive Music Hierarchy\_Chowda\BB_Arcade\Arcade_Theme\ARCADE_THEME_LOOP_FINAL_RN_AR		
+	458082144	Active	AR_World	\Interactive Music Hierarchy\_Chowda\FB_LOBBY\SPACE_LOBBY_FINAL_PT1_LOOP_RN\AR		
+	505103576	Active	AR_World	\Interactive Music Hierarchy\_Chowda\FB_LOBBY\SPACE_LOBBY_FINAL_PT1_LOOP_RN\RW		
+	587293462	Active	AR_World	\Interactive Music Hierarchy\_Chowda\BB_Arcade\Arcade_Theme\ARCADE_THEME_LOOP_FINAL_RN_RW		
+	635947797	Active	AR_World	\Interactive Music Hierarchy\_Chowda\GG_Ride_music		
+	871733901	Active	AR_World	\Interactive Music Hierarchy\_Chowda\FB_LOBBY\SPACE_LOBBY_FINAL_PT1_INTRO_RN\RW		
+	881806005	Active	AR_World	\Interactive Music Hierarchy\_Chowda\GG_swamp_music_small		
+	898137595	Active	AR_World	\Interactive Music Hierarchy\_Chowda\SALON_freddybossa		
+	968507976	Active	AR_World	\Interactive Music Hierarchy\_Chowda\GG_swamp_music		
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	1401400211	mimic_chase_progress			\Chowda\mimic_chase_progress	
+
+Effect plug-ins	ID	Name	Type				Notes
+	769487737	Octave_Down (Custom)	Wwise Pitch Shifter			
+	3593642777	Room_Large_Tiled	Wwise RoomVerb			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	294445446	ARCADE_THEME_LOOP_FINAL_RN_AR	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\ARCADE_THEME_LOOP_FINAL_RN_AR_F585A561.wem		\Interactive Music Hierarchy\_Chowda\BB_Arcade\Arcade_Theme\ARCADE_THEME_LOOP_FINAL_RN_AR		8811336
+	355076721	mus_RoxyStrugglingUnderForklift_V4_1m36s	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\mus_RoxyStrugglingUnderForklift_V4_1m36s_F585A561.wem		\Interactive Music Hierarchy\_Chowda\mus_RoxyStrugglingUnderForklift_lp\mus_RoxyStrugglingUnderForklift V4 draft\mus_RoxyStrugglingUnderForklift_V4_1m36s		3888064
+	376321433	GOLF_SWAMP_A2_LOOP_DLC	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GOLF_SWAMP_A2_LOOP_DLC_F585A561.wem		\Interactive Music Hierarchy\_Chowda\GG_Ride_music\GOLF_SWAMP_A2_LOOP_DLC\GOLF_SWAMP_A2_LOOP_DLC		9804816
+	395199235	mus_A_DLC_CIN_MainLobby_Section_1_1a FC1	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\mus_A_DLC_CIN_MainLobby_Section_1_1a V2 FC1_F585A561.wem		\Interactive Music Hierarchy\_Chowda\mus_A_DLC_CIN_MainLobby_Section_1_1a FC1\mus_A_DLC_CIN_MainLobby_Section_1_1a FC1		994096
+	416198597	GOLF_SWAMP_A1_INTRO_GIFTSHOP_DLC	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GOLF_SWAMP_A1_INTRO_GIFTSHOP_DLC_F585A561.wem		\Interactive Music Hierarchy\_Chowda\GG_swamp_music_small\GOLF_SWAMP_A1_INTRO_DLC\GOLF_SWAMP_A1_INTRO_GIFTSHOP_DLC		1006128
+	599544357	New Music Track	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\Freddy_Main_Theme_Elevator_1_BOSSA_RN_F585A561.wem		\Interactive Music Hierarchy\_Chowda\SALON_freddybossa\SALON_freddybossa\New Music Track		8912640
+	798160115	GOLF_SWAMP_A1_INTRO_DLC	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GOLF_SWAMP_A1_INTRO_DLC_F585A561.wem		\Interactive Music Hierarchy\_Chowda\GG_swamp_music\GOLF_SWAMP_A1_INTRO_DLC\GOLF_SWAMP_A1_INTRO_DLC		821376
+	824794688	ARCADE_THEME_LOOP_FINAL_RN_RW	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\ARCADE_THEME_LOOP_FINAL_RN_RW_F585A561.wem		\Interactive Music Hierarchy\_Chowda\BB_Arcade\Arcade_Theme\ARCADE_THEME_LOOP_FINAL_RN_RW		8811336
+	1055790214	GOLF_SWAMP_A2_LOOP_GIFTSHOP_DLC	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GOLF_SWAMP_A2_LOOP_GIFTSHOP_DLC_F585A561.wem		\Interactive Music Hierarchy\_Chowda\GG_swamp_music_small\GOLF_SWAMP_A2_LOOP_DLC\GOLF_SWAMP_A2_LOOP_GIFTSHOP_DLC		9804960
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	2396519	RW	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\SPACE_LOBBY_FINAL_PT1_INTRO_RN_RW_F585A561.wem	2396519.wem	\Interactive Music Hierarchy\_Chowda\FB_LOBBY\SPACE_LOBBY_FINAL_PT1_INTRO_RN\RW	
+	18505594	DAYCARE - LOOP - FINAL	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\DAYCARE - LOOP - FINAL_F585A561.wem	18505594.wem	\Interactive Music Hierarchy\_Chowda\mus_Daycare_BrazilEnding\DAYCARE - LOOP - FINAL\DAYCARE - LOOP - FINAL	
+	142730410	RW	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\SPACE_LOBBY_FINAL_PT2_LOOP_RN_RW_F585A561.wem	142730410.wem	\Interactive Music Hierarchy\_Chowda\FB_LOBBY\SPACE_LOBBY_FINAL_PT1_LOOP_RN\RW	
+	169059685	int4	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\mus_mimicChase_int4_lp_F585A561.wem	169059685.wem	\Interactive Music Hierarchy\_Chowda\mus_mimicChase\mus_mimicChase_loop\int4	
+	181793940	int1	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\mus_mimicChase_int1_lp_F585A561.wem	181793940.wem	\Interactive Music Hierarchy\_Chowda\mus_mimicChase\mus_mimicChase_loop\int1	
+	276722048	int2	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\mus_mimicChase_int2_lp_F585A561.wem	276722048.wem	\Interactive Music Hierarchy\_Chowda\mus_mimicChase\mus_mimicChase_loop\int2	
+	384232742	int3	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\mus_mimicChase_int3_lp_F585A561.wem	384232742.wem	\Interactive Music Hierarchy\_Chowda\mus_mimicChase\mus_mimicChase_loop\int3	
+	408743566	SPACE_LOBBY_FINAL_PT1_INTRO_RN_AR	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\SPACE_LOBBY_FINAL_PT1_INTRO_RN_AR_F585A561.wem	408743566.wem	\Interactive Music Hierarchy\_Chowda\FB_LOBBY\SPACE_LOBBY_FINAL_PT1_INTRO_RN\SPACE_LOBBY_FINAL_PT1_INTRO_RN_AR	
+	521405815	AR	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\SPACE_LOBBY_FINAL_PT2_LOOP_RN_AR_F585A561.wem	521405815.wem	\Interactive Music Hierarchy\_Chowda\FB_LOBBY\SPACE_LOBBY_FINAL_PT1_LOOP_RN\AR	
+	773826310	mus_mimicChase_intro_8s	D:\ASITP\FNAF\Project\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\mus_mimicChase_intro_8s_F585A561.wem	773826310.wem	\Interactive Music Hierarchy\_Chowda\mus_mimicChase\mus_mimicChase_intro_8s\mus_mimicChase_intro_8s	
+
