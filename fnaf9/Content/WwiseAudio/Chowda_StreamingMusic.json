@@ -1,0 +1,382 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "140",
+  "RootPaths": {
+   "ProjectRoot": "D:\\ASITP\\FNAF\\Project\\fnaf9\\fnaf9_WwiseProject\\",
+   "SourceFilesRoot": "D:\\ASITP\\FNAF\\Project\\fnaf9\\fnaf9_WwiseProject\\.cache\\Windows\\",
+   "SoundBanksRoot": "D:\\ASITP\\FNAF\\Project\\fnaf9\\Content\\WwiseAudio\\Windows\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "D:\\ASITP\\FNAF\\Project\\fnaf9\\fnaf9_WwiseProject\\GeneratedSoundBanks\\Windows"
+  },
+  "SoundBanks": [
+   {
+    "Id": "3050502159",
+    "GUID": "{B5D2F80F-F80F-180F-0F0F-0F0F0F0F0F0F}",
+    "Language": "SFX",
+    "Hash": "2015954317",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Chowda_StreamingMusic",
+    "ShortName": "Chowda_StreamingMusic",
+    "Path": "Chowda_StreamingMusic.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "16473353",
+      "Name": "Play_BB_Arcade",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_BB_Arcade",
+      "GUID": "{EAC1E4A8-83F0-4682-955B-EECCE582DF4B}",
+      "MaxAttenuation": "2350.",
+      "DurationType": "Infinite",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "294445446",
+        "Language": "SFX",
+        "ShortName": "ARCADE_THEME_LOOP_FINAL_RN_AR.wav",
+        "Path": "SFX\\ARCADE_THEME_LOOP_FINAL_RN_AR_F585A561.wem"
+       },
+       {
+        "Id": "824794688",
+        "Language": "SFX",
+        "ShortName": "ARCADE_THEME_LOOP_FINAL_RN_RW.wav",
+        "Path": "SFX\\ARCADE_THEME_LOOP_FINAL_RN_RW_F585A561.wem"
+       }
+      ]
+     },
+     {
+      "Id": "448467224",
+      "Name": "Play_BB_Arcade_down",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_BB_Arcade_down",
+      "GUID": "{2C6655FF-DF82-4681-BAB7-7202835332E5}",
+      "MaxAttenuation": "0.",
+      "DurationType": "OneShot",
+      "DurationMin": "0.",
+      "DurationMax": "0."
+     },
+     {
+      "Id": "4085050811",
+      "Name": "Play_BB_Arcade_up",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_BB_Arcade_up",
+      "GUID": "{66FB07AC-A49F-4C6D-87E7-79FE2F8AD8A0}",
+      "MaxAttenuation": "0.",
+      "DurationType": "OneShot",
+      "DurationMin": "0.",
+      "DurationMax": "0."
+     },
+     {
+      "Id": "3934836955",
+      "Name": "Play_FB_LOBBY",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_FB_LOBBY",
+      "GUID": "{577FFCDA-9B0A-42CA-AC31-7C42805B2766}",
+      "MaxAttenuation": "2350.",
+      "DurationType": "Infinite",
+      "ReferencedStreamedFiles": [
+       {
+        "Id": "2396519",
+        "Language": "SFX",
+        "ShortName": "SPACE_LOBBY_FINAL_PT1_INTRO_RN_RW.wav",
+        "Path": "SFX\\SPACE_LOBBY_FINAL_PT1_INTRO_RN_RW_F585A561.wem"
+       },
+       {
+        "Id": "142730410",
+        "Language": "SFX",
+        "ShortName": "SPACE_LOBBY_FINAL_PT2_LOOP_RN_RW.wav",
+        "Path": "SFX\\SPACE_LOBBY_FINAL_PT2_LOOP_RN_RW_F585A561.wem"
+       },
+       {
+        "Id": "408743566",
+        "Language": "SFX",
+        "ShortName": "SPACE_LOBBY_FINAL_PT1_INTRO_RN_AR.wav",
+        "Path": "SFX\\SPACE_LOBBY_FINAL_PT1_INTRO_RN_AR_F585A561.wem"
+       },
+       {
+        "Id": "521405815",
+        "Language": "SFX",
+        "ShortName": "SPACE_LOBBY_FINAL_PT2_LOOP_RN_AR.wav",
+        "Path": "SFX\\SPACE_LOBBY_FINAL_PT2_LOOP_RN_AR_F585A561.wem"
+       }
+      ]
+     },
+     {
+      "Id": "211388725",
+      "Name": "Play_GG_ride_music",
+      "ObjectPath": "\\Events\\Chowda\\Play_GG_ride_music",
+      "GUID": "{FB9BE693-9C1E-4C9E-873E-A0D45EB777ED}",
+      "MaxAttenuation": "2500.",
+      "DurationType": "Infinite",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "376321433",
+        "Language": "SFX",
+        "ShortName": "GOLF_SWAMP_A2_LOOP_DLC.wav",
+        "Path": "SFX\\GOLF_SWAMP_A2_LOOP_DLC_F585A561.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "785966131",
+        "Name": "REV_Room_Tiled_Large",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\DoesNotPause Bus\\Reverbs\\REV_Room_Tiled_Large",
+        "GUID": "{98312720-E17A-4F74-ADD2-41CA3A3098A5}"
+       },
+       {
+        "Id": "2089533112",
+        "Name": "REV_SewerTunnels",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\DoesNotPause Bus\\Reverbs\\REV_SewerTunnels",
+        "GUID": "{42F592DE-4568-4D92-8A93-167F9A698990}"
+       },
+       {
+        "Id": "4118684129",
+        "Name": "AR_World",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\DoesNotPause Bus\\Effects\\AR_World",
+        "GUID": "{34712C77-5A43-4E93-BA3D-D5BC0852C10A}"
+       }
+      ]
+     },
+     {
+      "Id": "1773093885",
+      "Name": "Play_GG_swamp_music",
+      "ObjectPath": "\\Events\\Chowda\\Play_GG_swamp_music",
+      "GUID": "{5F692743-4FB0-4B80-B9F3-611FB244A6A3}",
+      "MaxAttenuation": "2500.",
+      "DurationType": "Infinite",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "376321433",
+        "Language": "SFX",
+        "ShortName": "GOLF_SWAMP_A2_LOOP_DLC.wav",
+        "Path": "SFX\\GOLF_SWAMP_A2_LOOP_DLC_F585A561.wem"
+       },
+       {
+        "Id": "798160115",
+        "Language": "SFX",
+        "ShortName": "GOLF_SWAMP_A1_INTRO_DLC.wav",
+        "Path": "SFX\\GOLF_SWAMP_A1_INTRO_DLC_F585A561.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "785966131",
+        "Name": "REV_Room_Tiled_Large",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\DoesNotPause Bus\\Reverbs\\REV_Room_Tiled_Large",
+        "GUID": "{98312720-E17A-4F74-ADD2-41CA3A3098A5}"
+       },
+       {
+        "Id": "2089533112",
+        "Name": "REV_SewerTunnels",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\DoesNotPause Bus\\Reverbs\\REV_SewerTunnels",
+        "GUID": "{42F592DE-4568-4D92-8A93-167F9A698990}"
+       },
+       {
+        "Id": "4118684129",
+        "Name": "AR_World",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\DoesNotPause Bus\\Effects\\AR_World",
+        "GUID": "{34712C77-5A43-4E93-BA3D-D5BC0852C10A}"
+       }
+      ]
+     },
+     {
+      "Id": "1352180005",
+      "Name": "Play_GG_swamp_music_small",
+      "ObjectPath": "\\Events\\Chowda\\Play_GG_swamp_music_small",
+      "GUID": "{7EBA816F-8A92-42C4-A709-BEFF6638A860}",
+      "MaxAttenuation": "1500.",
+      "DurationType": "Infinite",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "416198597",
+        "Language": "SFX",
+        "ShortName": "GOLF_SWAMP_A1_INTRO_GIFTSHOP_DLC.wav",
+        "Path": "SFX\\GOLF_SWAMP_A1_INTRO_GIFTSHOP_DLC_F585A561.wem"
+       },
+       {
+        "Id": "1055790214",
+        "Language": "SFX",
+        "ShortName": "GOLF_SWAMP_A2_LOOP_GIFTSHOP_DLC.wav",
+        "Path": "SFX\\GOLF_SWAMP_A2_LOOP_GIFTSHOP_DLC_F585A561.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "2089533112",
+        "Name": "REV_SewerTunnels",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\DoesNotPause Bus\\Reverbs\\REV_SewerTunnels",
+        "GUID": "{42F592DE-4568-4D92-8A93-167F9A698990}"
+       },
+       {
+        "Id": "4118684129",
+        "Name": "AR_World",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\DoesNotPause Bus\\Effects\\AR_World",
+        "GUID": "{34712C77-5A43-4E93-BA3D-D5BC0852C10A}"
+       }
+      ]
+     },
+     {
+      "Id": "2474935784",
+      "Name": "Play_mus_A_DLC_CIN_MainLobby_Section_1_1a_FC1",
+      "ObjectPath": "\\Events\\Chowda\\Play_mus_A_DLC_CIN_MainLobby_Section_1_1a_FC1",
+      "GUID": "{77C55B86-5BA6-4F09-87B9-6DC97EF193A0}",
+      "DurationType": "OneShot",
+      "DurationMin": "36.81525",
+      "DurationMax": "36.81525",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "395199235",
+        "Language": "SFX",
+        "ShortName": "mus_A_DLC_CIN_MainLobby_Section_1_1a V2 FC1.wav",
+        "Path": "SFX\\mus_A_DLC_CIN_MainLobby_Section_1_1a V2 FC1_F585A561.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "2308966851",
+        "Name": "REV_Room_Tiled_Huge",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\DoesNotPause Bus\\Reverbs\\REV_Room_Tiled_Huge",
+        "GUID": "{3A9A014C-C501-447D-BCC2-94CE55171076}"
+       }
+      ]
+     },
+     {
+      "Id": "1282209685",
+      "Name": "Play_mus_Daycare_BrazilEnding",
+      "ObjectPath": "\\Events\\Chowda\\Play_mus_Daycare_BrazilEnding",
+      "GUID": "{DBFA6D9B-9D78-4CBC-AC53-A4CC3F8894F9}",
+      "DurationType": "Infinite",
+      "ReferencedStreamedFiles": [
+       {
+        "Id": "18505594",
+        "Language": "SFX",
+        "ShortName": "DAYCARE - LOOP - FINAL.wav",
+        "Path": "SFX\\DAYCARE - LOOP - FINAL_F585A561.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "2308966851",
+        "Name": "REV_Room_Tiled_Huge",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\DoesNotPause Bus\\Reverbs\\REV_Room_Tiled_Huge",
+        "GUID": "{3A9A014C-C501-447D-BCC2-94CE55171076}"
+       }
+      ]
+     },
+     {
+      "Id": "24973165",
+      "Name": "Play_mus_mimicChase",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_mus_mimicChase",
+      "GUID": "{AED0DEE4-9B39-4ED3-964A-02E1E62E8200}",
+      "DurationType": "Infinite",
+      "ReferencedStreamedFiles": [
+       {
+        "Id": "169059685",
+        "Language": "SFX",
+        "ShortName": "mus_mimicChase_int4_lp.wav",
+        "Path": "SFX\\mus_mimicChase_int4_lp_F585A561.wem"
+       },
+       {
+        "Id": "181793940",
+        "Language": "SFX",
+        "ShortName": "mus_mimicChase_int1_lp.wav",
+        "Path": "SFX\\mus_mimicChase_int1_lp_F585A561.wem"
+       },
+       {
+        "Id": "276722048",
+        "Language": "SFX",
+        "ShortName": "mus_mimicChase_int2_lp.wav",
+        "Path": "SFX\\mus_mimicChase_int2_lp_F585A561.wem"
+       },
+       {
+        "Id": "384232742",
+        "Language": "SFX",
+        "ShortName": "mus_mimicChase_int3_lp.wav",
+        "Path": "SFX\\mus_mimicChase_int3_lp_F585A561.wem"
+       },
+       {
+        "Id": "773826310",
+        "Language": "SFX",
+        "ShortName": "mus_mimicChase_intro_8s.wav",
+        "Path": "SFX\\mus_mimicChase_intro_8s_F585A561.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3814163962",
+      "Name": "Play_mus_RoxyStrugglingUnderForklift_lp",
+      "ObjectPath": "\\Events\\Chowda\\Play_mus_RoxyStrugglingUnderForklift_lp",
+      "GUID": "{C7ABC0AD-E7F2-4137-B7C0-45E753E5AC63}",
+      "DurationType": "Infinite",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "355076721",
+        "Language": "SFX",
+        "ShortName": "mus_RoxyStrugglingUnderForklift_V4_1m36s.wav",
+        "Path": "SFX\\mus_RoxyStrugglingUnderForklift_V4_1m36s_F585A561.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1591169870",
+      "Name": "Play_SALON_freddybossa",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_SALON_freddybossa",
+      "GUID": "{ABFE2B89-0DD2-4742-BAD2-C71249D8D95B}",
+      "MaxAttenuation": "2800.",
+      "DurationType": "Infinite",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "599544357",
+        "Language": "SFX",
+        "ShortName": "Freddy_Main_Theme_Elevator_1_BOSSA_RN.wav",
+        "Path": "SFX\\Freddy_Main_Theme_Elevator_1_BOSSA_RN_F585A561.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "4118684129",
+        "Name": "AR_World",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\DoesNotPause Bus\\Effects\\AR_World",
+        "GUID": "{34712C77-5A43-4E93-BA3D-D5BC0852C10A}"
+       }
+      ]
+     },
+     {
+      "Id": "2373745143",
+      "Name": "Stop_mus_Daycare_BrazilEnding",
+      "ObjectPath": "\\Events\\Chowda\\Stop_mus_Daycare_BrazilEnding",
+      "GUID": "{BC3FE14E-D742-489B-8146-A12B04F33E56}",
+      "MaxAttenuation": "0.",
+      "DurationType": "OneShot",
+      "DurationMin": "0.",
+      "DurationMax": "0."
+     },
+     {
+      "Id": "1713570583",
+      "Name": "Stop_mus_mimicChase",
+      "ObjectPath": "\\Events\\Default Work Unit\\Stop_mus_mimicChase",
+      "GUID": "{34739034-7302-43AE-9AD4-313EA3285905}",
+      "MaxAttenuation": "0.",
+      "DurationType": "OneShot",
+      "DurationMin": "0.",
+      "DurationMax": "0."
+     },
+     {
+      "Id": "2319127288",
+      "Name": "Stop_mus_RoxyStrugglingUnderForklift_lp",
+      "ObjectPath": "\\Events\\Chowda\\Stop_mus_RoxyStrugglingUnderForklift_lp",
+      "GUID": "{E0D93446-696A-4614-9A36-5C11330ABE14}",
+      "MaxAttenuation": "0.",
+      "DurationType": "OneShot",
+      "DurationMin": "0.",
+      "DurationMax": "0."
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "1401400211",
+      "Name": "mimic_chase_progress",
+      "ObjectPath": "\\Game Parameters\\Chowda\\mimic_chase_progress",
+      "GUID": "{01F120F2-2D08-4FDF-8837-7BEC068EF311}"
+     }
+    ]
+   }
+  ]
+ }
+}
