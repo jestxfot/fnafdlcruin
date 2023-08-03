@@ -1,0 +1,39 @@
+[
+  {
+    "Type": "UserDefinedEnum",
+    "Name": "ChowdaEndings",
+    "Class": "UScriptClass'UserDefinedEnum'",
+    "Properties": {
+      "DisplayNameMap": [
+        {
+          "NewEnumerator0": {
+            "CultureInvariantString": "NeutralEnding"
+          }
+        },
+        {
+          "NewEnumerator1": {
+            "CultureInvariantString": "ScooperEnding"
+          }
+        },
+        {
+          "NewEnumerator2": {
+            "CultureInvariantString": "BrazilEnding"
+          }
+        },
+        {
+          "NewEnumerator3": {
+            "CultureInvariantString": "None"
+          }
+        }
+      ]
+    },
+    "Names": {
+      "ChowdaEndings::NewEnumerator0": 0,
+      "ChowdaEndings::NewEnumerator1": 1,
+      "ChowdaEndings::NewEnumerator2": 2,
+      "ChowdaEndings::NewEnumerator3": 3,
+      "ChowdaEndings::ChowdaEndings_MAX": 4
+    },
+    "CppForm": "Namespaced"
+  }
+]
