@@ -289,7 +289,6 @@
     "DLC_BlueprintsUI_OptionsControlsUI_GamepadHorizontalSBShortDesc": "Чувствительность перемещения мини-джойстика контроллера по горизонтали.",
     "DLC_BlueprintsUI_OptionsControlsUI_GamepadVerticalSBShortDesc": "Чувствительность перемещения мини-джойстика контроллера по вертикали.",
     "DLC_BP_CFF_UI_Shoot": "Стрельба",
-    "DLC_Blueprints_OptionsUI_ReticleShortDescription": "Отображать на экране прицел.",
     "DLC_Blueprints_OptionsUI_InstructionCardsShortDescription": "Отображать полноэкранные инструкции. Только для SB.",
     "DLC_Blueprints_OptionsUI_ShowHideSubtitles": "Показать или скрыть субтитры.",
     "DLC_UI_SecurityNodeParent_HelpyMsg2": "Проследи траекторию кабелей передачи входящих данных, чтобы найти дочерние узлы. Обрати внимание: узлы безопасности доступны только в AR-режиме.",
