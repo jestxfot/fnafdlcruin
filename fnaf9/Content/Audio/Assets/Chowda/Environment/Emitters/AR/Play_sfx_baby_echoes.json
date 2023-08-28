@@ -1,1 +1,36 @@
-
+[
+  {
+    "Type": "AkAssetPlatformData",
+    "Name": "AkAssetPlatformData_0",
+    "Outer": "Play_sfx_baby_echoes",
+    "Class": "UScriptClass'AkAssetPlatformData'"
+  },
+  {
+    "Type": "AkAudioEvent",
+    "Name": "Play_sfx_baby_echoes",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Properties": {
+      "RequiredBank": {
+        "ObjectName": "AkAudioBank'Chowda_Ambiences'",
+        "ObjectPath": "fnaf9/Content/Audio/ChowdaBanks/Chowda_Ambiences.1"
+      },
+      "PlatformAssetData": {
+        "ObjectName": "AkAssetPlatformData'Play_sfx_baby_echoes:AkAssetPlatformData_0'",
+        "ObjectPath": "fnaf9/Content/Audio/Assets/Chowda/Environment/Emitters/AR/Play_sfx_baby_echoes.0"
+      },
+      "ShortID": 2833069486
+    }
+  },
+  {
+    "Type": "AkAudioEventData",
+    "Name": "AkAudioEventData_2",
+    "Outer": "Play_sfx_baby_echoes",
+    "Class": "UScriptClass'AkAudioEventData'",
+    "Properties": {
+      "MaxAttenuationRadius": 3000.0,
+      "IsInfinite": true,
+      "MinimumDuration": 58.85766,
+      "MaximumDuration": 154.74907
+    }
+  }
+]
